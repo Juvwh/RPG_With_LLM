@@ -1,0 +1,22 @@
+{
+    "playerName": "Pikachu",
+    "playerAge": "5",
+    "playerRace": "Pokémon",
+    "playerClass": "Electrique",
+    "playerAdvantage": "Grande agilité, capacité à générer de puissantes décharges électriques, très loyal, excellent partenaire en combat.",
+    "playerDisadvantage": "Tendance à être impulsif et à se laisser emporter par ses émotions, parfois imprévisible, vulnérable contre certains types de Pokémon.",
+    "playerDescription": "Pikachu est un petit Pokémon de type électrique avec un corps jaune et des oreilles rouges. Il a des yeux noirs et une queue en forme de foudre.",
+    "playerResume": "Pikachu est un Pokémon électrique loyal et agile, mais il peut être impulsif et vulnérable contre certains types de Pokémon.",
+    "playerArme": "Électricité",
+    "playerArmePuissance": 2,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "",
+    "playerHealthNbr": 0,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": []
+}

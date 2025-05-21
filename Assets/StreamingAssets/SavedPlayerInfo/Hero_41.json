@@ -1,0 +1,23 @@
+{
+    "playerName": "Zoro",
+    "playerAge": "19",
+    "playerRace": "Humain",
+    "playerClass": "Guerrier",
+    "playerAdvantage": "Maîtrise du combat à trois épées (Santoryu), force physique surhumaine, grande résistance, discipline extrême, détermination et loyauté sans faille.",
+    "playerDisadvantage": "Manque d'orientation (très souvent perdu), caractère impulsif, très têtu, parfois aveuglé par sa quête pour devenir le meilleur sabreur du monde, manque de finesse dans certaines situations sociales.",
+    "playerDescription": "Roronoa Zoro, un homme musclé avec des cheveux verts en pics et une cicatrice marquante sous l'œil droit. Il porte une chemise sans manches verte, un pantalon noir, et est équipé de trois sabres : un à la taille, un dans la main droite et un autre dans la bouche. Il affiche une expression déterminée et sérieuse, prêt à combattre. L’arrière-plan peut être une scène de combat ou une mer calme, capturant sa quête pour devenir le meilleur sabreur du monde.",
+    "playerResume": "Zoro est un guerrier de 19 ans, humain, doté d'une maîtrise exceptionnelle du combat à trois épées, d'une force physique surhumaine et d'une grande résistance. Il est extrêmement discipliné, déterminé et loyal. Cependant, il souffre d'un manque d'orientation, est souvent impulsif et têtu, et peut manquer de finesse dans certaines situations sociales. Sa quête pour devenir le meilleur sabreur du monde peut parfois l'aveugler.",
+    "playerArme": "Trois sabres",
+    "playerArmePuissance": 2,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "",
+    "playerHealthNbr": 0,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": [],
+    "playerVision": 2
+}

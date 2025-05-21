@@ -1,0 +1,24 @@
+{
+    "playerName": "Zorgul",
+    "playerAge": "32",
+    "playerRace": "Nain",
+    "playerClass": "Guerrier",
+    "playerAdvantage": "Courageux, loyal, force physique impressionnante.",
+    "playerDisadvantage": "Impulsif, peu patient, peut être trop direct.",
+    "playerDescription": "Zorgul est un nain massif avec une barbe rousse épaisse et des sourcils noirs et épais. Il porte une armure en acier bien usée et un grand bouclier orné de runes. Ses yeux bleus pétillent d'une détermination inébranlable.",
+    "playerResume": "Zorgul est un guerrier nain courageux et loyal, mais son impulsivité et son manque de patience peuvent parfois être un frein.",
+    "playerArme": "Hache",
+    "playerArmePuissance": 1,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": {
+        "instanceID": 0
+    },
+    "playerHealth": "",
+    "playerHealthNbr": 0,
+    "playerActions": [],
+    "playerTags": [],
+    "playerVision": 0
+}

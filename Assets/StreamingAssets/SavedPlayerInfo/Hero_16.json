@@ -1,0 +1,22 @@
+{
+    "playerName": "Din Djarin",
+    "playerAge": "33",
+    "playerRace": "Humain",
+    "playerClass": "Chasseur de primes",
+    "playerAdvantage": "Expert en combat à distance et au corps à corps, armé d'une armure Mandalorienne résistante, tacticien, grande résilience, maîtrisant le maniement d'armes diverses.",
+    "playerDisadvantage": "Mystérieux, réservé, parfois trop solitaire et rigide dans ses principes, difficulté à faire confiance.",
+    "playerDescription": "Din Djarin porte l'armure Mandalorienne emblématique, faite de métal beskar, de couleur argentée et grise, qui couvre tout son corps, du casque aux pieds. Son casque, avec sa visière en forme de T, lui donne une allure imposante et impénétrable, et son armure est ornée de détails distinctifs, tels qu'une paume renforcée et des plaques en métal. Sous l'armure, ses traits restent inconnus, mais son air déterminé et son port de tête droit, digne, transforment sa silhouette en un guerrier inébranlable. Il porte également une ceinture utilitaire avec des munitions et des gadgets, avec une cape flottante qui ajoute à son mystère.",
+    "playerResume": "Din Djarin est un chasseur de primes humain de 33 ans, expert en combat à distance et au corps à corps, équipé d'une armure Mandalorienne résistante et tacticien. Il est également doté d'une grande résilience et maîtrise le maniement d'armes diverses. Cependant, il est mystérieux, réservé, parfois trop solitaire et rigide dans ses principes, ce qui peut rendre difficile la confiance en lui.",
+    "playerArme": "Blaster",
+    "playerArmePuissance": 2,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "",
+    "playerHealthNbr": 0,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": []
+}

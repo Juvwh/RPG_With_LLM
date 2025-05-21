@@ -1,0 +1,23 @@
+{
+    "playerName": "Hulk",
+    "playerAge": "40",
+    "playerRace": "Humain",
+    "playerClass": "Colosse",
+    "playerAdvantage": "Force surhumaine, résistance extrême, régénération rapide, puissance physique dévastatrice, capacité à détruire presque tout sur son passage.",
+    "playerDisadvantage": "Manque de contrôle sur sa transformation, émotions instables, parfois aveuglé par la colère, vulnérabilité à la perte de conscience de sa forme humaine.",
+    "playerDescription": "Hulk est un personnage massif, mesurant plus de deux mètres de hauteur, avec une peau verte et des muscles saillants. Ses yeux sont rouges et il a une bouche large avec des dents pointues. Il porte généralement un pantalon bleu déchiré et rien d'autre.",
+    "playerResume": "Hulk est un personnage extrêmement puissant, capable de détruire presque tout sur son passage grâce à sa force surhumaine et sa résistance extrême. Cependant, il a du mal à contrôler ses émotions et peut être aveuglé par la colère, ce qui peut le rendre dangereux pour lui-même et les autres.",
+    "playerArme": "Force brute",
+    "playerArmePuissance": 2,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "En forme, a encore toute sa vie.",
+    "playerHealthNbr": 100,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": [],
+    "playerVision" :  2
+}

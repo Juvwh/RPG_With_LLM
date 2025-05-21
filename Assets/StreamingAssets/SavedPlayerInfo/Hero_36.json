@@ -1,0 +1,23 @@
+{
+    "playerName": "Iron Man",
+    "playerAge": "40",
+    "playerRace": "Humain",
+    "playerClass": "Ingénieur",
+    "playerAdvantage": "Intelligence et génie en ingénierie, accès à des technologies avancées, capacités de vol et d’armement grâce à son armure, leadership et charisme.",
+    "playerDisadvantage": "Dépendance à la technologie, tendance à l’arrogance et au sarcasme, prises de risque parfois excessives, vulnérabilité humaine sans son armure.",
+    "playerDescription": "Tony Stark est un homme musclé et athlétique, avec des cheveux bruns et des yeux verts pénétrants. Il mesure environ 1,80 mètre et a un visage marqué par une forte mâchoire et une barbe de trois jours. Il porte généralement une armure haute technologie qui lui permet de voler et de se battre avec une grande efficacité.",
+    "playerResume": "Iron Man est un ingénieur de génie qui utilise sa technologie avancée pour se battre contre le crime. Bien qu'il soit arrogant et prenne parfois des risques excessifs, il est un leader charismatique et un atout pour n'importe quelle équipe. Sa dépendance à la technologie et sa vulnérabilité humaine sans son armure sont ses principales faiblesses.",
+    "playerArme": "Armure haute technologie (missiles)",
+    "playerArmePuissance": 2,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "En forme, a encore toute sa vie.",
+    "playerHealthNbr": 100,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": [],
+    "playerVision" :  2
+}

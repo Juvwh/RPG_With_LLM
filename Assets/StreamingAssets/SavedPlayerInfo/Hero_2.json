@@ -1,0 +1,23 @@
+{
+  "playerName": "Ragnar",
+  "playerAge": "50 ans",
+  "playerRace": "Humain",
+  "playerClass": "Paladin",
+  "playerAdvantage": "Force, Justice, Foi",
+  "playerDisadvantage": "Empathie, Discrétion",
+  "playerDescription": "Ragnar est un homme grand et musclé, il est rasé et possède une armure en or brillante. Il a de long cheveux blond. Il semble déterminé. Il porte une grande épée à son côté et un bouclier orné de l'emblème de son ordre.",
+  "playerResume": "Force physique, mais maladroit et peu discret.",
+  "playerArme": "Grande épée",
+  "playerArmePuissance": 2,
+  "playerSprite": {
+    "instanceID": 0
+  },
+  "playerInventaire": [],
+  "playerPosition": "",
+  "playerHealth": "En forme, a encore toute sa vie.",
+  "playerHealthNbr": 100,
+  "playerActions": [],
+  "playerAllHistory": "",
+  "playerTags": [],
+  "playerVision": 1
+}

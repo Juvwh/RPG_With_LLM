@@ -1,0 +1,23 @@
+{
+  "playerName": "Hermione",
+  "playerAge": "12",
+  "playerRace": "Humaine",
+  "playerClass": "Sorcière",
+  "playerAdvantage": "Intelligente, studieuse, déterminée",
+  "playerDisadvantage": "Peureuse, manque de confiance en elle",
+  "playerDescription": "Hermione est une fille de 12 ans, elle a des cheveux bruns et un peu bouclés. Elle porte une cape de sorcière de Hogwarts, Griffondor, et a toujours un livre à la main.",
+  "playerResume": "Hermione est une jeune sorcière intelligente et studieuse, mais qui manque de confiance en elle et est souvent peureuse.",
+  "playerArme": "Baguette magique",
+  "playerArmePuissance": 1,
+  "playerSprite": {
+    "instanceID": 0
+  },
+  "playerInventaire": [],
+  "playerPosition": "",
+  "playerHealth": "En forme, a encore toute sa vie.",
+  "playerHealthNbr": 100,
+  "playerActions": [],
+  "playerAllHistory": "",
+  "playerTags": [],
+  "playerVision": 2
+}

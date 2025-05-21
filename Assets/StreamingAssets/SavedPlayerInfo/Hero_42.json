@@ -1,0 +1,23 @@
+{
+    "playerName": "Nami",
+    "playerAge": "18",
+    "playerRace": "Humaine",
+    "playerClass": "Navigatrice",
+    "playerAdvantage": "Excellente navigatrice, intelligence stratégique, capacité à comprendre les cartes et les météorologies complexes, grande agilité et habileté au combat avec son bâton, astucieuse et habile en négociation.",
+    "playerDisadvantage": "Parfois perçue comme intéressée ou manipulatrice (notamment par l'argent), tendance à éviter les combats directs, manque de confiance en elle-même avant son développement personnel.",
+    "playerDescription": "Nami, une jeune femme élancée avec des cheveux orange vif, souvent attachés en queue de cheval. Elle porte un haut léger à motifs et un short court avec des sandales, et a une expression malicieuse et déterminée. Dans sa main, elle tient un bâton de navigation stylisé, le Climat-Tact. L'arrière-plan doit représenter un bateau pirate en mer ou un paysage côtier, mettant en valeur ses compétences en navigation et son esprit stratégique. De la tête au genoux.",
+    "playerResume": "Nami est une excellente navigatrice dotée d'une intelligence stratégique et d'une grande habileté au combat avec son bâton. Elle est astucieuse et habile en négociation. Cependant, elle est parfois perçue comme intéressée ou manipulatrice, tend à éviter les combats directs et manque de confiance en elle-même.",
+    "playerArme": "Climat-Tact",
+    "playerArmePuissance": 0,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "En forme, a encore toute sa vie.",
+    "playerHealthNbr": 100,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": [],
+    "playerVision": 2
+}

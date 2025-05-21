@@ -1,0 +1,23 @@
+{
+  "playerName": "Harry",
+  "playerAge": "12",
+  "playerRace": "Humain",
+  "playerClass": "Sorcier",
+  "playerAdvantage": "Intelligent, courageux, doté d'un grand sens de l'humour",
+  "playerDisadvantage": "Timide, manque de confiance en lui",
+  "playerDescription": "Harry Potter est un jeune sorcier aux cheveux noirs ébouriffés et aux yeux verts pénétrants. Il a un visage maigre et pâle, avec une cicatrice en forme d'éclair sur son front, souvenir de la malédiction que lui a jetée Lord Voldemort lorsqu'il était encore un bébé. Il est plutôt petit pour son âge, mais il a un air déterminé et courageux qui le rend plus mature que son âge ne le laisse paraître.",
+  "playerResume": "Harry Potter est un jeune sorcier intelligent et courageux, doté d'un grand sens de l'humour. Cependant, il est également timide et manque de confiance en lui.",
+  "playerArme": "Baguette magique",
+  "playerArmePuissance": 2,
+  "playerSprite": {
+    "instanceID": 0
+  },
+  "playerInventaire": [],
+  "playerPosition": "",
+  "playerHealth": "En forme, a encore toute sa vie.",
+  "playerHealthNbr": 100,
+  "playerActions": [],
+  "playerAllHistory": "",
+  "playerTags": [],
+  "playerVision": 2
+}

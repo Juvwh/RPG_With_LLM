@@ -1,0 +1,24 @@
+{
+    "playerName": "Elder",
+    "playerAge": "30",
+    "playerRace": "Humain",
+    "playerClass": "Guerrier",
+    "playerAdvantage": "Une grosse épée, courageux et loyal.",
+    "playerDisadvantage": "Un peu arrogant, manque de finesse tactique.",
+    "playerDescription": "Elder est un homme massif, avec des muscles saillants et une barbe courte et rousse. Il porte une armure simple mais solide et une grande épée qui semble presque aussi grande que lui. Ses yeux bleus sont perçants et son regard est souvent fixé droit devant lui, prêt à affronter n'importe quel danger.",
+    "playerResume": "Elder est un guerrier humain courageux et loyal, mais son arrogance et son manque de finesse tactique peuvent parfois le mettre en difficulté.",
+    "playerArme": "Grande épée",
+    "playerArmePuissance": 2,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": {
+        "instanceID": 0
+    },
+    "playerHealth": "",
+    "playerHealthNbr": 0,
+    "playerActions": [],
+    "playerTags": [],
+    "playerVision": 0
+}

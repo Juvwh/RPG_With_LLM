@@ -1,0 +1,22 @@
+{
+    "playerName": "Frodon",
+    "playerAge": "33",
+    "playerRace": "Hobbit",
+    "playerClass": "Héros",
+    "playerAdvantage": "Courage inattendu, grande résilience, loyauté inébranlable, intelligence stratégique.",
+    "playerDisadvantage": "Petite taille, physique fragile, parfois naïf et vulnérable émotionnellement.",
+    "playerDescription": "Frodon est un hobbit de petite taille, mesurant environ 1,2 mètre, avec des traits fins et un visage jeune marqué par la fatigue des aventures. Ses cheveux bruns, légèrement bouclés, sont courts et souvent en désordre, et ses yeux sont d'un bleu clair, pleins de curiosité et de compassion. Il porte une chemise beige, un gilet en laine gris foncé, et un manteau en toile marron avec une capuche qui le protège des intempéries. Son pantalon est en toile épaisse, parfaitement adapté pour la marche longue distance, et ses bottes de cuir sont robustes mais usées par les voyages. Autour de son cou, il porte l'Anneau, un bijou discret mais lourd de signification, toujours à portée de main, et son air souvent marqué par la tension de sa mission en fait un personnage à la fois fragile et héroïque.",
+    "playerResume": "Frodon est un hobbit courageux et résilient, avec une intelligence stratégique qui lui permet de surmonter les obstacles. Bien qu'il soit de petite taille et physiquement fragile, il est doté d'une loyauté inébranlable et d'une grande compassion. Cependant, il peut parfois être naïf et vulnérable émotionnellement.",
+    "playerArme": "Dague Elfique",
+    "playerArmePuissance": 1,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "",
+    "playerHealthNbr": 0,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": []
+}

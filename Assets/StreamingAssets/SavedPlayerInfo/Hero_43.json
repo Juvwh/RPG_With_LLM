@@ -1,0 +1,23 @@
+{
+    "playerName": "Usopp",
+    "playerAge": "18",
+    "playerRace": "Humain",
+    "playerClass": "Tireur d'élite",
+    "playerAdvantage": "Excellente précision avec les projectiles, inventivité, talent pour créer des gadgets ingénieux, capacité à se sortir de situations dangereuses grâce à son ingéniosité, courage sous pression malgré son côté peureux.",
+    "playerDisadvantage": "Manque de confiance en lui, tendance à fuir ou exagérer la réalité, faible en combat au corps-à-corps, se laisse facilement intimider par les adversaires plus puissants.",
+    "playerDescription": "Usopp, un jeune homme de taille moyenne avec des cheveux noirs et bouclés, un nez long distinctif et une petite cicatrice sous le menton. Il porte une chemise à manches longues, un short, et des sandales. Il a une ceinture d'outils autour de la taille et un sac contenant des projectiles. Son expression est espiègle mais légèrement anxieuse, prêt à utiliser son talent de tireur d'élite. L’arrière-plan peut être un environnement de bateau pirate ou un atelier d'inventions, illustrant ses talents et son esprit inventif.",
+    "playerResume": "Usopp est un tireur d'élite de 18 ans avec une excellente précision et un talent pour créer des gadgets ingénieux. Courageux sous pression malgré son manque de confiance en lui, il peut se sortir de situations dangereuses grâce à son ingéniosité. Cependant, il tend à fuir ou exagérer la réalité, est faible en combat au corps-à-corps et se laisse facilement intimider par les adversaires plus puissants.",
+    "playerArme": "Lance-pierre",
+    "playerArmePuissance": 0,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "",
+    "playerHealthNbr": 0,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": [],
+    "playerVision": 2
+}

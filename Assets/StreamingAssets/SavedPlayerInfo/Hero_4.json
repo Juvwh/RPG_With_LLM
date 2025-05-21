@@ -1,0 +1,14 @@
+{
+  "playerName": "Razorg",
+  "playerAge": "60 ans",
+  "playerRace": "Halfelin",
+  "playerClass": "Voleur",
+  "playerAdvantage": "Agilité, Discrétion, Perception",
+  "playerDisadvantage": "Force, Taille, Magie",
+  "playerDescription": "Razorg est un halfelin qui a passé la majeure partie de sa vie à voler pour survivre dans les rues de la grande ville de Waterdeep. Il a appris à se déplacer silencieusement et à éviter les regards des gardes et des citoyens honnêtes. Il est devenu un voleur aguerri, capable de s'infiltrer dans les lieux les plus gardés et de sortir avec un butin précieux. Malgré sa vie de criminel, Razorg a un code d'honneur et ne vole que les riches et les corrompus.",
+  "playerResume": "Voleur, fort en magie, grande perception, mais petite taille et peu de force physique.",
+  "playerArme": "Dague",
+  "playerArmePuissance": 0,
+  "playerVision": 2,
+  "playerHealth": "En forme, a encore toute sa vie."
+}

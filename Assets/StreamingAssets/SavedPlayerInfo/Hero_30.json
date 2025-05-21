@@ -1,0 +1,22 @@
+{
+    "playerName": "Jon",
+    "playerAge": "25",
+    "playerRace": "Humain",
+    "playerClass": "Guerrier",
+    "playerAdvantage": "Maîtrise de l'épée, grande bravoure, capacité à inspirer ses alliés, intégrité et sens profond de la justice.",
+    "playerDisadvantage": "Parfois trop rigide dans ses principes, tendance à prendre des décisions risquées, difficultés à s'adapter à la politique complexe.",
+    "playerDescription": "Jon Snow est un homme au regard intense, souvent pensif, avec des traits marqués par les épreuves. Il a des cheveux noirs mi-longs, légèrement ondulés, qui encadrent son visage et soulignent ses yeux sombres et déterminés. Sa barbe, courte mais bien fournie, ajoute à son allure de guerrier. Il porte une épaisse armure de cuir noir avec des protections en fourrure, conçue pour résister aux rudes conditions du Nord. Un manteau noir en peau d’ours est drapé sur ses épaules, symbole de son lien avec la Garde de Nuit. Il tient dans sa main une épée longue en acier valyrien, Longclaw, dont la garde en tête de loup blanc reflète son héritage Stark et sa loyauté inébranlable.",
+    "playerResume": "Jon est un guerrier humain de 25 ans, maître de l'épée, brave et capable d'inspirer ses alliés. Doté d'une intégrité et d'un sens profond de la justice, il peut parfois être trop rigide dans ses principes et prendre des décisions risquées. Il a du mal à s'adapter à la politique complexe.",
+    "playerArme": "Longclaw",
+    "playerArmePuissance": 2,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "En forme, a encore toute sa vie.",
+    "playerHealthNbr": 100,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": []
+}

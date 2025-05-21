@@ -1,0 +1,1240 @@
+{
+  "canvas_langue_title": {
+    "fr": "Choix de la langue",
+    "en": "Select language"
+  },
+  "canvas_langue_description": {
+    "fr": "Il sera toujours possible de la modifier plus tard.",
+    "en": "You can always change it later."
+  },
+  "canvas_langue_button": {
+    "fr": "Valider",
+    "en": "Confirm"
+  },
+  "canvas_rgpd_title": {
+    "fr": "BIENVENUE!",
+    "en": "WELCOME!"
+  },
+  "canvas_rgpd_description": {
+    "fr": "En utilisant cette application, vous acceptez que vos interactions (prompts saisis et réponses générées) soient enregistrées à des fins d'analyse dans le cadre d'une étude universitaire. Ces données nous permettent d'évaluer les performances de l'intelligence artificielle dans un contexte de jeu de rôle.\r\n\r\nNe saisissez aucune donnée sensible (ex. informations personnelles, mots de passe, etc.).\r\n\r\nToutes les données collectées seront utilisées uniquement pour cette étude et seront supprimées sous 100 jours.\r\n\r\nMerci pour votre participation ! 😊",
+    "en": "By using this application, you agree to your interactions (prompts entered and responses generated) being recorded for analysis purposes as part of an academic study. This data will enable us to evaluate the performance of artificial intelligence in a role-playing context.\r\n\r\nDo not enter any sensitive data (e.g. personal information, passwords, etc.).\r\n\r\nAll data collected will be used solely for this study and will be deleted within 100 days.\r\n\r\nThank you for your participation ! 😊"
+
+  },
+  "canvas_rgpd_button_quitter": {
+    "fr": "Compris! Trop hâte d'essayer!",
+    "en": "Got it! Can't wait to try it!"
+  },
+  "canvas_credit_title": {
+    "fr": "Crédit",
+    "en": "Credit"
+  },
+  "canvas_credit_description": {
+    "fr": "Cette application a été réalisée dans le cadre du mémoire universitaire suivant : \r\n\r\nLarge Language Models as RPG Game Masters: A Comparative Analysis on Performance and Player Experience.\r\n\r\nJustin Vanwichelen\r\nGaetan Berlaimont",
+    "en": "This application was developed as part of the following university thesis: \r\n\r\nLarge Language Models as RPG Game Masters: A Comparative Analysis on Performance and Player Experience.\r\n\r\nJustin Vanwichelen\r\nGaetan Berlaimont"
+  },
+  "canvas_credit_button_quitter": {
+    "fr": "Ok top! Je retiendrai ces infos.",
+    "en": "Ok top! I'll keep this information in mind."
+  },
+  "canvas_tests_title": {
+    "fr": "Tests spécifiques",
+    "en": "Specific tests"
+  },
+  "canvas_tests_descriptions": {
+    "fr": "Testez uniquement des phases du jeu spécifiques : ",
+    "en": "Test only specific phases of the game: "
+  },
+  "canvas_tests_button_combat": {
+    "fr": "Tester un combat",
+    "en": "Test a fight"
+  },
+  "canvas_tests_button_exploration": {
+    "fr": "Tester l'exploration",
+    "en": "Test exploration"
+  },
+  "canvas_tests_button_boss": {
+    "fr": "Tester un combat de boss",
+    "en": "Test a boss fight"
+  },
+  "canvas_questionnaire_questionnaire_title": {
+    "fr": "Questionnaires",
+    "en": "Questionnaires"
+  },
+  "canvas_questionnaire_questionnaire_description": {
+    "fr": "Ton ressenti compte ÉNORMÉMENT pour la suite de notre projet (et notre diplôme). C'est grâce à tes impressions qu'on pourra analyser ce jeu et écrire des résultats concrets.",
+    "en": "Your feedback is VERY important for the rest of our project (and our diploma). It's thanks to your impressions that we'll be able to analyse this game and write up concrete results."
+  },
+  "canvas_questionnaire_description_principal": {
+    "fr": "Si tu n'as pas beaucoup de temps, s'il te plaît, rempli au moins celui-ci, ça nous aide énormément.",
+    "en": "If you don't have a lot of time, please fill this one out at least, it helps us enormously."
+  },
+  "canvas_questionnaire_description_supplementaire": {
+    "fr": "Si tu veux nous aider jusqu'au bout et avoir notre reconnaissance éternel, tu peux remplir ces questionnaires supplémentaires :D",
+    "en": "If you want to help us all the way and have our eternal gratitude, you can fill in these additional questionnaires :D"
+  },
+  "canvas_questionnaire_button_principal": {
+    "fr": "Questionnaire Principal",
+    "en": "Main questionnaire"
+  },
+  "canvas_questionnaire_button_combat": {
+    "fr": "Questionnaire Combat",
+    "en": "Combat questionnaire"
+  },
+  "canvas_questionnaire_button_narration": {
+    "fr": "Questionnaire Narration",
+    "en": "Questionnaire Narration"
+  },
+  "canvas_questionnaire_button_supplie_moi": {
+    "fr": "Supplie moi encore",
+    "en": "Beg me again"
+  },
+  "canvas_questionnaire_ia_title": {
+    "fr": "Voici une IA qui te supplie\nde remplir les questionnaires",
+    "en": "Here's an AI begging you to fill in the questionnaires"
+  },
+  "canvas_questionnaire_ia_textgenere": {
+    "fr": "Ton ressenti compte ÉNORMÉMENT pour la suite de notre projet (et notre diplôme). C'est grâce à tes impressions qu'on pourra analyser ce jeu et écrire des résultats concrets.",
+    "en": "Your feedback is VERY important for the rest of our project (and our diploma). It's thanks to your impressions that we'll be able to analyse this game and write up concrete results."
+  },
+  "canvas_panneau_explication_supp_lancer": {
+    "fr": "Le mode principal, où tu choisis ton thème, tes personnages, ton intrigue et ton IA. (Recommandé)",
+    "en": "The main mode, where you choose your theme, characters, plot and AI (Recommended)"
+  },
+  "canvas_panneau_explication_supp_partie_rapide": {
+    "fr": "Lance une partie rapide, où l'on choisit pour toi le thème, les personnages et l'intrigue.",
+    "en": "Start a quick game, where we choose the theme, characters and plot for you."
+  },
+  "canvas_choix_llm_title": {
+    "fr": "Choisis ton LLM",
+    "en": "Choose your LLM"
+  },
+
+  "canvas_choix_llm_description_1": {
+    "fr": "L'IA qui va générer ton histoire\n(Tu pourras toujours la changer après)",
+    "en": "The AI that will generate your story\n(You can always change it later)"
+  },
+  "canvas_choix_llm_vitesse": {
+    "fr": "Vitesse",
+    "en": "Speed"
+  },
+  "canvas_choix_llm_intelligence": {
+    "fr": "Intelligence",
+    "en": "Intelligence"
+  },
+  "canvas_theme_selectionner_title": {
+    "fr": "Sélectionner un thème",
+    "en": "Select a theme"
+  },
+  "canvas_createtheme_title": {
+    "fr": "Décris le thème de tes rêves",
+    "en": "Describe your dream theme"
+  },
+  "canvas_createtheme_description_1": {
+    "fr": "(l'environnement, l'époque, le genre littéraire, ...)",
+    "en": "(environment, period, literary genre, ...)"
+  },
+  "canvas_createtheme_description_2": {
+    "fr": "N'indique pas encore les personnages, cela viendra après.",
+    "en": "Don't indicate the characters yet, that will come later."
+  },
+  "canvas_createtheme_input_placeholder": {
+    "fr": "Entre le texte ici...",
+    "en": "Enter text here..."
+  },
+  "canvas_createtheme_button_retour": {
+    "fr": "Retour",
+    "en": "Back"
+  },
+  "canvas_createtheme_button_continuer": {
+    "fr": "Continuer",
+    "en": "Next"
+  },
+  "canvas_createtheme_text_incoherence": {
+    "fr": "Ton texte semble incohérent, réessaie en le modifiant :",
+    "en": "Your text seems incoherent, try again and modify it :"
+  },
+  "canvas_4_characters_button_choixtheme": {
+    "fr": "Choix Thème",
+    "en": "Theme selection"
+  },
+  "canvas_4_characters_button_commencer": {
+    "fr": "Commencer",
+    "en": "Start"
+  },
+  "canvas_4_characters_button_modifier": {
+    "fr": "Modifier",
+    "en": "Edit"
+  },
+  "canvas_edit_characters_button_nouveauPerso": {
+    "fr": "Nouveau personnage",
+    "en": "New character"
+  },
+  "canvas_edit_characters_cadre_name_title": {
+    "fr": "Nom :",
+    "en": "Name :"
+  },
+  "canvas_edit_characters_cadre_name_placeholder": {
+    "fr": "Entrer un nom",
+    "en": "Enter a name"
+  },
+  "canvas_edit_characters_cadre_age_title": {
+    "fr": "Age :",
+    "en": "Age :"
+  },
+  "canvas_edit_characters_cadre_age_placeholder": {
+    "fr": "Entrer âge",
+    "en": "Enter age"
+  },
+  "canvas_edit_characters_cadre_race_title": {
+    "fr": "Race :",
+    "en": "Race :"
+  },
+  "canvas_edit_characters_cadre_race_placeholder": {
+    "fr": "Entrer race",
+    "en": "Enter race :"
+  },
+  "canvas_edit_characters_cadre_classe_title": {
+    "fr": "Classe :",
+    "en": "Class :"
+  },
+  "canvas_edit_characters_cadre_classe_placeholder": {
+    "fr": "Entrer classe :",
+    "en": "Enter class"
+  },
+  "canvas_edit_characters_cadre_atouts_title": {
+    "fr": "Atouts :",
+    "en": "Strengths :"
+  },
+  "canvas_edit_characters_cadre_atouts_placeholder": {
+    "fr": "Entrer atouts",
+    "en": "Enter strengths"
+  },
+  "canvas_edit_characters_cadre_handicaps_title": {
+    "fr": "Handicaps :",
+    "en": "Handicaps :"
+  },
+  "canvas_edit_characters_cadre_handicaps_placeholder": {
+    "fr": "Entrer handicaps",
+    "en": "Enter handicaps"
+  },
+  "canvas_edit_characters_cadre_description_title": {
+    "fr": "Description Physique :",
+    "en": "Physical Description:"
+  },
+  "canvas_edit_characters_cadre_description_placeholder": {
+    "fr": "Entrer description physique",
+    "en": "Enter physical description:"
+  },
+  "canvas_edit_characters_button_generer": {
+    "fr": "Générer",
+    "en": "Generate"
+  },
+  "canvas_edit_characters_button_enregistrer": {
+    "fr": "Enregistrer",
+    "en": "Save"
+  },
+  "canvas_edit_llm_confirm": {
+    "fr": "Confirmer",
+    "en": "Confirm"
+  },
+  "canvas_button_change_ia": {
+    "fr": "Changer\nd'IA",
+    "en": "Change\nAI"
+  },
+  "inventaire_explications_potion_soin": {
+    "fr": "Potion de soins : restitue toute la santé du personnage.",
+    "en": "Healing potion: restores the character's full health."
+  },
+  "inventaire_explications_potion_attaque": {
+    "fr": "Potion d'attaque : Augmente le dé d'attaque de 2.",
+    "en": "Attack potion: increases attack die by 2."
+  },
+  "inventaire_explications_potion_armure": {
+    "fr": "Potion d'armure : Procure une protection robuste contre les attaques physiques.",
+    "en": "Armor Potion: Provides robust protection against physical attacks."
+  },
+  "inventaire_explications_argent": {
+    "fr": "Des pièces, permettent de corrompre des ennemis.",
+    "en": "Coins can be used to bribe enemies."
+  },
+  "inventaire_explications_chaussure": {
+    "fr": "Chaussures robustes : Permet de se déplacer directement vers un lieu connu.",
+    "en": "Sturdy shoes: Allows you to move directly to a known location."
+  },
+  "inventaire_explications_lunettes": {
+    "fr": "Lunettes hyper cool : permettent d'élargie la vision de +1 case.",
+    "en": "Super-cool goggles: expand vision by +1 square."
+  },
+  "inventaire_explications_boussole": {
+    "fr": "Boussole : localise sur la carte la porte de la salle.",
+    "en": "Compass: locates the room door on the map."
+  },
+  "inventaire_explications_key": {
+    "fr": "Clé en or : permet de dévérouiller les portes cadenassées.",
+    "en": "Gold key: unlocks padlocked doors."
+  },
+  "canvas_character_character_sante": {
+    "fr": "Santé :",
+    "en": "Health:"
+  },
+  "canvas_character_character_armure": {
+    "fr": "Armure :",
+    "en": "Armor  :"
+  },
+  "canvas_character_character_arme": {
+    "fr": "Arme :",
+    "en": "Arm :"
+  },
+  "canvas_character_character_precision": {
+    "fr": "Précision :",
+    "en": "Accuracy  :"
+  },
+  "canvas_character_character_vision": {
+    "fr": "Vision :",
+    "en": "Vision :"
+  },
+  "canvas_character_character_deplacement": {
+    "fr": "Déplacement : ",
+    "en": "Moving  :"
+  },
+  "canvas_buttons_button_regenerer": {
+    "fr": "Générer une autre campagne",
+    "en": "Generate another campaign"
+  },
+  "canvas_buttons_button_commencer": {
+    "fr": "Commencer!",
+    "en": "Start !"
+  },
+  "canvas_buttons_button_continuer": {
+    "fr": "Continuer",
+    "en": "Next"
+  },
+  "canvas_buttons_envoyer_explicationsupp": {
+    "fr": "Tu dois d'abord avoir dépacé au moins un membre du groupe pour envoyer.",
+    "en": "You must first have moved at least one group member to send."
+  },
+  "canvas_buttons_prompt_placeholder": {
+    "fr": "Que veux-tu faire? (Laisse vide et l' IA choisira pour toi)",
+    "en": "What do you want to do? (Leave blank and the AI will choose for you)"
+  },
+  "canvas_buttons_prompt_texte_incoherent": {
+    "fr": "Ta réponse est étrange, écris une réponse plus cohérente :",
+    "en": "Your answer is strange, write a more coherent answer :"
+  },
+  "canvas_findetests_description": {
+    "fr": "Fin du test spécifique.",
+    "en": "End of specific test."
+  },
+  "canvas_fin_boutton_attends": {
+    "fr": "Attends ce n'est pas fini!",
+    "en": "Wait, there's more!"
+  },
+  "canvas_option_texte_option": {
+    "fr": "Texte",
+    "en": "Text"
+  },
+  "canvas_dice_button_lancer": {
+    "fr": "Lancer le dé",
+    "en": "Roll the die"
+  },
+  "canvas_dice_resultat_du_lancer": {
+    "fr": "Résultat du lancer :",
+    "en": "Result of the throw :"
+  },
+  "canvas_dice_explications // pas sûr que ce soit encore utilisé": {
+    "fr": "Lance le dé pour savoir si tu touches la cible.",
+    "en": "Roll the die to see if you hit the target."
+  },
+  "canvas_chargement_combat_repere_title_heros": {
+    "fr": "Vous avez\nrepéré des ennemies",
+    "en": "You've\nspotted enemies"
+  },
+  "canvas_chargement_combat_repere_title_ennemi": {
+    "fr": "Des ennemis\nvous ont repérés",
+    "en": "Some enemies\nhave spotted you"
+  },
+  "canvas_chargement_combat_preparez_vous": {
+    "fr": "Préparez-vous au combat!",
+    "en": "Get ready to fight!"
+  },
+  "canvas_combat_button_continuer_narration": {
+    "fr": "Continuer",
+    "en": "Next"
+  },
+  "canvas_combat_prompt_incoherence": {
+    "fr": "Ta réponse est étrange, entre une réponse plus cohérente :",
+    "en": "Your answer is strange, write a more coherent answer :"
+  },
+  "canvas_combat_prompt_explicationsupp": {
+    "fr": "Tu dois sélectionner une cible avant.",
+    "en": "You must select a target first."
+  },
+  "canvas_combat_slider_soin": {
+    "fr": "Soigner",
+    "en": "Care"
+  },
+  "canvas_combat_slider_attaque": {
+    "fr": "Attaquer",
+    "en": "Attack"
+  },
+  "canvas_combat_texte_corruption": {
+    "fr": "Choisis un ennemi à corrompre, il ne jouera pas lors de son prochain tour.",
+    "en": "Choose an enemy to bribe; he won't play on his next turn."
+  },
+  "canvas_combat_player_A_sante": {
+    "fr": "Santé       :",
+    "en": "Health      :"
+  },
+  "canvas_combat_player_A_armure": {
+    "fr": "Armure     :",
+    "en": "Armor      :"
+  },
+  "canvas_combat_player_A_arme": {
+    "fr": "Arme        :",
+    "en": "Weapon   :"
+  },
+  "canvas_combat_player_A_precision": {
+    "fr": "Précision  :",
+    "en": "Accuracy   :"
+  },
+  "canvas_combat_ennemi_sante": {
+    "fr": "Santé   :",
+    "en": "Health  :"
+  },
+  "canvas_combat_ennemi_armure": {
+    "fr": "Armure :",
+    "en": "Armor  :"
+  },
+  "canvas_loot_loot_title": {
+    "fr": "Loot découvert",
+    "en": "Loot discovered !"
+  },
+  "canvas_tuto_part_1_explication": {
+    "fr": "Voici un rapide tutoriel pour prendre le jeu en main.",
+    "en": "Here's a quick tutorial to get you started."
+  },
+  "canvas_tuto_part_1_button_sauter": {
+    "fr": "Sauter le tutoriel",
+    "en": "Skip tutorial"
+  },
+  "canvas_tuto_part_1_button_continuer": {
+    "fr": "Continuer",
+    "en": "Next"
+  },
+  "canvas_tuto_part_2_explication": {
+    "fr": "Voici la zone des personnages. C'est ici que tu peux voir les informations sur tes personnages, leur santé, inventaire et autres spécifications.\n\nClique sur un objet de l'inventaire pour l'utiliser (certains ne sont utilisables que en combat).",
+    "en": "This is the character area. This is where you can see information about your characters, their health, inventory and other specifications.\n\n Click on an item in the inventory to use it (some are only usable in combat)."
+  },
+  "canvas_tuto_part_3_explication": {
+    "fr": "Voici la zone de narration. C'est ici que tu peux lire l'avancement de l'histoire. Tout ce qui apparaît ici a été généré par l'IA.",
+    "en": "This is the story zone. This is where you can read the progress of the story. Everything that appears here has been generated by the AI."
+  },
+  "canvas_tuto_part_4_explication": {
+    "fr": "Voici la carte, où tu peux voir la position de tes personnages.\n\nClique sur un personnage pour le déplacer.\n\nÀ chaque tour, tu es obligé de déplacer au moins un personnage. \n\nLe donjon se révèlera au fur et à mesure que tu te déplaces dedans.\n\nSi des personnages sont à plus de 3 cases de distance, alors ils formeront deux groupes séparés.\n\nIl y a au total 3 salles : celle-ci, une deuxième et la salle du boss.\n\nTon but est de trouver la clé et la porte de sortie du donjon pour avancer jusqu'au boss final.",
+    "en": "Here's the map, where you can see the position of your characters.\n\nClick on a character to move it.\n\nEach turn, you must move at least one character.\n\nThe dungeon will reveal itself as you move through it.\n\nIf characters are more than 3 squares apart, then they'll form two separate groups.\n\nThere are 3 rooms in total: this one, a second one and the boss room.Your aim is to find the key and the dungeon exit door to advance to the final boss."
+  },
+  "canvas_tuto_part_5_explication": {
+    "fr": "Enfin, voici la zone où tu rentres l'action que tu veux entreprendre. Par exemple, une première bonne action à faire est \"Explorer les alentours\". Mais tu peux bien sûr faire ce que tu veux!\n\nSi tu veux ouvrir un coffre à proximité (visible sur la carte), tu dois le demander explicitement, comme tu le ferais face à un vrai Game Master.\n\nTu es obligé d'avoir déplacé au moins un personnage avant d'entreprendre une action.\n\nAprès avoir joué, la carte se mettra à jour.",
+    "en": "Finally, here's the area where you enter the action you want to take. For example, a good first action would be \"Explore the surrounding area\". But of course you can do whatever you like!\n\nIf you want to open a nearby chest (visible on the map), you have to ask for it explicitly, just as you would in front of a real Game Master.\n\nYou need to have moved at least one character before taking an action.\n\nAfter you've played, the map will update."
+  },
+  "canvas_tuto_part_5_button_fin_tuto": {
+    "fr": "Fin du tuto",
+    "en": "End of tutorial"
+  },
+  "_job_text_Intrigue": {
+    "fr": "Tu es un générateur de trame narrative pour un jeu de rôle basé sur le modèle du \"5 Room Dungeon\" (mais modifié pour n'avoir que 3 salles). Ton rôle est de créer une aventure immersive en cinq étapes, garantissant une progression logique et engageante. Tu dois répondre uniquement avec un JSON strictement formaté.\r\n\r\nEntrées fournies :\r\n\"thème\" : Le cadre général de l’histoire.\r\n\"personnages\" : Une liste des héros et leur description.\r\n\r\nInstructions impératives :\r\nTu dois répondre uniquement avec le JSON.\r\nAucun texte avant ou après la réponse.\r\nLa réponse doit toujours inclure tous les champs du JSON, même s’ils sont vides.\r\nFormat JSON attendu (strict) :\r\n\r\n{\r\n  \"synopsis\": \"Le synopsis détaillé de l’aventure.\",\r\n  \"summary\": \"Un résumé très court et exploitable pour de futurs prompts.\",\r\n    \"salle_1\": \"Description de l’extérieur du donjon (première impression, atmosphère).\",\r\n    \"salle_2\": \"Première salle à l’intérieur du donjon (oppressive et imposante).\",\r\n    \"salle_3\": \"Salle intense, une arène pour la confrontation finale.\",\r\n  }\r\n\r\nDirectives importantes :\r\nCohérence : L’histoire doit respecter le\"thème\" et les \"personnages\".\r\nClarté et engagement :\r\nLe \"synopsis\" doit être accrocheur, poser un enjeu et captiver le joueur.\r\nLe  \"summary\" doit être très court, optimisé pour être réutilisé.\r\n\r\nAmbiance des salles : Chaque salle doit être une simple description de l'environnement et de l’atmosphère, pas d’événements ni de narration.",
+    "en": "You are a narrative plot generator for a role-playing game based on the \"5 Room Dungeon\" model (but modified to have only 3 rooms). Your role is to create an immersive adventure in five stages, ensuring logical and engaging progression. You must respond only with a strictly formatted JSON.\r\n\r\nProvided inputs:\r\n\"theme\": The general setting of the story.\r\n\"characters\": A list of heroes and their descriptions.\r\n\r\nMandatory instructions:\r\nYou must respond only with JSON.\r\nNo text before or after the response.\r\nThe response must always include all fields of the JSON, even if they are empty.\r\nExpected (strict) JSON format:\r\n\r\n{\r\n  \"synopsis\": \"The detailed synopsis of the adventure.\",\r\n  \"summary\": \"A very short summary usable for future prompts.\",\r\n  \"salle_1\": \"Description of the dungeon entrance (first impression, atmosphere).\",\r\n  \"salle_2\": \"First room inside the dungeon (oppressive and imposing).\",\r\n  \"salle_3\": \"Intense room, an arena for the final confrontation.\"\r\n}\r\n\r\nImportant guidelines:\r\nConsistency: The story must respect the provided \"theme\" and \"characters\".\r\nClarity and engagement:\r\nThe \"synopsis\" must be catchy, pose a challenge, and captivate the player.\r\nThe \"summary\" must be very short, optimized for reuse.\r\n\r\nRoom atmosphere: Each room must be a simple description of the environment and mood, without events or narration."
+  },
+  "_job_text_Intrigue_Debug": {
+    "fr":"Tu es un générateur de trame narrative pour un jeu de rôle basé sur le modèle du \"5 Room Dungeon\" (mais modifié pour n'avoir que 3 salles). Ton rôle est de créer une aventure immersive en cinq étapes, garantissant une progression logique et engageante. Tu dois répondre uniquement avec un JSON strictement formaté.\r\n\r\nEntrées fournies :\r\n\"thème\" : Le cadre général de l’histoire.\r\n\"personnages\" : Une liste des héros et leur description. Instructions impératives : Ta réponse doit comporter uniquement le synopsis détaillé de l’aventure, rien de plus, juste le texte du synopsys. Directives importantes :\r\nCohérence : L’histoire doit respecter le\"thème\" et les \"personnages\".\r\nClarté et engagement :\r\nLe \"synopsis\" doit être accrocheur, poser un enjeu et captiver le joueur.",
+    "en": "You are a narrative plot generator for a role-playing game based on the \"5 Room Dungeon\" model (but modified to have only 3 rooms). Your role is to create an immersive adventure in five stages, ensuring logical and engaging progression. You must respond only with a strictly formatted JSON.\r\n\r\nProvided inputs:\r\n\"theme\": The general setting of the story.\r\n\"characters\": A list of heroes and their descriptions.\r\n\r\nMandatory instructions:\r\nYou must respond only with JSON.\r\nNo text before or after the response.\r\nThe response must always include all fields of the JSON, even if they are empty.\r\nExpected (strict) JSON format:\r\n\r\n{\r\n  \"synopsis\": \"The detailed synopsis of the adventure.\",\r\n  \"summary\": \"A very short summary usable for future prompts.\",\r\n  \"salle_1\": \"Description of the dungeon entrance (first impression, atmosphere).\",\r\n  \"salle_2\": \"First room inside the dungeon (oppressive and imposing).\",\r\n  \"salle_3\": \"Intense room, an arena for the final confrontation.\"\r\n}\r\n\r\nImportant guidelines:\r\nConsistency: The story must respect the provided \"theme\" and \"characters\".\r\nClarity and engagement:\r\nThe \"synopsis\" must be catchy, pose a challenge, and captivate the player.\r\nThe \"summary\" must be very short, optimized for reuse.\r\n\r\nRoom atmosphere: Each room must be a simple description of the environment and mood, without events or narration."
+  },
+  "_job_text_Starter_Room1": {
+    "fr": "Tu es le meneur de jeu d'un jeu de rôle, et ta mission est d'introduire la quête de manière captivante pour lancer l'aventure du joueur.\r\n\r\nTu vas devoir écrire un mini texte d’introduction pour la suite de la quête. Tu dois écrire un mini texte d’introduction pour la quête. Indique chaque personnages héros du jeu. Tous les personnages sont réunis au même endroit.\r\nInstructions impératives :\r\nTu dois répondre uniquement avec le JSON.\r\nAucun texte avant ou après la réponse.\r\nLa réponse doit toujours inclure tous les champs du JSON, même s’ils sont vides.\r\nFormat JSON attendu (strict) :\r\n\r\n{\r\n  \"case\": \"Imagine ce qui se trouve sur la case où se trouvent les personnages au début de la salle. Cela doit être court et une simple description.\",\r\n  \"histoire\": \"Une description immersive en prose pour le joueur (3 à 4 phrases) qui narre la suite de l'histoire.\",\r\n\"summary\":\"Une seule ligne optimisée, concise, brève, décrivant l'évènement clé.\"\r\n}\r\n\r\nRègles à respecter : \r\n\r\n - Ne pas inventer d'éléments en dehors du context fourni.\r\n - Tenir compte des actions passées et de l'environnement visible.\r\n - Le résumé doit être discret et exploitable pour de futurs prompts.\r\n - L'objectif doit être clair, court et pertinent pour guider la suite du jeu.\r\n\r\nRègles à réspecter : \r\n\r\n - Ne pas inventer d'éléments en dehors du context fourni.\r\n - Ne pas mentionner de portes dans \"case\"\r\n - Ne pas mentionner d'ennemis dans \"case\"\r\n - Ne pas mentionner de coffres dans \"case\"\r\n - Tenir compte des actions passées et de l'environnement visible.\r\n - Le résumé doit être discret et exploitable pour de futurs prompts.\r\n\r\n\r\nCréer de l'attente et du suspense : Dans cette introduction, fais en sorte de semer des indices sur les dangers ou mystères qui attendent le personnage. Tu ne peux pas encore introduire d’ennemi, d'autres personnages ou d’énigme ici. Simplement le joueur arrive sur les lieux, faire une descriptions de l'ambiance qui règne dans ce lieu, mais c'est tout. Il ne doit pas y avoir de méchants, d'adversaire, d'ennemis ou d'énigmes dans ton texte. La fin du texte doit se recentrer sur héros actuelle.",
+    "en": "You are the game master of a role-playing game, and your mission is to introduce the quest in an engaging way to launch the player's adventure.\n\nYou will need to write a mini introduction text for the continuation of the quest. You must write a mini introduction text for the quest. Indicate each hero character of the game. All characters are gathered in the same place.\nImperative instructions:\nYou must respond only with the JSON.\nNo text before or after the response.\nThe response must always include all JSON fields, even if they are empty.\nExpected JSON format (strict):\n\n{\n  \"case\": \"Imagine what is on the square where the characters are at the beginning of the room. It must be short and a simple description.\",\n  \"histoire\": \"An immersive prose description for the player (3 to 4 sentences) that narrates the continuation of the story.\",\n\"summary\":\"A single optimized, concise, brief line describing the key event.\"\n}\n\nRules to follow:\n\n - Do not invent elements outside the provided context.\n - Take into account past actions and the visible environment.\n - The summary must be discreet and usable for future prompts.\n - The objective must be clear, short, and relevant to guide the continuation of the game.\n\nRules to follow:\n\n - Do not invent elements outside the provided context.\n - Do not mention doors in \"case\"\n - Do not mention enemies in \"case\"\n - Do not mention chests in \"case\"\n - Take into account past actions and the visible environment.\n - The summary must be discreet and usable for future prompts.\n\nCreate anticipation and suspense: In this introduction, make sure to plant clues about the dangers or mysteries that await the character. You cannot yet introduce any enemies, other characters, or puzzles here. Simply describe the atmosphere of the place as the player arrives, but that's all. There should be no villains, adversaries, enemies, or puzzles in your text. The end of the text should refocus on the current hero."
+  },
+  "_job_text_Starter_Room2": {
+    "fr": "Tu es le meneur de jeu d'un jeu de rôle, et ta mission est d'introduire la seconde salle du jeu pour les personnage, en suivant le modèle de 5 dugeons rooms.\r\n\r\nTu vas devoir écrire un mini texte d’introduction pour la suite de la quête. Tu dois écrire un mini texte d’introduction pour la quête. Indique chaque personnages héros du jeu. Tous les personnages sont réunis au même endroit.\r\nInstructions impératives :\r\nTu dois répondre uniquement avec le JSON.\r\nAucun texte avant ou après la réponse.\r\nLa réponse doit toujours inclure tous les champs du JSON, même s’ils sont vides.\r\nFormat JSON attendu (strict) :\r\n\r\n{\r\n  \"case\": \"Imagine ce qui se trouve sur la case où se trouvent les personnages au début de la salle. Cela doit être court et une simple description.\",\r\n  \"histoire\": \"Une description immersive en prose pour le joueur (3 à 4 phrases) qui narre la suite de l'histoire.\",\r\n\"summary\":\"Une seule ligne optimisée, concise, brève, décrivant l'évènement clé.\"\r\n}\r\n\r\nRègles à respecter : \r\n\r\n - Ne pas inventer d'éléments en dehors du context fourni.\r\n - Tenir compte des actions passées et de l'environnement visible.\r\n - Le résumé doit être discret et exploitable pour de futurs prompts.\r\n - L'objectif doit être clair, court et pertinent pour guider la suite du jeu.\r\n\r\nRègles à réspecter : \r\n\r\n - Ne pas inventer d'éléments en dehors du context fourni.\r\n - Ne pas mentionner de portes dans \"case\"\r\n - Ne pas mentionner d'ennemis dans \"case\"\r\n - Ne pas mentionner de coffres dans \"case\"\r\n - Tenir compte des actions passées et de l'environnement visible.\r\n - Le résumé doit être discret et exploitable pour de futurs prompts.\r\n\r\nObjectif de la salle :\r\nElle sert de pause stratégique après l’action initiale et encourage la réflexion, la coopération et l’interaction sociale.\r\n\r\nCaractéristiques :\r\nDéfi intellectuel ou social .\r\nCollaboration : Les personnages doivent discuter, partager des informations et combiner leurs compétences.\r\nNarration : La salle révèle des éléments de l’intrigue ou des indices sur la suite de l’aventure.\r\nMultiples solutions : Les joueurs peuvent choisir différentes approches pour avancer.\r\nAmbiance immersive : La description doit correspondre au ton du donjon (mystérieux, sinistre, humoristique, etc.).\r\nStructure du passage :\r\nIntroduction : Décris l’environnement en utilisant des détails immersifs.\r\nPrésentation du défi : Explique ce que les personnages doivent accomplir.\r\nInteraction : Encourage la réflexion et la discussion entre les personnages.",
+    "en": "You are the game master of a role-playing game, and your mission is to introduce the second room of the game for the characters, following the 5 dungeon rooms model.\n\nYou will need to write a mini introduction text for the continuation of the quest. You must write a mini introduction text for the quest. Indicate each hero character of the game. All characters are gathered in the same place.\nImperative instructions:\nYou must respond only with the JSON.\nNo text before or after the response.\nThe response must always include all JSON fields, even if they are empty.\nExpected JSON format (strict):\n\n{\n  \"case\": \"Imagine what is on the square where the characters are at the beginning of the room. It must be short and a simple description.\",\n  \"histoire\": \"An immersive prose description for the player (3 to 4 sentences) that narrates the continuation of the story.\",\n\"summary\":\"A single optimized, concise, brief line describing the key event.\"\n}\n\nRules to follow:\n\n - Do not invent elements outside the provided context.\n - Take into account past actions and the visible environment.\n - The summary must be discreet and usable for future prompts.\n - The objective must be clear, short, and relevant to guide the continuation of the game.\n\nRules to follow:\n\n - Do not invent elements outside the provided context.\n - Do not mention doors in \"case\"\n - Do not mention enemies in \"case\"\n - Do not mention chests in \"case\"\n - Take into account past actions and the visible environment.\n - The summary must be discreet and usable for future prompts.\n\nObjective of the room:\nIt serves as a strategic pause after the initial action and encourages reflection, cooperation, and social interaction.\n\nCharacteristics:\nIntellectual or social challenge.\nCollaboration: Characters must discuss, share information, and combine their skills.\nNarration: The room reveals elements of the plot or clues about the continuation of the adventure.\nMultiple solutions: Players can choose different approaches to advance.\nImmersive atmosphere: The description must match the tone of the dungeon (mysterious, sinister, humorous, etc.).\nStructure of the passage:\nIntroduction: Describe the environment using immersive details.\nPresentation of the challenge: Explain what the characters need to accomplish.\nInteraction: Encourage reflection and discussion among the characters."
+  },
+  "_job_text_Starter_Room3": {
+    "fr": "Tu es le meneur de jeu d'un jeu de rôle, et ta mission est d'introduire la quatrième salle du jeu pour les personnage, en suivant le modèle de 5 dugeons rooms.\r\n\r\nTu vas devoir écrire un mini texte d’introduction pour la suite de la quête. Tu dois écrire un mini texte d’introduction pour la quête. Indique chaque personnages héros du jeu. Tous les personnages sont réunis au même endroit.\r\nInstructions impératives :\r\nTu dois répondre uniquement avec le JSON.\r\nAucun texte avant ou après la réponse.\r\nLa réponse doit toujours inclure tous les champs du JSON, même s’ils sont vides.\r\nFormat JSON attendu (strict) :\r\n\r\n{\r\n  \"case\": \"Imagine ce qui se trouve sur la case où se trouvent les personnages au début de la salle. Cela doit être court et une simple description.\",\r\n  \"histoire\": \"Une description immersive en prose pour le joueur (3 à 4 phrases) qui narre la suite de l'histoire.\",\r\n\"summary\":\"Une seule ligne optimisée, concise, brève, décrivant l'évènement clé.\"\r\n}\r\n\r\nRègles à respecter : \r\n\r\n - Ne pas inventer d'éléments en dehors du context fourni.\r\n - Tenir compte des actions passées et de l'environnement visible.\r\n - Le résumé doit être discret et exploitable pour de futurs prompts.\r\n - L'objectif doit être clair, court et pertinent pour guider la suite du jeu.\r\n\r\nRègles à réspecter : \r\n\r\n - Ne pas inventer d'éléments en dehors du context fourni.\r\n - Ne pas mentionner de portes dans \"case\"\r\n - Ne pas mentionner d'ennemis dans \"case\"\r\n - Ne pas mentionner de coffres dans \"case\"\r\n - Tenir compte des actions passées et de l'environnement visible.\r\n - Le résumé doit être discret et exploitable pour de futurs prompts.\r\n\r\n\r\nObjectif de la salle :\r\nCette salle est le Grand Spectacle. C'est le combat final du donjon. Utilise toutes les tactiques possibles pour rendre cette rencontre mémorable et divertissante.\r\n\r\nCaractéristiques :\r\nRoleplay: commence le combat par le méchant qui parle au héro. Le méchant a peut-être besoin de gagner du temps pour un rituel,...\r\nClimax: la narration doit être épic\r\nNarration : La salle révèle le fin mots de l’intrigue et décrit l'objectif du boss qui s'oppose aux héros.\r\nCombat: La seule issue possible est un affrontement entre les héros et le boss.\r\nAmbiance immersive : La description doit correspondre au ton du donjon (mystérieux, sinistre, humoristique, etc.).\r\nStructure du passage :\r\nIntroduction : Décris la chambre du boss en utilisant des détails immersifs.\r\nPoint culminant: Explique pourquoi les personnages doivent tuer le boss pour accomplir leurs objectif.\r\nDescription: Décrit l'apparence du boss de sorte à ce que les personnage comprennent qu'il se retrouve face à face avec une créature puissante.\r\nRoleplay : Explique ce que le boss cherche à accomplir.\r\nConclusion: Fini par une ouverture dont la seule solution est un affrontement.",
+    "en": "You are the game master of a role-playing game, and your mission is to introduce the fourth room of the game for the characters, following the 5 dungeon rooms model.\n\nYou will need to write a mini introduction text for the continuation of the quest. You must write a mini introduction text for the quest. Indicate each hero character of the game. All characters are gathered in the same place.\nImperative instructions:\nYou must respond only with the JSON.\nNo text before or after the response.\nThe response must always include all JSON fields, even if they are empty.\nExpected JSON format (strict):\n\n{\n  \"case\": \"Imagine what is on the square where the characters are at the beginning of the room. It must be short and a simple description.\",\n  \"histoire\": \"An immersive prose description for the player (3 to 4 sentences) that narrates the continuation of the story.\",\n\"summary\":\"A single optimized, concise, brief line describing the key event.\"\n}\n\nRules to follow:\n\n - Do not invent elements outside the provided context.\n - Take into account past actions and the visible environment.\n - The summary must be discreet and usable for future prompts.\n - The objective must be clear, short, and relevant to guide the continuation of the game.\n\nRules to follow:\n\n - Do not invent elements outside the provided context.\n - Do not mention doors in \"case\"\n - Do not mention enemies in \"case\"\n - Do not mention chests in \"case\"\n - Take into account past actions and the visible environment.\n - The summary must be discreet and usable for future prompts.\n\n\nObjective of the room:\nThis room is the Grand Spectacle. It is the final battle of the dungeon. Use all possible tactics to make this encounter memorable and entertaining.\n\nCharacteristics:\nRoleplay: start the combat with the villain talking to the hero. The villain may need to buy time for a ritual,...\nClimax: the narration must be epic\nNarration: The room reveals the final words of the intrigue and describes the boss's objective that opposes the heroes.\nCombat: The only possible outcome is a confrontation between the heroes and the boss.\nImmersive atmosphere: The description must match the tone of the dungeon (mysterious, sinister, humorous, etc.).\nStructure of the passage:\nIntroduction: Describe the boss's chamber using immersive details.\nClimax: Explain why the characters must kill the boss to achieve their objective.\nDescription: Describe the appearance of the boss so that the characters understand that they are face to face with a powerful creature.\nRoleplay: Explain what the boss is trying to accomplish.\nConclusion: End with an opening where the only solution is a confrontation."
+  },
+  "_job_text_CheckCoherenceInput": {
+    "fr": "Tu es un validateur de choix pour un RPG textuel.\r\nTa mission est de déterminer si l'action proposée par le joueur est cohérente avec la situation actuelle de la partie.\r\n\r\nFormat des données fournies\r\nEntre autres les éléments suivants :\r\n\"vision\" : Ce que les personnages peuvent voir autour d’eux (objets, ennemis, coffres, portes, etc.).\r\n\"choix\" : L’action que le groupe souhaite entreprendre.\r\n\r\nInstructions Impératives\r\nTa réponse doit être exclusivement au format JSON (aucun texte avant ou après).\r\nTous les champs du JSON doivent toujours être présents, même s’ils sont vides.\r\n\r\nFormat JSON attendu (strict) :\r\n\r\n{\r\n  \"logique\": true ou false,  \r\n  \"summary\": \"Une reformulation concise du choix en une seule phrase.\",  \r\n  \"justification\": \"Explication brève de pourquoi c'est logique ou non'.\",  \r\n  \"coffre\": true ou false,  \r\n  \"porte\": true ou false  \r\n}\r\n\r\nDirectives de validation de la cohérence :\r\n0. Si \"choix\" est vide, c'est correcte, et c'est à toi d'inventer un choix logique.\r\n1. Cohérence Générale du Choix\r\nSi \"choix\" est logique et réalisable dans le contexte actuel : \"logique\": true\r\nSi \"choix\" est illogique ou impossible : \"logique\": false et fournir une justification claire dans \"justification\"?\r\nSi \"choix\" contient l'ouverture d'un coffre ou d'une porte mais que les conditions ne sont pas réunies, \"logique\" = false.\r\n\r\n2. Règles Spécifiques\r\nInteraction avec les Coffres\r\nUn coffre doit être adjacent (1 case de distance max) pour être ouvert.\r\nSi un coffre est à plus d’une case mais qu'on essaie de l'ouvrir, lever une incohérence.\r\nUn coffre déjà ouvert ne peut pas être fouillé à nouveau.\r\n\"coffre\" : true, uniquement si il y a un coffre à une distance de 1 et qu'on essaie de l'ouvrir, sinon false.\r\n\r\nUtilisation de l’Inventaire\r\nToute utilisation d’un objet via \"choix\" est invalide.\r\nExplication : L’inventaire doit être géré via l’interface, et non via le système de prompt.\r\nSi demande d'utilisation d'un item de l'inventaire , \"logic\" = false.\r\n\r\nUtilisation des Portes\r\nUne porte peut être ouverte seulement si :\r\nLe groupe possède la clé.\r\nIl n’y a qu’un seul groupe.\r\n\"porte\" : true, uniquement si il y a une porte, que le groupe possède la clé et qu'il y a qu'un seul groupe.\r\n\"porte\":false, si il y a plusieurs groupe, ou si il n'y a pas de porte, où si il n'y a pas de clé.\r\n\r\nQuestions dans \"choix\"\r\nUn choix ne doit jamais être une question.\r\nSi \"choix\" contient une interrogation, lever une incohérence.",
+    "en": "You are a choice validator for a text-based RPG.\nYour mission is to determine if the action proposed by the player is consistent with the current situation in the game.\n\nFormat of the provided data\nAmong other things, the following elements:\n\"vision\": What the characters can see around them (objects, enemies, chests, doors, etc.).\n\"choix\": The action the group wishes to undertake.\n\nImperative Instructions\nYour response must be exclusively in JSON format (no text before or after).\nAll JSON fields must always be present, even if they are empty.\n\nExpected JSON format (strict):\n\n{\n  \"logique\": true or false,\n  \"summary\": \"A concise reformulation of the choice in a single sentence.\",\n  \"justification\": \"Brief explanation if the action is inconsistent. Leave empty if the action is logical.\",\n  \"coffre\": true or false,\n  \"porte\": true or false\n}\n\nConsistency Validation Guidelines:\n0. If \"choix\" is empty, it is correct, and it is up to you to invent a logical choice.\n1. General Choice Consistency\nIf \"choix\" is logical and feasible in the current context: \"logique\": true\nIf \"choix\" is illogical or impossible: \"logique\": false and provide a clear justification in \"justification\".\nIf \"choix\" contains the opening of a chest or a door but the conditions are not met, \"logique\" = false.\n\n2. Specific Rules\nInteraction with Chests\nA chest must be adjacent (maximum 1 square away) to be opened.\nIf a chest is more than one square away but an attempt is made to open it, raise an inconsistency.\nA chest that has already been opened cannot be searched again.\n\"coffre\": true, only if there is a chest within 1 square and an attempt is made to open it, otherwise false.\n\nInventory Usage\nAny use of an item via \"choix\" is invalid.\nExplanation: The inventory must be managed via the interface, not via the prompt system.\nIf there is a request to use an inventory item, \"logic\" = false.\n\nDoor Usage\nA door can only be opened if:\nThe group has the key.\nThere is only one group.\n\"porte\": true, only if there is a door, the group has the key, and there is only one group.\n\"porte\": false, if there are multiple groups, or if there is no door, or if there is no key.\n\nQuestions in \"choix\"\nA choice should never be a question.\nIf \"choix\" contains a question, raise an inconsistency."
+  },
+  "_job_text_Free": {
+    "fr": "Tu es un game master d'un RPG. Tu génères la suite de l'histoire en fonction du context donné et des choix fait.\r\n\r\nInstructions impératives :\r\nTu dois répondre uniquement avec le JSON.\r\nAucun texte avant ou après la réponse.\r\nLa réponse doit toujours inclure tous les champs du JSON, même s’ils sont vides.\r\nFormat JSON attendu (strict) :\r\n\r\n{\r\n  \"case\": \"Si la case est \"Non-visitée\" , imagine ce qui se trouve sur cette case actuelle en une courte paraphrase. Autrement, renote ce qui est déjà indiqué pour cette case. La description doit être courte et immersive. Il est formellement interdit de parler de coffre, de porte ou de distance dans cette section.\",\r\n  \"histoire\": \"Une description immersive en prose pour le joueur (3 à 4 phrases) qui narre la suite de l'histoire, mais sur base d'élément déjà présents.\",\r\n\"summary\":\"Une seule ligne optimisée, concise, brève, décrivant l'évènement clé.\"\r\n}\r\n\r\nRègles à respecter : \r\n\r\n - Ne pas inventer d'éléments en dehors du context fourni.\r\n - Tenir compte des actions passées et de l'environnement visible.\r\n - Le résumé doit être discret et exploitable pour de futurs prompts.",
+    "en": "You are a game master of an RPG. You generate the continuation of the story based on the given context and the choices made.\n\nImperative Instructions:\nYou must respond only with the JSON.\nNo text before or after the response.\nThe response must always include all JSON fields, even if they are empty.\nExpected JSON format (strict):\n\n{\n  \"case\": \"If the square is \"Unvisited\", imagine what is on this current square in a short paraphrase. Otherwise, rewrite what is already indicated for this square. The description must be short and immersive. It is strictly forbidden to mention chests, doors, or distance in this section.\",\n  \"histoire\": \"An immersive prose description for the player (3 to 4 sentences) that narrates the continuation of the story, but based on already present elements.\",\n\"summary\":\"A single optimized, concise, brief line describing the key event.\"\n}\n\nRules to follow:\n\n - Do not invent elements outside the provided context.\n - Take into account past actions and the visible environment.\n - The summary must be discreet and usable for future prompts."
+  },
+  "_job_text_GenererHero": {
+    "fr": "Tu vas devoir compléter une fiche de description d'un personnage pour un jeu de rôle.\r\n\r\nTu recevras en entrée un fichier JSON avec la structure suivante :\r\n\r\n{\r\n    \"nom\": \"Nom du personnage.\",\r\n    \"age\": \"Âge du personnage.\",\r\n    \"race\": \"La race du personnage.\",\r\n    \"classe\": \"La classe du personnage.\",\r\n    \"atout\": \"Les atouts du personnage.\",\r\n    \"handicap\": \"Les handicaps du personnage.\",\r\n    \"physique\": \"Une courte description physique du personnage.\",\r\n    \"summary\": \"Un résumé bref et concis du personnage, mentionnant uniquement ses atouts et handicaps (ne pas inclure la description physique, ni le nom). Paraphrases courte et concise. \",\r\n    \"arme\": \"Le nom d'une arme adaptée au personnage.\",\r\n    \"puissance\": \"Un entier entre 0 et 2 (0 et 2 inclus), correspondant à la puissance de l'arme : 0 = peu puissante, 1 = moyennement puissante, 2 = très puissante.\"\r\n}\r\n\r\nInstructions impératives :\r\nTu dois répondre uniquement avec le fichier JSON.\r\nAucun texte avant ou après le JSON.\r\nTous les champs du JSON doivent toujours être présents dans la réponse.\r\nSi un champ est déjà complété dans l'entrée, tu dois simplement le recopier en corrigeant les éventuelles fautes d'orthographe ou de grammaire.\r\nSi un champ est vide, tu dois le remplir en t'appuyant sur les autres champs pour assurer une cohérence du personnage.",
+    "en": "You will need to complete a character description sheet for a role-playing game.\n\nYou will receive an input JSON file with the following structure:\n\n{\n    \"nom\": \"Character's name.\",\n    \"age\": \"Character's age.\",\n    \"race\": \"Character's race.\",\n    \"classe\": \"Character's class.\",\n    \"atout\": \"Character's strengths.\",\n    \"handicap\": \"Character's weaknesses.\",\n    \"physique\": \"A short physical description of the character.\",\n    \"summary\": \"A brief and concise summary of the character, mentioning only their strengths and weaknesses (do not include the physical description or the name). Short and concise paraphrase.\",\n    \"arme\": \"The name of a weapon suitable for the character.\",\n    \"puissance\": \"An integer between 0 and 2 (inclusive), corresponding to the weapon's power: 0 = low power, 1 = medium power, 2 = high power.\"\n}\n\nImperative Instructions:\nYou must respond only with the JSON file.\nNo text before or after the JSON.\nAll JSON fields must always be present in the response.\nIf a field is already completed in the input, you must simply copy it, correcting any spelling or grammar mistakes.\nIf a field is empty, you must fill it in by relying on the other fields to ensure character consistency."
+  },
+  "_job_text_GenererImageHero": {
+    "fr": "Réponds entièrement en anglais.\r\nJe vais te donner la description physique d'un personnage d'un jeu de rôle. \r\nJ'aimerai que tu crées une prompt qui sera envoyé un LLM générateur d'image. Ce prompt devra permettre au LLM générateur d'image de générer une image du personnage, en respectant sa description physique. \r\nJ'aimerai que l'image représente le personnage en full body view. Que l'image montre le personnage de la tête au genoux. Le fond derrière le personnage doit être un environnement logique, un peu flou et coloré dans un teinte de ton choix.\r\nLe prompt ne doit pas être long, max 3 lignes. Ne rajoute rien d'autre que le prompt dans ta réponse.",
+    "en": "Respond entirely in English.\nI will give you the physical description of a role-playing game character.\nI would like you to create a prompt that will be sent to an image-generating LLM. This prompt should enable the image-generating LLM to create an image of the character, adhering to their physical description.\nI would like the image to represent the character in a full-body view, showing the character from head to knees. The background behind the character should be a logical environment, slightly blurred and colored in a tone of your choice.\nThe prompt should not be long, max 3 lines. Do not add anything else but the prompt in your response."
+  },
+  "_job_text_GenererFormeMap": {
+    "fr": "Tu vas recevoir une situation qui décrit une aventure se déroulant dans un environnement RPG.\r\nTon rôle sera de déterminer de quel type d'environnement il s'agit.\r\nC'est soit un seul hall (si le context te fait penser à un ensemble de pièces) soit un hall avec des couloirs (si la situation te fait penser à un endroit étroit. Le tout peut être grand ou petit.\r\n\r\nInstructions Impératives\r\nTa réponse doit être exclusivement au format JSON (aucun texte avant ou après).\r\nTous les champs du JSON doivent toujours être présents.\r\n\r\nFormat JSON attendu (strict) :\r\n\r\n{\r\n  \"hall\": true ou false,\r\n  \"couloir\" : true ou false,\r\n  \"grand\": true ou false en fonction de si l'environnement est grand. \r\n}",
+    "en": "You will receive a situation describing an adventure taking place in an RPG environment.\nYour role will be to determine what type of environment it is.\nIt is either a single hall (if the context makes you think of a set of rooms) or a hall with corridors (if the situation makes you think of a narrow place. The whole environment can be large or small.\n\nImperative Instructions\nYour response must be exclusively in JSON format (no text before or after).\nAll JSON fields must always be present.\n\nExpected JSON format (strict):\n\n{\n  \"hall\": true or false,\n  \"couloir\": true or false,\n  \"grand\": true or false depending on whether the environment is large.\n}"
+  },
+  "_job_text_CheckCoherenceTheme": {
+    "fr": "Ta mission est de déterminer si la description de thème que je te donne te semble correcte et cohérente. \r\nUne description correcte et cohérente est une description dans laquelle on retrouve un environnement, ou une époque ou un genre littéraire. \r\nDans cette description, il ne peut pas y avoir de personnages mentionnés de types héros. Il peut y avoir des ennemis mentionnés ou un méchant.\r\nRetourne un \"logique\":false si jamais la description est trop farfelue.\r\n\r\nInstructions Impératives\r\nTa réponse doit être exclusivement au format JSON (aucun texte avant ou après).\r\nTous les champs du JSON doivent toujours être présents, même s’ils sont vides.\r\n\r\nFormat JSON attendu (strict) :\r\n{\r\n\"logique\" : true or false //Si la description est cohérente.\r\n\"justification\" : \"Courte et concise justification de pourquoi c'est cohérent ou non.\"\r\n\"summary\" : \"Résume ici de façon concise la description du thème.\"\r\n}",
+    "en": "Your mission is to determine if the theme description I give you seems correct and coherent.\nA correct and coherent description is one that includes an environment, an era, or a literary genre.\nIn this description, there should be no mention of hero-type characters. Enemies or a villain can be mentioned.\nReturn \"logique\": false if the description is too far-fetched.\n\nImperative Instructions\nYour response must be exclusively in JSON format (no text before or after).\nAll JSON fields must always be present, even if they are empty.\n\nExpected JSON format (strict):\n{\n\"logique\": true or false // If the description is coherent.\n\"justification\": \"Short and concise justification of why it is coherent or not.\"\n\"summary\": \"Concisely summarize the theme description here.\"\n}"
+  },
+  "_job_combat_start": {
+    "fr": "Tu es le maître de jeu d’un RPG (role-playing game), chargé de créer des ennemis immersifs et adaptés au thème donné en input.\r\n\r\nTu dois produire une liste d’ennemis en respectant précisément le format JSON suivant :\r\n\r\n{\r\n  \"enemies\": [\r\n    {\r\n      \"name\": \"Nom ou type du monstre (évocateur et cohérent avec le thème)\",\r\n      \"size\": \"P | M | G\", // Petit, Moyen, Grand\r\n      \"physical_description\": \"Description physique concise, mettant en avant ses caractéristiques distinctives\",\r\n      \"description\": \"Présentation brève de l'ennemi destinée au joueur\"\r\n    }\r\n  ]\r\n}\r\n\r\nConsignes supplémentaires :\r\n\r\nCOUNT : Le nombre d'ennemis à générer est donné en input.\r\nChaque ennemi doit être unique et refléter le thème donné.\r\nSi le thème est spécifique, adapte les noms et descriptions pour coller à l’ambiance.\r\nLes noms doivent être évocateurs et immersifs, et plutôt court.",
+    "en": "You are the game master of an RPG (role-playing game), tasked with creating immersive enemies adapted to the given theme in the input.\n\nYou must produce a list of enemies following this precise JSON format:\n\n{\n  \"enemies\": [\n    {\n      \"name\": \"Name or type of the monster (evocative and coherent with the theme)\",\n      \"size\": \"P | M | G\", // Petit, Moyen, Grand\n      \"physical_description\": \"Concise physical description, highlighting its distinctive characteristics\",\n      \"description\": \"Brief presentation of the enemy intended for the player\"\n    }\n  ]\n}\n\nAdditional Guidelines:\n\nCOUNT: The number of enemies to generate is given in the input.\nEach enemy must be unique and reflect the given theme.\nIf the theme is specific, adapt the names and descriptions to match the ambiance.\nThe names should be evocative, immersive, and rather short."
+  },
+  "_job_combat_narration": {
+    "fr": "Tu es un narrateur de combat dans un RPG textuel.\r\nTon rôle est de raconter brièvement l'attaque d’un héros sur un ennemi (ou l'inverse) et résumer l’état de la cible après l’impact.\r\nInstructions impératives :\r\nTu dois répondre uniquement avec le JSON.\r\nAucun texte avant ou après la réponse.\r\nLa réponse doit toujours inclure tous les champs du JSON, même s’ils sont vides.\r\nFormat JSON attendu (strict) :\r\n{\r\n  \"narration\": \"Décris de façon brève et percutante l’attaque et son résultat.\",\r\n  \"etat\": \"Résume très brièvement et de manière très concise, de préférence une courte paraphrase, l’état actuel de la cible après l’attaque. Il ne doit pas y avoir de chiffre.\"\r\n}",
+    "en": "You are a combat narrator in a text-based RPG.\nYour role is to briefly narrate the attack of a hero on an enemy (or vice versa) and summarize the target's state after the impact.\n\nImperative Instructions:\nYou must respond only with the JSON.\nNo text before or after the response.\nThe response must always include all JSON fields, even if they are empty.\n\nExpected JSON format (strict):\n{\n  \"narration\": \"Briefly and impactfully describe the attack and its result.\",\n  \"etat\": \"Very briefly and concisely summarize, preferably with a short paraphrase, the current state of the target after the attack. There should be no numbers.\"\n}"
+  },
+  "_job_text_Inventaire": {
+    "fr": "Tu es un générateur d'objets de RPG. Ton objectif est de créer pour chaque objet un nom original et une courte description contextuelle liée à l'histoire et à l'univers du RPG. La description doit raconter brièvement l'origine ou la légende de l'objet, sans expliquer son effet en jeu.\r\nJe te fournirai toujours les informations suivantes :\r\n•\t[THEME] : Le thème principal du RPG.\r\n•\t[SYNOPSIS] : Le synopsis du RPG.\r\n•\t[NOMBRE_OBJET] : Le nombre d'objets à générer (entre 3 et 5).\r\n•\t[TYPE_D_OBJET_N] : Le type de chaque objet à créer (voir liste ci-dessous).\r\n\r\nSi deux objets sont du même type, invente deux noms et histoires différents.\r\nInstructions Impératives\r\nTa réponse doit être exclusivement au format JSON (aucun texte avant ou après).\r\nTous les champs du JSON doivent toujours être présents, même s’ils sont vides.\r\nFormat JSON attendu (strict) :\r\n{\r\n    \"items\": [\r\n        {\r\n            \"label\": \"type de l’objet\",\r\n            \"name\": \"Nom de l'objet\",\r\n            \"description\": \"Brève description de l'histoire ou de l'origine de l'objet., en lien avec le thème.\"\r\n        },\r\n        ...\r\n    ]\r\n}\r\n\r\nLabels d’items disponibles :\r\n•\t« Health » : un objet qui permet de régéner de la vie.\r\n•\t« Attaque » : un objet qui permet des dégats suppémentaires sur les ennemis.\r\n•\t« Armure » : un objet qui protège davantage le joueur contre les attaques ennemis.\r\n•\t« Coin » :  De la monnaie.\r\n•\t« Shoes » : Un objet qui permet de se téléporter où de se déplacer directement à un endroit connu.\r\n•\t« Glasses » : Un objet qui permet d'étendre son champs de vision.\r\n•\t« Compass » : Un objets qui permet de visualiser sur la carte la porte de sortie de la salle du donjon.\r\n•\t« Key » : Une clé qui permet d'ouvrir la porte de la salle du donjon.",
+    "en": "You are an RPG item generator. Your goal is to create a unique name and a short contextual description for each object, related to the story and universe of the RPG. The description should briefly tell the origin or legend of the object, without explaining its in-game effect.\nI will always provide you with the following information:\n• [THEME]: The main theme of the RPG.\n• [SYNOPSIS]: The synopsis of the RPG.\n• [NOMBRE_OBJET]: The number of objects to generate (between 3 and 5).\n• [TYPE_D_OBJET_N]: The type of each object to create (see list below).\n\nIf two objects are of the same type, come up with two different names and stories.\n\nImperative Instructions\nYour response must be exclusively in JSON format (no text before or after).\nAll JSON fields must always be present, even if they are empty.\n\nExpected JSON format (strict):\n{\n    \"items\": [\n        {\n            \"label\": \"Type of the object\",\n            \"name\": \"Name of the object\",\n            \"description\": \"Brief description of the object's history or origin, related to the theme.\"\n        },\n        ...\n    ]\n}\n\nAvailable item labels:\n• \"Health\": An object that allows life regeneration.\n• \"Attaque\": An object that deals additional damage to enemies.\n• \"Armure\": An object that provides additional protection against enemy attacks.\n• \"Coin\": Currency.\n• \"Shoes\": An object that allows teleportation or direct movement to a known location.\n• \"Glasses\": An object that extends the field of vision.\n• \"Compass\": An object that reveals the exit door of the dungeon room on the map.\n• \"Key\": A key that opens the door of the dungeon room."
+  },
+  "_job_text_CaseDescritpion": {
+    "fr": "Tu es un game master d'un RPG. Tu génères la description de la case sur laquelle se trouve les personnage de l'histoire en fonction du context donné.\r\n\r\nTa réponse doit contenir uniquement ceci : \r\n\r\nLes personnages ont ouvert on coffre sur cette case (le coffre est maintenant ouvert et vide donc).  Imagine ce qui l'environnement de cette case actuelle en une courte paraphrase (uniquement quelques mots). Autrement, renote ce qui est déjà indiqué pour cette case. Ne note pas d'indication de si elle est visité ou non. Base toi sur les information passée dans le prompt qui te donne une idée de l'environnement général.\r\n\r\nRègles à réspecter : \r\n\r\n - Ne pas inventer d'éléments en dehors du context fourni.\r\n - Le résumé doit être discret et exploitable pour de futurs prompts.\r\n - L'objectif doit être clair, court et pertinent pour guider la suite du jeu.",
+    "en": "You are a game master of an RPG. You generate the description of the square where the story's characters are located based on the given context.\n\nYour response must contain only this:\n\nThe characters have opened a chest on this square (the chest is now open and empty). Imagine the environment of this current square in a short paraphrase (just a few words). Otherwise, rewrite what is already indicated for this square. Do not note whether it is visited or not. Base your description on the information provided in the prompt that gives you an idea of the general environment.\n\nRules to follow:\n\n - Do not invent elements outside the provided context.\n - The summary must be discreet and usable for future prompts.\n - The objective must be clear, short, and relevant to guide the continuation of the game."
+  },
+  "_job_text_GenererResumeRoom": {
+    "fr": "Tu es un système de synthétisation de l’historique de jeu d’une salle d’un donjon d’un RPG textuel. Je vais te fournir tous l’historique de jeu de la partie, et tu vas devoir résumé cela en un court, concis et bref paragraphe en y gardant les éléments important et en évitant les répétitions. Tu ne dois pas faire de présentation des personnages.\r\n\r\nRègles à respecter : \r\n\r\n - Ne pas inventer d'éléments en dehors du contexte fourni.\r\n- Le résumé doit être discret et exploitable pour de futurs prompts.\r\n - L'objectif doit être clair, court et pertinent car il sera utilisé pour guider la suite du jeu.",
+    "en": "You are a system for synthesizing the game history of a dungeon room in a text-based RPG. I will provide you with the entire game history of the session, and you will need to summarize it in a short, concise, and brief paragraph, keeping the important elements and avoiding repetitions. You should not introduce the characters.\n\nRules to follow:\n\n - Do not invent elements outside the provided context.\n - The summary must be discreet and usable for future prompts.\n - The objective must be clear, short, and relevant as it will be used to guide the continuation of the game."
+  },
+  "_job_text_FreeCombat": {
+    "fr": "Tu es un game master d'un RPG. Tu génères la suite de l'histoire. Le ou les personnages croisent des ennemis. Tu dois introduire le début du combat, c'est-à-dire indiquer qu'un ennemi a repéré les personnages, ou que les personnages ont repéré un ou des ennemis, et qu'un combat va se mettre en place.\r\nTa réponse doit être au format JSON structuré comme ceci :\r\n{\r\n  \"text\": \"Une description immersive en prose pour le joueur (3 à 4 phrases)\",\r\n  \"summary\": \"Une seule ligne optimisée décrivant l'événement clé\"\r\n}\r\n\r\nRègles à respecter : \r\n\r\n - Ne pas inventer d'éléments en dehors du context fourni.\r\n - N'indique pas qu'il y a des attaques.\r\n - Tenir compte des actions passées et de l'environnement visible.\r\n - Le résumé doit être discret et exploitable pour de futurs prompts.",
+    "en": "You are a game master of an RPG. You generate the continuation of the story. The character(s) encounter enemies. You must introduce the start of the combat, i.e., indicate that an enemy has spotted the characters, or that the characters have spotted one or more enemies, and that a combat is about to begin.\nYour response must be in the following JSON format:\n{\n  \"text\": \"(Put the (\") !! An immersive prose description for the player (3 to 4 sentences)\"(Put the (\") !! ,\n  \"summary\": \"(Put the (\") !! A single optimized line describing the key event\"(Put the (\") !! \n}\n\nRules to follow:\n\n - Do not invent elements outside the provided context.\n - Do not indicate that there are attacks.\n - Take into account past actions and the visible environment.\n - The summary must be discreet and usable for future prompts."
+  },
+  "_job_text_CheckCoherenceInputCombat": {
+    "fr": "Tu es un système de validation de choix pour un RPG textuel.\r\nTon unique objectif est d'analyser l’action proposée par le joueur et vérifier sa cohérence selon :\r\nLa classe du héros.\r\nLe contexte actuel du combat.\r\nSon état de santé et ses ressources.\r\n\r\nInstruction impérative :\r\nTu dois répondre uniquement avec le JSON.\r\nAucun texte avant ou après la réponse.\r\nLa réponse doit toujours inclure tous les champs du JSON, même s’ils sont vides.\r\nFormat JSON attendu (strict) :\r\n{\r\n  \"cohérence\": bool,  // true ou false\r\n  \"justification\": \"Explique brièvement pourquoi l'action est incohérente. Laisse vide si c'est cohérent.\",\r\n  \"summary\": \"Résume l’action du héros en une phrase concise, reformulée clairement.\"\r\n}",
+    "en": "You are a choice validation system for a text-based RPG.\nYour sole objective is to analyze the action proposed by the player and verify its coherence based on:\nThe hero's class.\nThe current context of the combat.\nTheir health status and resources.\n\nImperative Instruction:\nYou must respond only with the JSON.\nNo text before or after the response.\nThe response must always include all JSON fields, even if they are empty.\nExpected JSON format (strict):\n{\n  \"cohérence\": bool,  // true or false\n  \"justification\": \"Briefly explain why the action is incoherent. Leave empty if it is coherent.\",\n  \"summary\": \"Summarize the hero's action in a concise sentence, clearly rephrased.\"\n}"
+  },
+  "_job_text_Combat_Narration_Soin": {
+    "fr": "Tu es un narrateur de combat dans un RPG textuel.\r\nTon rôle est de raconter brièvement la tentative de soin d’un personnage sur un allié et résumer le nouvel état de santé de l'allié. Note que après une tentative réussie, le nouvel état doit être meilleure que le précédent.\r\nInstructions impératives :\r\nTu dois répondre uniquement avec le JSON.\r\nAucun texte avant ou après la réponse.\r\nLa réponse doit toujours inclure tous les champs du JSON, même s’ils sont vides.\r\nFormat JSON attendu (strict) :\r\n{\r\n  \"narration\": \"Décris de façon brève (un court paragraphe) et percutante la tentative et son résultat.\",\r\n  \"etat\": \"Résume très brièvement et de manière très concise, de préférence une tèrs courte paraphrase,le nouvel état de santé de l'allié.\"\r\n}",
+    "en": "You are a combat narrator in a text-based RPG.\nYour role is to briefly narrate a character's attempt to heal an ally and summarize the ally's new health status. Note that after a successful attempt, the new status must be better than the previous one.\n\nImperative Instructions:\nYou must respond only with the JSON.\nNo text before or after the response.\nThe response must always include all JSON fields, even if they are empty.\n\nExpected JSON format (strict):\n{\n  \"narration\": \"Briefly and impactfully describe (in a short paragraph) the attempt and its result.\",\n  \"etat\": \"Very briefly and concisely summarize, preferably in a short paraphrase, the ally's new health status.\"\n}"
+  },
+  "_job_text_Combat_Tour_Ennemi": {
+    "fr": "Tu es un ennemi intelligent dans un RPG narratif, en plein combat.\r\nC’est ton tour de jouer et tu dois prendre une décision tactique entre :\r\nAttaquer un héros pour affaiblir l’équipe adverse.\r\nSoigner un allié ennemi si l’un d’entre eux est en mauvais état.\r\nBase toi sur les informations de chaque héros et chaque ennemis pour prendre ta décision. Prends le rôle que je te donne, et réfléchis à la manière de ce rôle.\r\n\r\nInstructions impératives :\r\n\r\nTu dois répondre uniquement avec le JSON.\r\nAucun texte avant ou après la réponse.\r\nLa réponse doit toujours inclure tous les champs du JSON, même s’ils sont vides.\r\nTu ne peux pas attaquer et soigner en même temps.\r\nSi tous les alliés ennemis sont en pleine santé, attaque.\r\n\r\nFormat JSON attendu (strict) :\r\n\r\n{\r\n  \"attaquer\": true ou false,\r\n  \"soigner\": true ou false,\r\n  \"cible\": \"le nom de la cible que tu veux attaquer ou soigner\",\r\n\"justification\" : \"justifie ici l'action entreprie et le choix de la cible plutôt qu'une autre. La justification doit être courte et concise.\"\r\n}",
+    "en": "You are an intelligent enemy in a narrative RPG, in the middle of combat.\nIt's your turn to act, and you must make a tactical decision between:\nAttacking a hero to weaken the opposing team.\nHealing an enemy ally if one of them is in poor condition.\nBase your decision on the information about each hero and each enemy. Take on the role I give you, and think about how that role would act.\n\nMandatory instructions:\n\nYou must respond only with JSON.\nNo text before or after the response.\nThe response must always include all JSON fields, even if they are empty.\nYou cannot attack and heal at the same time.\nIf all enemy allies are in full health, attack.\n\nExpected JSON format (strict):\n\n{\n  \"attaquer\": true or false,\n  \"soigner\": true or false,\n  \"cible\": \"the name of the target you want to attack or heal\",\n  \"justification\": \"justify here the action taken and the choice of target over another. The justification must be short and concise.\"\n}"
+  },
+  "_job_text_Fin": {
+    "fr": "Tu es le maître de jeu d’une partie de jeu de rôle qui vient de se terminer. En te basant sur le synopsis de la partie et les personnages impliqués, rédige un court paragraphe qui raconte la fin de l’aventure. Si les héros ont échoué et sont tous morts, décris une conclusion tragique où le mal s’échappe du donjon et menace le monde extérieur. Si les héros ont triomphé, écris une fin victorieuse où le mal est vaincu et les survivants rentrent chez eux en paix.",
+    "en": "You are the game master of a role-playing game session that has just ended. Based on the synopsis of the session and the characters involved, write a short paragraph describing the end of the adventure. If the heroes failed and all died, describe a tragic conclusion where evil escapes the dungeon and threatens the outside world. If the heroes triumphed, write a victorious ending where evil is defeated and the survivors return home in peace."
+  },
+  "_job_text_Supplication": {
+    "fr": "Tu incarnes un étudiant qui écrit un court paragraphe dans un jeu qu'il a créé pour que les gens aillent répondre au questionnaire car c'est cela qui lui permet de mesurer leur ressenti sur le jeu et qui lui permettre d'écrire des résultats sur son mémoire. Ecrit en deux trois lignes d'une manière rigolote mais qui donne envie et qui fait comprendre que c'est important que l'utilisateur aille remplir ces formulaires. J'aimerai quelque chose qui fasse sourire l'utilisateur et qui supplie un peu.\r\n\r\nInstructions Impératives :\r\nTu dois répondre uniquement au format JSON strict. Aucun texte avant ou après.\r\nTous les champs du JSON doivent toujours être présents.\r\nLe champ \"texte\" contient un paragraphe court, qui implore avec humour l’utilisateur de remplir au moins le formulaire principal.\r\nTu ne parles jamais d'autres formulaires que ceux de l'application.\r\n\r\nFormat JSON attendu (strict) :\r\n{\r\n  \"texte\": \"Un paragraphe, pas trop long, qui supplie avec de l'humour l'utilisateur de remplir les formulaires, et au moins le formulaire principal.\"\r\n}",
+    "en": "You embody a student who writes a short paragraph in a game he created to encourage people to respond to the questionnaire, as this is what allows him to measure their feelings about the game and write results for his thesis. Write in two or three lines in a funny way that makes the user want to fill out the forms and understand that it is important. I would like something that makes the user smile and begs a little.\n\nImperative Instructions:\nYou must respond only in strict JSON format. No text before or after.\nAll JSON fields must always be present.\nThe \"texte\" field contains a short paragraph that humorously implores the user to fill out at least the main form.\nYou never mention any forms other than those in the application.\n\nExpected JSON format (strict):\n{\n  \"texte\": \"A paragraph, not too long, that humorously begs the user to fill out the forms, and at least the main form.\"\n}"
+  },
+  "_job_text_CombatBoss": {
+    "fr": "Tu es un game master d'un RPG. Tu génères la suite de l'histoire. Le ou les personnages croisent le boss final de l'aventure. Tu dois introduire le début du combat, de manière épique, c'est-à-dire indiquer que le boss a repéré les personnageset qu'un combat épique va avoir lieu.\r\nTa réponse doit être au format JSON structuré comme ceci :\r\n{\r\n  \"text\": \"Une description immersive en prose pour le joueur (3 à 4 phrases)\",\r\n  \"summary\": \"Une seule ligne optimisée décrivant l'événement clé\"\r\n}\r\n\r\nRègles à respecter : \r\n\r\n - Ne pas inventer d'éléments en dehors du context fourni.\r\n - N'indique pas qu'il y a des attaques.\r\n - Tenir compte des actions passées et de l'environnement visible.\r\n - Le résumé doit être discret et exploitable pour de futurs prompts.\r\n - Tu dois mentionner le boss présent dans le context fourni.\r\n - C'est le dernier combat de l'aventure, alors fait en sorte que ça soit épique.",
+    "en": "You are a game master of an RPG. You generate the next part of the story. The character(s) encounter the final boss of the adventure. You must introduce the beginning of the combat in an epic way, meaning you should indicate that the boss has spotted the characters and that an epic battle is about to take place.\nYour response must be in JSON format structured as follows:\n{\n  \"text\": \" (Put the (\") !! An immersive prose description for the player (3 to 4 sentences)\"(Put the (\") !!,\n  \"summary\": \"(Put the (\") !!A single optimized line describing the key event\"(Put the (\") !!\n}\n\nRules to follow:\n\n - Do not invent elements outside the provided context.\n - Do not indicate that there are attacks.\n - Take into account past actions and the visible environment.\n - The summary must be discreet and usable for future prompts.\n - You must mention the boss present in the provided context.\n - This is the final battle of the adventure, so make sure it is epic."
+  },
+  "_job_text_CombatStartBoss": {
+    "fr": "Tu es le maître de jeu d’un RPG (role-playing game), chargé d'imaginer un boss immersif et adapté au thème donné en input.\r\n\r\nTu dois produire le boss en respectant précisément le format JSON suivant :\r\n\r\n{\r\n      \"name\": \"Nom ou type du monstre (évocateur et cohérent avec le thème)\",\r\n      \"physical_description\": \"Description physique concise, mettant en avant ses caractéristiques distinctives\",\r\n      \"description\": \"Présentation brève du boss destinée au joueur\"\r\n}\r\n\r\nConsignes supplémentaires :\r\n\r\nLe boss doit être unique et refléter le thème donné.\r\nSi le thème est spécifique, adapte le nom du boss et sa description pour coller à l’ambiance.\r\nLe nom du boss doit être le même que celui donné en input.",
+    "en": "You are the game master of an RPG (role-playing game), tasked with imagining an immersive boss adapted to the given theme in the input.\n\nYou must produce the boss by strictly adhering to the following JSON format:\n\n{\n      \"name\": \"Name or type of monster (evocative and consistent with the theme)\",\n      \"physical_description\": \"Concise physical description, highlighting its distinctive characteristics\",\n      \"description\": \"Brief presentation of the boss intended for the player\"\n}\n\nAdditional guidelines:\n\nThe boss must be unique and reflect the given theme.\nIf the theme is specific, adapt the boss's name and description to match the atmosphere.\nThe name of the boss must be the same as the one given in the input."
+  },
+  "_job_text_BadEnd": {
+    "fr": "Prends le rôle d'un maître de jeu d’un RPG (role-playing game, jeu de rôles), chargé de créer une fin tragique et immersive pour l'histoire.\r\nTu dois produire un court paragraphe décrivant la fin tragique de l'histoire et des personnage, en respectant le format JSON suivant :\r\n{  \r\n\"fin\": \"Description de la fin tragique\"\r\n}\r\nConsignes supplémentaires :\r\nLa fin doit être unique et refléter le thème et l'intrigue (synospys) donné.\r\nLe thème est spécifique, adapte la description pour coller à l’ambiance.\r\nLa description doit être évocatrice et immersive.",
+    "en": "Take on the role of a game master of an RPG (role-playing game), tasked with creating a tragic and immersive ending for the story.\nYou must produce a short paragraph describing the tragic ending of the story and the characters, adhering to the following JSON format:\n{\n  \"fin\": \"Description of the tragic ending\"\n}\n\nAdditional guidelines:\nThe ending must be unique and reflect the given theme and plot (synopsis).\nThe theme is specific, so adapt the description to match the atmosphere.\nThe description must be evocative and immersive."
+  },
+  "_job_text_GoodEnd": {
+    "fr": "Prends le rôle d'un maître de jeu d’un RPG (role-playing game, jeu de rôles), chargé de créer une fin heureuse et immersive pour l'histoire. Tu peux indiquer que le mal est vaincu, que les héros trouvent des trésors dans la dernière salle du donjon. Tu peux ajouter un suspens d'annonce dans la dernière phrase.\r\nTu dois produire un court paragraphe décrivant la fin heureusede l'histoire et des personnage, en respectant le format JSON suivant :\r\n{  \r\n\"fin\": \"Description de la fin heureuse\"\r\n}\r\nConsignes supplémentaires :\r\nLa fin doit être unique et refléter le thème et l'intrigue (synospys) donné.\r\nLe thème est spécifique, adapte la description pour coller à l’ambiance.\r\nLa description doit être évocatrice et immersive.",
+    "en": "Take on the role of a game master of an RPG (role-playing game), tasked with creating a happy and immersive ending for the story. You can indicate that evil is vanquished, that the heroes find treasures in the last room of the dungeon. You can add a suspenseful announcement in the last sentence.\nYou must produce a short paragraph describing the happy ending of the story and the characters, adhering to the following JSON format:\n{\n  \"fin\": \"Description of the happy ending\"\n}\n\nAdditional guidelines:\nThe ending must be unique and reflect the given theme and plot (synopsis).\nThe theme is specific, so adapt the description to match the atmosphere.\nThe description must be evocative and immersive."
+  },
+  "_job_text_GenererPromptImageBonneFin": {
+    "fr": "Tu es un créateur de prompts visuels pour générateurs d’images IA, spécialisé dans les scènes de fin d’histoire de RPG. Ton rôle est de transformer une brève description narrative en un prompt d’image détaillé, inspirant et cinématographique. Tu dois :\r\n\r\nIdentifier le thème artistique (fantasy, steampunk, etc.)\r\nMettre en valeur les héros et leur posture\r\nInclure des éléments du combat ou du mal vaincu\r\nRefléter l’ambiance émotionnelle (joie, perte, paix retrouvée…)\r\nDécrire l’environnement (ciel, ruines, lumière, nature, etc.)\r\n\r\nEcris un prompt optimisé en anglais pour un générateur d’image, sans trop d’adjectifs redondants.\r\n\r\nInstructions impératives :\r\nTu dois répondre uniquement avec le JSON.\r\nAucun texte avant ou après la réponse.\r\nFormat JSON attendu (strict) :\r\n{\r\n   \"prompt\":\"ton prompt\" \r\n}",
+    "en": "You are a creator of visual prompts for AI image generators, specializing in RPG end-of-story scenes. Your role is to transform a brief narrative description into a detailed, inspiring, and cinematic image prompt. You must:\n\nIdentify the artistic theme (fantasy, steampunk, etc.)\nHighlight the heroes and their posture\nInclude elements of the battle or the vanquished evil\nReflect the emotional atmosphere (joy, loss, peace regained, etc.)\nDescribe the environment (sky, ruins, light, nature, etc.)\n\nWrite an optimized prompt in English for an image generator, without too many redundant adjectives.\n\nImperative Instructions:\nYou must respond only with the JSON.\nNo text before or after the response.\nExpected JSON format (strict):\n{\n   \"prompt\":\"your prompt\"\n}"
+  },
+  "_job_text_GenererPromptImageMauvaiseFin": {
+    "fr": "Tu es un créateur de prompts visuels pour générateurs d’images IA, spécialisé dans les fins tragiques de jeux de rôle. Ton objectif est de produire des prompts puissants, cinématographiques, qui illustrent la défaite des héros et l’ascension du mal.\r\n\r\nTa description doit capturer :\r\nL’environnement du lieu final (ex : donjon, sanctuaire, trône maudit)\r\nLes corps ou armes des héros tombés (impliquant leur fin)\r\nL’atmosphère sombre, pesante, silencieuse ou apocalyptique\r\nLa présence ou manifestation du mal victorieux (créature, silhouette, corruption)\r\nUne touche dramatique ou poétique (ex : lumière éteinte, pluie, silence figé)\r\n\r\nEcris un prompt optimisé en anglais pour des générateurs d’image, avec un style sombre, visuel, et évocateur.\r\n\r\nInstructions impératives :\r\nTu dois répondre uniquement avec le JSON.\r\nAucun texte avant ou après la réponse.\r\nFormat JSON attendu (strict) :\r\n{\r\n   \"prompt\":\"ton prompt\" \r\n}",
+    "en": "You are a creator of visual prompts for AI image generators, specializing in tragic endings for role-playing games. Your goal is to produce powerful, cinematic prompts that illustrate the defeat of the heroes and the rise of evil.\n\nYour description must capture:\nThe environment of the final location (e.g., dungeon, sanctuary, cursed throne)\nThe bodies or weapons of the fallen heroes (implying their end)\nThe dark, heavy, silent, or apocalyptic atmosphere\nThe presence or manifestation of the victorious evil (creature, silhouette, corruption)\nA dramatic or poetic touch (e.g., extinguished light, rain, frozen silence)\n\nWrite an optimized prompt in English for image generators, with a dark, visual, and evocative style.\n\nImperative Instructions:\nYou must respond only with the JSON.\nNo text before or after the response.\nExpected JSON format (strict):\n{\n   \"prompt\":\"your prompt\"\n}"
+  },
+  "_job_text_traductionPersonnage": {
+    "fr": "Tu es un traducteur d'une langue vers une autre vers une autre langue. Si la langue d'entrée est la même que la langue cible, alors tu peux simplement recopier.'\r\nTu vas devoir traduire la description, race, classe et l'arme de personnages.\r\n\r\nTu dois traduire chaque personnage en respectant précisément le format JSON.\r\nInstructions impératives :\r\nTu dois répondre uniquement avec le JSON.\r\nAucun texte avant ou après la réponse.\r\nLa réponse doit toujours inclure tous les champs du JSON, même s’ils sont vides.\r\nFormat JSON attendu (strict) :\r\n{\r\n  \"personnage\": [\r\n    {\r\n      \"description\": \"traduction de la description vers la langue cible\",\r\n      \"race\": \"traduction de la race vers la langue cible\",\r\n      \"classe\": \"traduction de la classe vers la langue cible\",\r\n      \"arme\": \"traduction de l'arme vers la langue cible\"\r\n    }\r\n  ]\r\n}",
+    "en": "You're a translator from one language into another. If the input language is the same as the target language, then you can simply copy.'\r\nYou're going to have to translate the description, race, class and weapon of the characters. You'll have to translate each character in precise JSON format..\r\nImperative instructions :\r\nYou must only reply with JSON.no text before or after the reply.\r\nThe response must always include all the JSON fields, even if they are empty.\r\nJSON format expected (strict) :\r\n{\r\n  \"personnage\": [\r\n    {\r\n      \"description\": \"translation of the description into the target language\",\r\n      \"race\": \"translating the race into the target language\",\r\n      \"classe\": \"translation from the classroom into the target language\",\r\n      \"arme\": \"translation of the weapon into the target language\"\r\n    }\r\n  ]\r\n}"
+  },
+  "__createPrompt__Generate_Intrigue__": {
+    "fr": "{\n\"thème\" : \"{theme}\",\n\"personnages\" : \"{characters}\" }",
+    "en": "{\n\"theme\" : \"{theme}\",\n\"characters\" : \"{characters}\" }"
+  },
+  "__createPrompt__Generate_CharactersDescriptions_Introduction__": {
+    "fr": "Personnage {0} : Nom : {1}. Description : {2}. ",
+    "en": "Character {0} : Name : {1}. Description : {2}. "
+  },
+  "__createPrompt__room_1_Starter__": {
+    "fr": "{\n\"thème\" : \"{theme}\",\n\"synopsys\" : \"{synopsis}\",\n\"personnages\" : \"{characters}\",\n\"environnement\" : \"{environment}\"\n}",
+    "en": "{\n\"theme\" : \"{theme}\",\n\"synopsis\" : \"{synopsis}\",\n\"characters\" : \"{characters}\",\n\"environment\" : \"{environment}\"\n}"
+  },
+  "__createPrompt__Generate_Prompt_Free": {
+    "fr": "{\n\"thème\" : \"{theme}\",\n\"synopsys\" : \"{synopsis}\",\n\"environnement\" : \"{environment}\",\n\"groupe 1\" : \"{group_names}\",\n\"position précédente\" : \"{last_position}\",\n\"vision autour du groupe\" : \"{vision}\",\n\"historique\" : \"{history}\",\n{other_groups}\n\"focus\" : \"{focus}\",\n\"action\": \"{action}\"\n}",
+    "en": "{\n\"theme\" : \"{theme}\",\n\"synopsis\" : \"{synopsis}\",\n\"environment\" : \"{environment}\",\n\"group 1\" : \"{group_names}\",\n\"previous position\" : \"{last_position}\",\n\"group vision\" : \"{vision}\",\n\"history\" : \"{history}\",\n{other_groups}\"focus\" : \"Focus on group 1 ({focus})\",\n\"action\": \"{action}\"\n}"
+  },
+  "__case__non_visitee__": {
+    "fr": "Case non-visitée",
+    "en": "Unvisited tile"
+  },
+  "__case__non_visitee__minuscule": {
+    "fr": "case non-visitée(s).",
+    "en": "unvisited tile(s)"
+  },
+  "__case__loot__": {
+    "fr": "Un coffre non-ouvert;",
+    "en": "A unlocked box;"
+  },
+  "__case__ennemy__": {
+    "fr": "Un ennemi;",
+    "en": "An enemy;"
+  },
+  "__case__doorlocked__": {
+    "fr": "Une porte fermée;",
+    "en": "A locked door;"
+  },
+  "__case__doorunlocked__": {
+    "fr": "Une porte;",
+    "en": "A door"
+  },
+  "__vision__current": {
+    "fr": "\nSur les cases actuelles des joueurs (distance de 0 case) : {content}",
+    "en": "\nOn the current tiles of the players (0 tile away): {content}"
+  },
+  "__vision__distance_one": {
+    "fr": "\nÀ une distance de 1 case : {content}",
+    "en": "\nAt a distance of 1 tile: {content}"
+  },
+  "__vision__distance_many": {
+    "fr": "\nÀ une distance de {distance} cases : {content}",
+    "en": "\nAt a distance of {distance} tiles: {content}"
+  },
+  "__vision__no_door": {
+    "fr": "Il n'y a aucune porte visible actuellement.",
+    "en": "No doors are visible at the moment."
+  },
+  "__split_group_1_message__": {
+    "fr": "Le groupe de {_prev0} et {_prev1} s'est divisé. {_new0} continue seul(e).",
+    "en": "The group of {_prev0} and {_prev1} has split. {_new0} continues alone."
+  },
+  "__split_group_2_message__": {
+    "fr": "Le groupe de {_prev0}, {_prev1} et {_prev2} s'est divisé. {_new0} continue seul(e).",
+    "en": "The group of {_prev0}, {_prev1} and {_prev2} has split. {_new0} continues alone."
+  },
+  "__split_group_3_message__": {
+    "fr": "Le groupe de {_prev0}, {_prev1}, {_prev2} et {_prev3} s'est divisé. {_new0} continue seul(e).",
+    "en": "The group of {_prev0}, {_prev1}, {_prev2} and {_prev3} has split. {_new0} continues alone."
+  },
+  "__split_group_4_message__": {
+    "fr": "Le groupe de {_prev0}, {_prev1} et {_prev2} s'est divisé. {_new0} et {_new1} continuent à 2.",
+    "en": "The group of {_prev0}, {_prev1} and {_prev2} has split. {_new0} and {_new1} continue at 2."
+  },
+  "__split_group_5_message__": {
+    "fr": "Le groupe de {_prev0}, {_prev1}, {_prev2} et {_prev3} s'est divisé. {_new0} et {_new1} continuent à 2.",
+    "en": "The group of {_prev0}, {_prev1}, {_prev2} and {_prev3} has split. {_new0} and {_new1} continue at 2."
+  },
+  "__split_group_6_message__": {
+    "fr": "Le groupe de {_prev0}, {_prev1}, {_prev2} et {_prev3} s'est divisé. {_new0}, {_new1} et {_new2} continuent à 3.",
+    "en": "The group of {_prev0}, {_prev1}, {_prev2} and {_prev3} has split. {_new0}, {_new1} and {_new2} continue at 3."
+  },
+  "__voisin__distance__coffre_singulier_": {
+    "fr": "Un coffre se trouve à {dist} case.",
+    "en": "A chest is located at {dist} tile."
+  },
+  "__voisin__distance__coffre_pluriel_": {
+    "fr": "Un coffre se trouve à {dist} cases.",
+    "en": "A chest is {dist} tiles away."
+  },
+  "__case_restes_ennemies": {
+    "fr": "Les restes d'ennemis vaincus par le groupe, mais il n'y a plus aucun loot sur eux.",
+    "en": "The remnants of enemies defeated by the group, but no loot left on them."
+  },
+  "__case_aucun_autre_joueur": {
+    "fr": "Il n'y a aucun autre personnage dans l'histoire.",
+    "en": "There are no other characters in the story."
+  },
+  "__case_split_group_1_": {
+    "fr": "{player0} se sépare du reste du groupe.",
+    "en": "{player0} separates from the rest of the group."
+  },
+  "__case_split_group_2_": {
+    "fr": "{player0} se sépare du reste du groupe et est à présent seul(e).",
+    "en": "{player0} separates from the rest of the group and is now alone."
+  },
+  "__case_split_group_3_": {
+    "fr": "{player0} et {player1} se séparent du reste du groupe.",
+    "en": "{player0} and {player1} separate from the rest of the group."
+  },
+  "__case_split_group_4_": {
+    "fr": "{player0} et {player1} se séparent du reste du groupe et sont à présent à deux.",
+    "en": "{player0} and {player1} separate from the rest of the group and are now in pairs."
+  },
+  "__case_split_group_5_": {
+    "fr": "{player0}, {player1} et {player2} se séparent du reste du groupe.",
+    "en": "{player0}, {player1} and {player2} separate from the rest of the group."
+  },
+  "__case_split_group_6_": {
+    "fr": "{player0}, {player1} et {player2} se séparent du reste du groupe et sont à présent à 3.",
+    "en": "{player0}, {player1} and {player2} separate from the rest of the group and are now down to 3."
+  },
+  "__inventory_empty_": {
+    "fr": "Aucun objet dans l'inventaire.",
+    "en": "No items in inventory."
+  },
+  "__other_group_informations_without__": {
+    "fr": "\"information\" : \"Le groupe 1 est au complet, il n'y a pas d'autre groupe.\",\n",
+    "en": "\"information\" : \"Group 1 is complete, there are no other groups.\",\n"
+  },
+  "__other_group_informations_with__": {
+    "fr": "\"information\" : \"Il y a plusieurs groupes, les personnages ne peuvent donc pas ouvrir une porte si il y en a une.\",\n",
+    "en": "\"information\" : \"There are several groups, so characters can't open a door if there is one.\",\n"
+  },
+  "__other_group_informations_unknow__": {
+    "fr": "\"groupe {count}\" : \"{group_name)}, la position et les objetcifs du groupe {count} sont inconnus du groupe 1\",\n",
+    "en": "\"group {count}\" : \"{group_name)}, the position and objects of group {count} are unknown to group 1\",\n"
+  },
+  "__get_resume_group_of_1": {
+    "fr": "\"personnage\" : \"{personnage} est seul(e).\",\n\"description\" : \"{description}\",\n\"santé\" : \"{santé}\",\n\"inventaire\": \"{inventaire}\",\n\"évènements\" : \"{évènements_héros}\",\n\"carte\" : \"Dans son champs de vision actuel, il y a : {carte}\"\n",
+    "en": "\"character\" : \"{personnage}  is alone.\",\n\"description\" : \"{description}\",\n\"health\" : \"{santé}\",\n\"inventory\": \"{inventaire}\",\n\"events\" : \"{évènements_héros}\",\n\"map\" : \"In his current field of vision, there are : {carte}\"\n"
+  },
+  "__get_resume_group_of_2": {
+    "fr": "\"personnages\":\"Groupe de 2 composé de {personnage}\",\n\"description\":\"{description}\",\n\"santé\":\"{santé}\",\n\"inventaire\":\"{inventaire}\",\n\"événements\":\"{événements}\",\n\"carte\":\"Dans leurs champs de vision actuel, il y a : {carte}\"\n",
+    "en": "\"character\":\"Group of 2 made up of {personnage}\",\n\"description\":\"{description}\",\n\"health\":\"{santé}\",\n\"inventory\":\"{inventaire}\",\n\"events\":\"{événements}\",\n\"map\":\"In their current fields of vision, there are : {carte}\"\n"
+  },
+  "__get_resume_group_of_3": {
+    "fr": "\"personnages\":\"Groupe de 3 composé de {personnage}\",\n\"description\":\"{description}\",\n\"santé\":\"{santé}\",\n\"inventaire\":\"{inventaire}\",\n\"événements\":\"{événements}\",\n\"carte\":\"Dans leurs champs de vision actuel, il y a : {carte}\"\n",
+    "en": "\"personnages\":\"Group of 3 made up of {personnage}\",\n\"description\":\"{description}\",\n\"health\":\"{santé}\",\n\"inventory\":\"{inventaire}\",\n\"events\":\"{événements}\",\n\"map\":\"In their current fields of vision, there are : {carte}\"\n"
+  },
+  "__get_resume_group_of_4": {
+    "fr": "\"personnages\":\"Groupe de 4 composé de {personnage}\",\n\"description\":\"{description}\",\n\"santé\":\"{santé}\",\n\"inventaire\":\"{inventaire}\",\n\"événements\":\"{événements}\",\n\"carte\":\"Dans leurs champs de vision actuel, il y a : {carte}\"\n",
+    "en": "\"personnages\":\"Group of 4 made up of  {personnage}\",\n\"description\":\"{description}\",\n\"health\":\"{santé}\",\n\"inventory\":\"{inventaire}\",\n\"events\":\"{événements}\",\n\"map\":\"In their current fields of vision, there are : {carte}\"\n"
+  },
+  "__prompt__next_room__": {
+    "fr": "{{\n\"thème\":\"{theme}\",\n\"synopsis\": {synopsis}\",\n\"personnages\": {characters}\",\n\"résumé de la salle précédente\": {resume}\",\n\"environnement de la nouvelle salle ({count})\":\" {resumeNewRoom}\",\n\"précision\":\" Dans la section \"histoire\", tu dois bien faire une liaison narrative entre l'ancienne salle et la nouvelle salle. Les héros ont ouvert une porte entre les deux.\"\n}}",
+    "en": "{{\n\"theme\":\"{theme}\",\n\"synopsis\": {synopsis}\",\n\"characters\": {characters}\",\n\"summary of the previous room\": {resume}\",\n\"environment of the new room ({count})\":\" {resumeNewRoom}\",\n\"accuracy\":\" In the \"histoire\" section,  you need to make a narrative link between the old room and the new one.The heroes have opened a door between the two.\"\n}}"
+  },
+  "__prompt__bad_end": {
+    "fr": "{{\n\"thème\" : \" {theme} \",\n\"synopsys\" : \" {synopsis} \",\n\"personnages\" : \" {characters} \",\n\"historique\" : \" {historique} \",\n\"information\":\"Malheureusement, tous les personnages sont morts durant leur quête.\",\n\"dernier combat\" : \"{dernier_combat}\"\n}}",
+    "en": "{{\n\"theme\" : \" {theme} \",\n\"synopsys\" : \" {synopsis} \",\n\"characters\" : \" {characters} \",\n\"history\" : \" {historique} \",\n\"information\":\"Unfortunately, all the characters died during their quest.\",\n\"last fight\" : \"{dernier_combat}\"\n}}"
+  },
+  "__prompt__good_end": {
+    "fr": "{{\n\"thème\" : \" {theme} \",\n\"synopsys\" : \" {synopsis} \",\n\"personnages\" : \" {characters} \",\n\"historique\" : \" {historique} \",\n\"information\":\"Les héros ont vaincu le boss final, ils ont donc réussi leur quête.\",\n\"dernier combat\" : \"{dernier_combat}\"\n}}",
+    "en": "{{\n\"theme\" : \" {theme} \",\n\"synopsys\" : \" {synopsis} \",\n\"characters\" : \" {characters} \",\n\"history\" : \" {historique} \",\n\"information\":\"The heroes have defeated the final boss, so have successfully completed their quest.\",\n\"last fight\" : \"{dernier_combat}\"\n}}"
+  },
+  "__prompt__generation_image__bad_end": {
+    "fr": "{{\n\"thème\" : \" {theme} \",\n\"synopsys\" : \" {synopsis} \",\n\"personnages\" : \"{characters}\",\n\"état final\":\"{final}\",\n\"style artistique\":\"fresque peinte, ambiance sombre\"\n}}",
+    "en": "{{\n\"theme\" : \" {theme} \",\n\"synopsys\" : \" {synopsis} \",\n\"characters\" : \"{characters}\",\n\"final state\":\"{final}\",\n\"artistic style\":\"painted fresco, dark atmosphere\"\n}}"
+  },
+  "__prompt__generation_image__good_end": {
+    "fr": "{{\n\"thème\" : \" {theme} \",\n\"synopsys\" : \" {synopsis} \",\n\"personnages\" : \"{characters}\",\n\"état final\":\"{final}\",\n\"style artistique\":\"peinture digitale réaliste, ambiance magique\"\n}}",
+    "en": "{{\n\"theme\" : \" {theme} \",\n\"synopsys\" : \" {synopsis} \",\n\"characters\" : \"{characters}\",\n\"final state\":\"{final}\",\n\"artistic style\":\"realistic digital painting, magical atmosphere\"\n}}"
+  },
+  "__title_fin_tragique": {
+    "fr": "AÏE AÏE AÏE",
+    "en": "OUCH OUCH OUCH"
+  },
+  "__description_fin_tragique": {
+    "fr": "Tu as perdu...",
+    "en": "You lost..."
+  },
+  "__title_fin_heureuse": {
+    "fr": "FÉLICITATION !",
+    "en": "CONGRATULATIONS!"
+  },
+  "__description_fin_heureuse": {
+    "fr": "Tu as gagné!",
+    "en": "You've won!"
+  },
+  "__coherence_input_becareful": {
+    "fr": "Attention , entre temps, un ou plusieurs personnages ont rejoint le groupe, prends le en comtpe : ",
+    "en": "Attention, in the meantime, one or more characters have joined the group, take it into account: "
+  },
+  "__coherence_input_create_prompt__": {
+    "fr": "{{\"thème\" : \"{theme}\",\n\"synopsys\" : \"{synopsys}\",\n\"groupe 1\": \"{groupe_names}\",\n\"position précédente\" : \"{ancienne_position}\",\n\"vision autour du groupe\": \"{vision}\",\n\"historique\" : \"{historique}\",\n{other}\n\n\"focus\" : \"Focus du prompt sur le groupe 1 ({focus})\",\n\"choix\": \"Le groupe choisit de faire ceci, vérifie si c'est cohérent : {choix}",
+    "en": "{{\"theme\" : \"{theme}\",\n\"synopsys\" : \"{synopsys}\",\n\"group 1\": \"{groupe_names}\",\n\"previous position\" : \"{ancienne_position}\",\n\"vision around the group\": \"{vision}\",\n\"history\" : \"{historique}\",\n{other}\n\n\"focus\" : \"Prompt focus on Group 1  ({focus})\",\n\"choice\": \"The group chooses to do this, checks if it's coherent:  {choix}"
+  },
+  "__coherence_input_create_prompt__ia_choose": {
+    "fr": "Choix vide, à toi de décider une action logique en fonction de l'environnement (coffre, porte, ...) et des personnages.\"\n}",
+    "en": "Empty choice: So it's up to you to decide, in the player's stead, what action makes sense given the environment (chest, door, etc.) and the characters.\"\n}"
+  },
+  "__coherence_input_add_info_A": {
+    "fr": "\"porte\" : true or false \\Toutes les condition sont réunies pour ouvrir la porte SI c'est mentionné dans \"choix\".\n}}",
+    "en": "\"door\" : true or false \\All conditions are met to open the door IF mentioned in \"choix\".\n}}"
+  },
+  "__coherence_input_add_info_B": {
+    "fr": "\"porte\" : false \\Car les héros sont divisés en plusieurs groupes, et ils doivent être tous réunis pour pouvoir ouvrir.\n}}",
+    "en": "\"door\" : false \\Because the heroes are divided into several groups, and they all have to be brought together before they can open.\n}}"
+  },
+  "__coherence_input_add_info_C": {
+    "fr": "\"porte\" : true or false \\Toutes les condition sont réunies pour ouvrir la porte SI c'est mentionné dans \"choix\".\n}}",
+    "en": "\"door\" : true or false \\All conditions are met to open the door IF mentioned in \"choix\".\n}}"
+  },
+  "__coherence_input_add_info_D": {
+    "fr": "\"porte\" : false \\Car le groupe ne possède pas encore de clé pour ouvrir la porte.\n}}",
+    "en": "\"door\" : false \\Because the group doesn't yet have a key to open the door.\n}}"
+  },
+  "__coherence_input_add_info_E": {
+    "fr": "\"porte\" : false \\Car il n'y a pas de porte adjacente à un personnage.\n}}",
+    "en": "\"door\" : false \\Because there is no door adjacent to a character.\n}}"
+  },
+  "__createPrompt__Generate_Loot__": {
+    "fr": "{{\n\"thème\":\"{theme}\",\n\"synopsys\":\"{synopsys}\",\n\"nombre_items'\":{count}\n}}",
+    "en": "{{\n\"theme\":\"{theme}\",\n\"synopsys\":\"{synopsys}\",\n\"numberOfItems\":{count}\n}}"
+  },
+  "__createPrompt__Generate_case_description__": {
+    "fr": "{{\n\"thème\":\"{theme}\",\n\"synopsys\":\"{synopsys}\",\n\"environnement\":\"{environnement}\",\n\"cases proches\":\"{cases}\"\n}}",
+    "en": "{{\n\"theme\":\"{theme}\",\n\"synopsys\":\"{synopsys}\",\n\"environment\":\"{environnement}\",\n\"nearby chest\":\"{cases}\"\n}}"
+  },
+  "__dice_resultats": {
+    "fr": "Résultat du lancer : ",
+    "en": "Result of die roll :"
+  },
+  "__combat_creation_prompt_generation_enemy": {
+    "fr": "{{\n\"thème\" : \"{theme}. Génère donc des ennemis cohérent avec ce thème, ou qui existent réelement dans ce thème.\",\n\"synopsys\" : {synopsys}\",\n\"environnement\" : {environnement}\",\n\"count\" : {count},\n\"difficulté\" : {difficulte}\"",
+    "en": "{{\n\"theme\" : \"Generate enemies that are consistent with the theme, or that actually exist in the theme.\",\n\"synopsys\" : {synopsys}\",\n\"environment\" : {environnement}\",\n\"count\" : {count},\n\"difficulty\" : {difficulte}\""
+  },
+  "__combat_creation_prompt_generation_enemy_info_supp": {
+    "fr": ",\n\"ennemis interdits\" : \"Voici une liste de tous les ennemis déjà rencontrés auparavant, que tu ne peux pas réutiliser : {previousEnemy}\"\n}}",
+    "en": ",\n\"forbidden enemies\" : \"Here's a list of all the enemies you've encountered before that you can't use again: {previousEnemy}\"\n}}"
+  },
+  "_combat_phase_de_combat": {
+    "fr": "Phase de combat",
+    "en": "Fighting phase"
+  },
+  "_combat_force_honneur": {
+    "fr": "Force et honeur",
+    "en": "Force and honour"
+  },
+  "_combat_createprompt_starting": {
+    "fr": "{{\n\"thème\" : \"{theme}\",\n\"synopsys\" : {synopsys}\",\n\"environnement actuel\" : {environnement}\",\n\"personnages\" : {personnages}\",\n\"position précédente\" : {oldposition}\",\n\"action\": {action}>\",\n",
+    "en": "{{\n\"theme\" : \"{theme}\",\n\"synopsys\" : {synopsys}\",\n\"current environment\" : {environnement}\",\n\"characters\" : {personnages}\",\n\"previous position\" : {oldposition}\",\n\"action\": {action}>\",\n"
+  },
+  "_combat_createprompt_starting_Suite_ennemi": {
+    "fr": "\"combat\" : \"C'est \\\"ennemi\\\" a repéré \\\"héros\\\", c'est donc \\\"ennemi\\\" qui commence à attaquer \\\"héros\\\". Indique cela dans ta réponse.\"",
+    "en": "\"combat\" : \"\\\"enemy\\\" spotted \\\"hero\\\", so it was \\\"enemy\\\" who attacked \\\"hero\\\". Indicate this in your answer."
+  },
+  "_combat_createprompt_starting_Suite_hero": {
+    "fr": "\"combat\" : \"C'est \\\"héros\\\" a repéré \\\"ennemi\\\", c'est donc \\\"héros\\\" qui commence à attaquer \\\"ennemi\\\". Indique cela dans ta réponse.\"",
+    "en": "\"combat\" : \"\\\"hero\\\" spotted \\\"enemy\\\", so it was \\\"hero\\\" who attacked \\\"enemy\\\". Indicate this in your answer."
+  },
+  "_combat_createprompt_enemy_count": {
+    "fr": ",\n\"nombre ennemi\" : {count}",
+    "en": ",\n\"number of enemies\" : {count}"
+  },
+  "_combat_ennemi_word": {
+    "fr": "ennemi",
+    "en": "enemy"
+  },
+  "_combat_autourde": {
+    "fr": "Au tour de {name}",
+    "en": "{name}'s turn"
+  },
+  "_combat_que_veux_tu_faire": {
+    "fr": "Que veux-tu faire?",
+    "en": "What do you want to do?"
+  },
+  "_combat_place_holder_attack": {
+    "fr": "Décris ton attaque (ou laisse vide et l'ia choisira pour toi).",
+    "en": "Describe your attack (or leave it blank and the ia will choose it for you)."
+  },
+  "_combat_place_attack_describe": {
+    "fr": "Choisis une cible et entre la description de ton attaque souhaitée.",
+    "en": "Choose a target and enter the description of your desired attack."
+  },
+  "_combat_send_button_explication_attaque": {
+    "fr": "Tu dois sélectionner un ennemi à attaquer avant.",
+    "en": "You have to select an enemy to attack first."
+  },
+  "_combat_place_holder_soin": {
+    "fr": "Décris ton soin apporté (ou laisse vide et l'ia choisira pour toi).",
+    "en": "Describe your care (or leave it blank and ia will choose for you)."
+  },
+  "_combat_place_soin_describe": {
+    "fr": "Choisis un allié (ou toi-même) et entre la description de ton soin apporté.",
+    "en": "Choose an ally (or yourself) and enter a description of your care."
+  },
+  "_combat_send_button_explication_soin": {
+    "fr": "Tu dois sélectionner un allié (ou toi-même) à soigner avant.",
+    "en": "You must select an ally (or yourself) to heal first."
+  },
+  "_combat_ennemi_pense": {
+    "fr": "L'ennemi réfléchit à son action.",
+    "en": "The enemy thinks about what to do."
+  },
+  "_combat_ennemi_choisit_attaque": {
+    "fr": "Il a décidé d'attaquer ",
+    "en": "He decided to attack "
+  },
+  "_combat_ennemi_choisit_soin": {
+    "fr": "Il a décidé de soigner ",
+    "en": "He decided to heal "
+  },
+  "_combat_ennemi_tour_attaque_ennemi_rate": {
+    "fr": "{{\"<Heros>\":\n{{ \"Nom\" : \"{name}\",\n\"Race\": \"{race}\",\n\"Classe\" : \"{classe}\",\n\"Description\" : \"{description}\",\n\"Santé avant l'attaque\" : \"{sante}\"\n}},\n{{\"<Ennemie>\":\n{{ \"Nom\" : \"{ennemi}\",\n\"Description\" : \"{ennemi_description}\"}},\n}}\n\n C'est {ennemi} qui attaque {name}. Raconte que {ennemi} rate son attaque (ou que {name} esquive), l'état de santé de {name} ne change donc pas.",
+    "en": "{{\"<Hero>\":\n{{ \"Name\" : \"{name}\",\n\"Race\": \"{race}\",\n\"Class\" : \"{classe}\",\n\"Description\" : \"{description}\",\n\"Health before the attack\" : \"{sante}\"\n}},\n{{\"<Enemy>\":\n{{ \"Name\" : \"{ennemi}\",\n\"Description\" : \"{ennemi_description}\"}},\n}}\n\n It is {ennemi} who attacks {name}. The story goes that {ennemi} misses his attack (or {name} dodges), so {name}'s state of health doesn't change."
+  },
+  "_combat_ennemi_tour_attaque_ennemi_reussi": {
+    "fr": "{{\"<Heros>\":\n{{ \"Nom\" : \"{name}\",\n\"Race\": \"{race}\",\n\"Classe\" : \"{classe}\",\n\"Description\" : \"{description}\",\n\"Santé avant l'attaque\" : \"{sante},\n\"Santé en chiffre avant l'attaque\" : {santeInt} /20 \n}},\n{{\"<Ennemie>\":\n{{ \"Nom\" : \"{ennemi}\",\n\"Description\" : \"{ennemi_description}\"}},\n}}\n\n C'est {ennemi} qui attaque {name}.",
+    "en": "{{\"<Hero>\":\n{{ \"Name\" : \"{name}\",\n\"Race\": \"{race}\",\n\"Class\" : \"{classe}\",\n\"Description\" : \"{description}\",\n\"Health before the attack\" : \"{sante},\n\"Health numbers before the attack\" : {santeInt} /20 \n}},\n{{\"<Enemy>\":\n{{ \"Name\" : \"{ennemi}\",\n\"Description\" : \"{ennemi_description}\"}},\n}}\n\n It is {ennemi} who is attacking {name}."
+  },
+  "_combat_santeEnChiffre": {
+    "fr": "Santé en chiffre après l'attaque",
+    "en": "\"Health in number\" : {santeInt} /20"
+  },
+  "_combat_hero_vaincu": {
+    "fr": "Tu dois indiquer que {name} est vaincu suite à cette attaque dans ta narration.",
+    "en": "You must indicate in your narrative that {name} is defeated as a result of this attack."
+  },
+  "_combat_ennemi_tour_soin": {
+    "fr": "Il s'agit ici un ennemi d'un héros qui tente de se soigner ou de soigner un autre ennemi. \n{{\"<Ennemi qui soigne>\":\n{{ \"Nom\" : \"{enemyName}\",\n\"Description\" : \"{enemySelectedDescription}\"}},\n}}\n\n C'est {enemyName} qui soigne {enemySelectedName}.",
+    "en": "This is an enemy of a hero who is trying to heal himself or another enemy.\n{{\"<Enemy who cares>\":\n{{ \"Name\" : \"{enemyName}\",\n\"Description\" : \"{enemySelectedDescription}\"}},\n}}\n\n It is {enemyName} that looks after {enemySelectedName}."
+  },
+  "_combat_ennemi_tour_soin_success": {
+    "fr": "\n {enemyName} réussit à soigner {enemySelectedName}, qui gagne {diceSoin} points de vie.",
+    "en": "\n {enemyName} manages to heal {enemySelectedName}, who gains {diceSoin} hit points."
+  },
+  "_combat_ennemi_tour_soin_rate": {
+    "fr": "\n {enemyName} rate sa tentative de soin sur {enemySelectedName}, prends le en compte.",
+    "en": "\n{enemyName} fails his care attempt on {enemySelectedName}, take it into account."
+  },
+  "_create_prompt_tour_ennnemi_part_1": {
+    "fr": "{{\"Le rôle que tu dois prendre. Tu dois donc réfléchir à la manière de cet ennemi.\": [\n{{\"nom\" : \"{name}\",\n\"description\" : \"{description}\",\n\"santé\" : \"{sante} points de vie (max : {santeMax}).",
+    "en": "{{\"The role you must take. So you have to think about how this enemy.\": [\n{{\"name\" : \"{name}\",\n\"description\" : \"{description}\",\n\"health\" : \"{sante} health points (max : {santeMax})."
+  },
+  "_create_prompt_tour_ennnemi_part_2": {
+    "fr": "Sa santé est au donc maximum.",
+    "en": "His health is at its peak."
+  },
+  "_create_prompt_tour_ennemi_allies": {
+    "fr": "ennemis alliés",
+    "en": "allied enemies"
+  },
+  "_create_prompt_tour_ennnemi_part_3": {
+    "fr": "\n{{\n\"nom\" : \"{name}\",\n\"santé\" : \"{sante} points de vie (max : {santeMax}).",
+    "en": "\n{{\n\"name\" : \"{name}\",\n\"health\" : \"{sante} health points (max : {santeMax})."
+  },
+  "_armure": {
+    "fr": "armure",
+    "en": "armor"
+  },
+  "_heros": {
+    "fr": "héros",
+    "en": "hero"
+  },
+  "_create_prompt_tour_ennnemi_part_4": {
+    "fr": "\n{{\n\"nom\" : \"{name}\",\n\"santé\" : \"{sante}\",\n\"class\" : \"{class}\",\n\"race\" : \"{race}\",\n}}",
+    "en": "\n{{\n\"name\" : \"{name}\",\n\"health\" : \"{sante}\",\n\"class\" : \"{class}\",\n\"race\" : \"{race}\",\n}}"
+  },
+  "_tu_es": {
+    "fr": "Tu es",
+    "en": "You are"
+  },
+  "_create_prompt_tour_ennnemi_part_5": {
+    "fr": "Prend le rôle à coeur, et imagine comment cet ennemi jouerait. Choisis si il est préférable d'attaquer un héros ou de se soigner soi-même ou un ennemi allié. Indique également la cible de ton action",
+    "en": "Take the role to heart, and imagine how this enemy would play. Choose whether it's better to attack a hero or to heal yourself or an allied enemy. Also indicate the target of your action"
+  },
+  "_combat_check_coherence_attaque": {
+    "fr": "{{\"<Heros>\":\n{{ \"Nom\" : \"{heroName}\"\n,\"Race\": \"{heroRace}\",\"Classe\" : \"{heroClass}\"\n,\"Arme\" : \"{heroArme}\"\n, \"Description\" : \"{heroDescription}\"\n,\"Santé actuelle\" : {heroSante}\"\n}},\n{{\"<Ennemie>\":\n{{ \"Nom\" : \"{enemyName}\",\"Description\" : \"{enemyDescription}\" ,\"Santé actuelle\" : {enemySante} point de vie.\"}},\n}}\n\n C'est {heroName} qui attaque {enemyName}. Voici la description de son choix d'attaque, vérifie si c'est cohérent : {input}",
+    "en": "{{\"<Hero>\":\n{{ \"Name\" : \"{heroName}\"\n,\"Race\": \"{heroRace}\",\"Classe\" : \"{heroClass}\"\n,\"Arm\" : \"{heroArme}\"\n, \"Description\" : \"{heroDescription}\"\n,\"Current health\" : {heroSante}\"\n}},\n{{\"<Ennemie>\":\n{{ \"Nom\" : \"{enemyName}\",\"Description\" : \"{enemyDescription}\" ,\"Current health\" : {enemySante} health points\"}},\n}}\n\n It is {heroName} that is attacking {enemyName}. Here is the description of his choice of attack, check if it is coherent : {input}"
+  },
+  "_combat_check_coherence_soin": {
+    "fr": "{{\"<Heros qui soigne>\":\n{{ \"Nom\" : \"{heroName}\",\n\"Race\": \"{heroRace}\"\n,\"Classe\" : \"{heroClass}\"\n,\"Arme\" : \"{heroArme}\",\n\"Description\" : \"{heroDescription}\",\n\"Santé actuelle\" : {heroSante}\"\n}},\n{{\"<Heros qui est soigné>\":\n{{ \"Nom\" : \"{selectedHeroName}\",\n\"Race\": \"{selectedHeroRace}\",\n\"Classe\" : \"{selectedHeroClass}\",\n\"Description\" : \"{selectedHeroDescription}\",\n\"Santé actuelle\" : {selectedHeroSante}.\"}},\n}}\n\n C'est {heroName} qui soigne {selectedHeroName}. Voici la description de son choix de soin, vérifie si c'est cohérent : {input}\n Dans ce RPG, tous les héros ont le droit de soigner, quelque soit leur classe.",
+    "en": "{{\"<Heroes who care>\":\n{{ \"Name\" : \"{heroName}\",\n\"Race\": \"{heroRace}\"\n,\"Class\" : \"{heroClass}\"\n,\"Arm\" : \"{heroArme}\",\n\"Description\" : \"{heroDescription}\",\n\"Current health\" : {heroSante}\"\n}},\n{{\"<Heroes who are cared for>\":\n{{ \"Name\" : \"{selectedHeroName}\",\n\"Race\": \"{selectedHeroRace}\",\n\"Class\" : \"{selectedHeroClass}\",\n\"Description\" : \"{selectedHeroDescription}\",\n\"Current health\" : {selectedHeroSante}.\"}},\n}}\n\n It's {heroName} who heals {selectedHeroName}. Here's the description of his choice of healing, check if it's consistent: {input}\n In this RPG, all heroes have the right to heal, whatever their class."
+  },
+  "_combat_precision_attaque": {
+    "fr": "Précision de l'attaque.",
+    "en": "Accuracy of attack."
+  },
+  "_combat_lancer_attaque": {
+    "fr": "Lance le dé pour savoir si tu touches la cible.",
+    "en": "Roll the die to see if you hit the target."
+  },
+  "_combat_degat_attaque": {
+    "fr": "Dégâts de l'attaque.",
+    "en": "Attack damage."
+  },
+  "_combat_lancer_degat": {
+    "fr": "Lance le dé pour estimer le nombre de dégats causés.",
+    "en": "Roll the die to estimate the amount of damage caused."
+  },
+  "_combat_precision_soin": {
+    "fr": "Précision du soin.",
+    "en": "Precise care."
+  },
+  "_combat_lancer_p_soin": {
+    "fr": "Lance le dé pour savoir si tu soignes la cible.",
+    "en": "Roll the die to see if you heal the target."
+  },
+  "_combat_degat_soin": {
+    "fr": "Taux de soins.",
+    "en": "Care rates."
+  },
+  "_combat_lancer_soin": {
+    "fr": "Lance le dé pour estimer la jauge de soins apportés.",
+    "en": "Roll the die to estimate the level of care provided."
+  },
+  "_combat_attaque_success": {
+    "fr": "L'attaque a réussie!",
+    "en": "The attack succeeded!"
+  },
+  "_combat_attaque_rate": {
+    "fr": "L'attaque a échouée.",
+    "en": "The attack failed."
+  },
+  "_combat_ecriture_attaque": {
+    "fr": "{{\"<Heros>\":\n{{ \"Nom\" : \"{heroName}\",\n\"Race\": \"{heroRace}\",\n\"Classe\" : \"{heroClass}\",\n\"Arme\" : \"{heroArme}\",\n\"Description\" : \"{heroDescription}\",\n\"Santé actuelle\" : {heroSante}\"\n}},\n{{\"<Ennemie>\":\n{{ \"Nom\" : \"{enemyName}\",\n\"Description\" : \"{enemyDescription}\",\n\"Santé avant l'attaque\" : {enemySante} point de vie.\"}},\n}}\n\n C'est {heroName} qui attaque {enemyName}. Voici la description de l'attaque : {descriptionAttaque}",
+    "en": "{{\"<Hero>\":\n{{ \"name\" : \"{heroName}\",\n\"Race\": \"{heroRace}\",\n\"Class\" : \"{heroClass}\",\n\"Arm\" : \"{heroArme}\",\n\"Description\" : \"{heroDescription}\",\n\"Current Health\" : {heroSante}\"\n}},\n{{\"<Enemy>\":\n{{ \"name\" : \"{enemyName}\",\n\"Description\" : \"{enemyDescription}\",\n\"Health before the attack\" : {enemySante} health points.\"}},\n}}\n\n It is {heroName} who is attacking {enemyName}. Here is the description of the attack: {descriptionAttaque}"
+  },
+  "_combat_ecriture_attaque_2": {
+    "fr": "\n\nTu dois indiquer que {enemyName} est vaincu suite à cette attaque.",
+    "en": "\n\nYou must indicate that {enemyName} is defeated as a result of this attack."
+  },
+  "_combat_ecriture_attaque_3": {
+    "fr": "Mais il reste encore {count} ennemis.",
+    "en": "But there are still {count} enemies."
+  },
+  "_combat_ecriture_attaque_4": {
+    "fr": "Il ne reste plus aucun ennemis. Le combat est terminé.",
+    "en": "There are no enemies left. The battle is over."
+  },
+  "_combat_ecriture_attaque_5": {
+    "fr": "\n\n{heroName} a infligé {degat} points de dégats à {enemyName}, qui possède encore {enemySante} point de vie, il n'est donc pas encore vaincu.",
+    "en": "\n\n{heroName} has inflicted {degat} points of damage on {enemyName}, who still has {enemySante} life points, so he is not yet defeated."
+  },
+  "_combat_ecriture_attaque_6": {
+    "fr": "\n\n {heroName} a raté son attaque contre {enemyName}. Voici la description de l'attaque : {descriptionAttaque}.Il faut donc indiquer que {heroName}  a raté son attaque (ou que {enemyName} a esquivé l'attaque).",
+    "en": "\n\n {heroName} missed his attack on {enemyName}. Here is the description of the attack: {descriptionAttaque}, indicating that {heroName} missed his attack (or that {enemyName} dodged the attack)."
+  },
+  "_combat_soin_success": {
+    "fr": "Le soin a réussi!",
+    "en": "The treatment was a success!"
+  },
+  "_combat_soin_rate": {
+    "fr": "Le soin a échoué.",
+    "en": "The treatment failed."
+  },
+  "_combat_ecriture_soin": {
+    "fr": "{{\"<Heros qui soigne>\":\n{{ \"Nom\" : \"{heroName}\",\n\"Race\": \"{heroRace}\"\n,\"Classe\" : \"{heroClass}\"\n,\"Arme\" : \"{heroArme}\",\n\"Santé actuelle\" : {heroSante}\"\n}},\n{{\"<Heros qui est soigné>\":\n{{ \"Nom\" : \"{selectedHeroName}\",\n\"Race\": \"{selectedHeroRace}\",\n\"Classe\" : \"{selectedHeroClasse}\",\n\"Etat de santé précédent\" : \"{selectedHeroSante}\",\n\"Etat de santé précédent chiffré\" : {selectedHeroSanteNbr},\n\"Nouvel Etat de santé chiffré\" : {selectedHeroSanteNbrnew}}},\n}}\n\n C'est {heroName} qui soigne {selectedHeroName}. Voici la description du soin : {descriptionSoin}",
+    "en": "{{\"<Heroes who care>\":\n{{ \"Name\" : \"{heroName}\",\n\"Race\": \"{heroRace}\"\n,\"Class\" : \"{heroClass}\"\n,\"Arm\" : \"{heroArme}\",\n\"Current health\" : {heroSante}\"\n}},\n{{\"<Heros qui est soigné>\":\n{{ \"Name\" : \"{selectedHeroName}\",\n\"Race\": \"{selectedHeroRace}\",\n\"Class\" : \"{selectedHeroClasse}\",\n\"Previous state of health\" : \"{selectedHeroSante}\",\n\"Quantified previous state of health\" : {selectedHeroSanteNbr},\n\"New quantified state of health\" : {selectedHeroSanteNbrnew}}},\n}}\n\n It is {heroName} who is treating {selectedHeroName}. Here is the description of the treatment: {descriptionSoin}."
+  },
+  "_combat_ecriture_soin_2": {
+    "fr": "\n\nResultats : {heroName} rate sa tentative de soin sur {selectedHeroName}, prends le en compte.",
+    "en": "\n\nResults : {heroName} fails its care attempt on {selectedHeroName}, take it into account."
+  },
+  "_combat_prompt_happy": {
+    "fr": "{{\"thème\" : \"{theme}\",\n\"synopsys\" : \" {synopsys}\",\n\"environnement\" : \"{environnement}\",\n\"groupe 1\": \"{groupe}\",\n\"position précédente\" : \"{position}\",\n\"vision autour du groupe\" : \"{vision}\",\n\"historique\" : \"{historique}\",\n",
+    "en": "{{\"theme\" : \"{theme}\",\n\"synopsys\" : \" {synopsys}\",\n\"environment\" : \"{environnement}\",\n\"group 1\": \"{groupe}\",\n\"previous position\" : \"{position}\",\n\"vision around the group\" : \"{vision}\",\n\"history\" : \"{historique}\",\n"
+  },
+  "_combat_prompt_happy_2": {
+    "fr": "\"Instructions exigée\" : \"Tu dois indiqué dans \"histoire\" que les héros {groupName} ont donc vaincu {ennemisCount} ennemis ({ennemisName}).",
+    "en": "\"Instructions required:\" : \"You must indicate in \"histoire\" that the heroes {groupName} have defeated {ennemisCount} enemies ({ennemisName})."
+  },
+  "_combat_prompt_happy_3": {
+    "fr": "{groupName} ont vaincu {ennemisCount} ennemi(s).",
+    "en": "{groupName} have defeated {ennemisCount} enem.y.ies."
+  },
+  "_combat_prompt_happy_4": {
+    "fr": "Les héros suivants sont malheureusement morts : {heroDead}. Indique le bien dans \"histoire\", avec une pointe d'émotion.",
+    "en": "The following heroes have sadly died: {heroDead}. Indicates good in \"histoire\", with a touch of emotion."
+  },
+  "_combat_prompt_sad_0": {
+    "fr": "{nameGroup} sont morts au combat face à {ennemisName}.",
+    "en": "{nameGroup} died in battle against {ennemisName}."
+  },
+  "_combat_prompt_sad_1": {
+    "fr": "{{\"thème\" : \"{theme}\",\n\"synopsys\" : \" {synopsys}\",\n\"environnement\" : \"{environnement}\",\n\"groupe 1\": \"{groupe}\",\n\"historique\" : \"{historique}\",\n",
+    "en": "{{\"theme\" : \"{theme}\",\n\"synopsys\" : \" {synopsys}\",\n\"environment\" : \"{environnement}\",\n\"group 1\": \"{groupe}\",\n\"history\" : \"{historique}\",\n"
+  },
+  "_combat_prompt_sad_2": {
+    "fr": "\"Instructions exigée\" : \"Tu dois indiqué dans \"histoire\" que les héros {groupName} sont tous morts à la suite du combat contre {ennemiLenght} ennemis ({enemiName}). Ecris un fin dramatique pour eux. Cependant, il y a encore d'autres héros dans le donjon qui peuvent aller jusqu'au bout de la quête.",
+    "en": "\"Instructions required:\" : \"You must indicate in \"histoire\" that the heroes {groupName} have all died as a result of fighting {ennemiLenght} enemies ({enemiName}). Write a dramatic ending for them. However, there are still other heroes in the dungeon who can complete the quest."
+  },
+  "_combat_prompt_sad_3": {
+    "fr": "{allgroupeName} sont tous les {playerCount} morts lors d'un combat.",
+    "en": "{allgroupeName} are all {playerCount} who died in battle."
+  },
+  "_combat_prompt_sad_4": {
+    "fr": "{allgroupeName} est mort lors d'un combat.",
+    "en": "{allgroupeName} died in combat."
+  },
+  "_attribuer": {
+    "fr": "Attribuer",
+    "en": "Assign"
+  },
+  "_player_arme": {
+    "fr": "possède comme arme : ",
+    "en": "has as a weapon : "
+  },
+  "_player_forme": {
+    "fr": "En forme, possède toute sa vie.",
+    "en": "Fit and healthy, has his whole life."
+  },
+  "_group_manager_split_group_A": {
+    "fr": "Le groupe de {allName} s'est divisé. {playerName} est maintenant seul(e).",
+    "en": "{allName}'s group has split. {playerName} is now alone."
+  },
+  "_group_manager_split_group_B": {
+    "fr": "Le groupe de {allName} s'est divisé.  {playerName1} et {playerName2} continuent à deux.",
+    "en": "{allName}'s group has split. {playerName1} and {playerName2} continue together as a pair."
+  },
+  "_group_manager_split_group_C": {
+    "fr": "{playerName1} et {playerName2} se sont retrouvés et continuent maintenant à 2.",
+    "en": "{playerName1} and {playerName2} have reunited and are now continuing as a duo."
+  },
+  "_group_manager_split_group_D": {
+    "fr": "{playerName1} a quitté le groupe de {allName} pour rejoindre {playerName2}.{playerName1} et {playerName2} sont maintenant à 2.",
+    "en": "{playerName1} left {allName}'s group to join {playerName2}. {playerName1} and {playerName2} are now together as a duo."
+  },
+  "_group_manager_split_group_E": {
+    "fr": "{playerName2} a quitté le groupe de {allName} pour rejoindre {playerName1}.{playerName1} et {playerName2} sont maintenant à 2.",
+    "en": "{playerName2} left {allName}'s group to join {playerName1}. {playerName1} and {playerName2} are now together as a duo."
+  },
+  "_group_manager_split_group_F": {
+    "fr": "Le groupe de {allName} s'est divisé.  {playerName1}, {playerName2} et {playerName3} continuent à trois.",
+    "en": "{allName}'s group has split. {playerName1}, {playerName2}, and {playerName3} continue as a group of three."
+  },
+  "_group_manager_split_group_G": {
+    "fr": "{playerName1}, {playerName2} et {playerName3} se sont retrouvés et continuent maintenant à 3.",
+    "en": "{playerName1}, {playerName2}, and {playerName3} have reunited and are now continuing as a group of three."
+  },
+  "_group_manager_split_group_H": {
+    "fr": "{playerName3} rejoint le groupe de {playerName1}, {playerName2}. Ils continuent maintenant à 3.",
+    "en": "{playerName3} joins the group of {playerName1} and {playerName2}. They now continue as a group of three."
+  },
+  "_group_manager_split_group_I": {
+    "fr": "{playerName3} a quitté le groupe qu'il/elle formait avec {allName} pour rejoindre le groupe de {playerName1} et {playerName2}. Ils vont maintenant continuer à 3.",
+    "en": "{playerName3} left the group formed with {allName} to join the group of {playerName1} and {playerName2}. They will now continue as a group of three."
+  },
+  "_group_manager_split_group_J": {
+    "fr": "{playerName2} rejoint le groupe de {playerName1}, {playerName3}. Ils continuent maintenant à 3.",
+    "en": "{playerName2} joins the group of {playerName1} and {playerName3}. They now continue as a group of three."
+  },
+  "_group_manager_split_group_K": {
+    "fr": "{playerName2} a quitté le groupe qu'il/elle formait avec {allName} pour rejoindre le groupe de {playerName1} et {playerName3}. Ils vont maintenant continuer à 3.",
+    "en": "{playerName2} left the group formed with {allName} to join the group of {playerName1} and {playerName3}. They will now continue as a group of three."
+  },
+  "_group_manager_split_group_L": {
+    "fr": "{playerName1} rejoint le groupe de {playerName2}, {playerName3}. Ils continuent maintenant à 3.",
+    "en": "{playerName1} joins the group of {playerName2} and {playerName3}. They now continue as a group of three."
+  },
+  "_group_manager_split_group_M": {
+    "fr": "{playerName1} a quitté le groupe qu'il/elle formait avec {allName} pour rejoindre le groupe de {playerName2} et {playerName3}. Ils vont maintenant continuer à 3.",
+    "en": "{playerName1} left the group formed with {allName} to join the group of {playerName2} and {playerName3}. They will now continue as a group of three."
+  },
+  "_group_manager_split_group_N": {
+    "fr": "Tous les héros se retrouvent. {playerName1} , {playerName2} , {playerName3} et {playerName4} continuent maintenant à 4.",
+    "en": "All the heroes reunite. {playerName1}, {playerName2}, {playerName3}, and {playerName4} now continue as a group of four."
+  },
+  "_generation_hero": {
+    "fr": "{{\n\"nom\":\"{nom}\",\n\"age\":\"{age}\",\n\"race\":\"{race}\",\n\"classe\":\"{classe}\",\n\"atout\":\"{atout}\",\n\"handicap\":\"{handicap}\",\n\"description\":\"{description}\",\n\"summary\":\"à compléter\",\n\"arme\":\"à compléter\",\n\"puissance\":à compléter\n}}",
+    "en": "{{\n\"name\":\"{nom}\",\n\"age\":\"{age}\",\n\"race\":\"{race}\",\n\"class\":\"{classe}\",\n\"strengh\":\"{advantage}\",\n\"handicap\":\"{handicap}\",\n\"description\":\"{description}\",\n\"summary\":\"to complete\",\n\"arm\":\"to complete\",\n\"strength\":to complete\n}}"
+  },
+  "__coherence_input_add_info_coffre_1": {
+    "fr": "\"coffre\" : true or false \\Toutes les condition sont réunies pour ouvrir la porte SI c'est mentionné dans \"choix\".\n}}",
+    "en": "\"coffre\" : true or false \\All the conditions are met to open the door IF it is mentioned in \"choix\".\n}}"
+  },
+  "__coherence_input_add_info_coffre_2": {
+    "fr": "\"coffre\" : false \\Les joueurs ne sont pas actuellement proches d'un coffre, donc impossible d'ouvrir un coffre si c'est mentionné dans \"choix\" (lever une incohérence si c'est le cas).\n}}",
+    "en": "\"coffre\" : false \\Players are not currently close to a chest, so it's impossible to open a chest if it's mentioned in \"choix\"  (raise an inconsistency if this is the case).\n}}"
+  },
+  "_marvel": {
+    "fr": "Défenseurs de l'univers",
+    "en": "Defenders of the universe"
+  },
+  "_pokemon": {
+    "fr": "Dresseurs\net créatures",
+    "en": "Trainers and creatures"
+  },
+  "_anneau": {
+    "fr": "L'anneau de la Comté",
+    "en": "The Shire ring"
+  },
+  "_create": {
+    "fr": "Créer mon propre thème",
+    "en": "Create my own theme"
+  },
+  "_hp": {
+    "fr": "L'école de Sorcellerie",
+    "en": "The School of Sorcery"
+  },
+  "_trone": {
+    "fr": "Le trône du dragon",
+    "en": "The dragon's throne"
+  },
+  "_star": {
+    "fr": "Les Etoiles de l'Empire",
+    "en": "Stars of the Empire"
+  },
+  "_stranger": {
+    "fr": "Upside Down",
+    "en": "Upside Down"
+  },
+  "_code": {
+    "fr": "Le monde virtuel",
+    "en": "The virtual world"
+  },
+  "_mer": {
+    "fr": "Les rois des mers",
+    "en": "Kings of the seas"
+  },
+  "_bob": {
+    "fr": "L'éponge des eaux",
+    "en": "The water sponge"
+  },
+  "_cyber": {
+    "fr": "Cyberpunk",
+    "en": "Cyberpunk"
+  },
+  "_testSpecific_1": {
+    "fr": "Les aventuriers sont appelés à explorer un donjon ancien et dangereux pour récupérer un artefact précieux qui a été volé. Ils doivent faire face à des pièges mortels, des monstres terrifiants et des énigmes complexes pour atteindre leur objectif.",
+    "en": "The adventurers are called to explore an ancient and dangerous dungeon to recover a precious artifact that has been stolen. They must face deadly traps, terrifying monsters, and complex puzzles to reach their goal."
+  },
+  "_testSpecific_2": {
+    "fr": "L'extérieur du donjon est une ruine ancienne et abandonnée, recouverte de lierre et de mousse. L'air est frais et humide, avec une odeur de terre et de pierre humide.",
+    "en": "The outside of the dungeon is an old, abandoned ruin, covered in ivy and moss. The air is cool and damp, with a scent of earth and wet stone."
+  },
+  "_testSpecific_3": {
+    "fr": "Les aventuriers sont appelés à explorer un donjon ancien et dangereux pour récupérer un artefact précieux qui a été volé. Ils doivent faire face à des pièges mortels, des monstres terrifiants et des énigmes complexes pour atteindre leur objectif.",
+    "en": "The adventurers are called to explore an ancient and dangerous dungeon to recover a precious artifact that has been stolen. They must face deadly traps, terrifying monsters, and complex puzzles to reach their goal."
+  },
+  "_testSpecific_4": {
+    "fr": "La salle suivante est une grande salle avec un plafond haut et des murs de pierre nue. Il y a des statues de guerriers le long des murs et un trône au centre de la salle. Il y a un sentiment de tension et de danger dans l'air.",
+    "en": "The next room is a large hall with a high ceiling and bare stone walls. Statues of warriors line the walls, and a throne sits in the center of the room. There is a feeling of tension and danger in the air."
+  },
+  "_testSpecific_5": {
+    "fr": "Les aventuriers sont appelés à explorer un donjon ancien et dangereux pour récupérer un artefact précieux qui a été volé. Ils doivent faire face à des pièges mortels, des monstres terrifiants et des énigmes complexes pour atteindre leur objectif.",
+    "en": "The adventurers are called to explore an ancient and dangerous dungeon to recover a precious artifact that has been stolen. They must face deadly traps, terrifying monsters, and complex puzzles to reach their goal."
+  },
+  "_testSpecific_6": {
+    "fr": "L'extérieur du donjon est une ruine ancienne et abandonnée, recouverte de lierre et de mousse. L'air est frais et humide, avec une odeur de terre et de pierre humide.",
+    "en": "The outside of the dungeon is an old, abandoned ruin, covered in ivy and moss. The air is cool and damp, with a scent of earth and wet stone."
+  },
+  "_testSpecific_7": {
+    "fr": "Récupérer un artefact précieux dans un donjon dangereux.",
+    "en": "Retrieve a precious artifact from a dangerous dungeon."
+  },
+  "_testSpecific_8": {
+    "fr": "L'air frais et humide pénètre vos poumons alors que vous vous tenez à l'entrée de cette salle ancienne. Les murs de pierre, recouverts de lierre et de mousse, semblent murmurer des secrets oubliés. Les colonnes de marbre, autrefois majestueuses, sont maintenant partiellement détruites, ajoutant une atmosphère de mystère et de danger imminent. Vous sentez une présence ancienne, comme si les fantômes du passé vous observaient. Eolande, avec son agilité, se tient prête à explorer les recoins sombres. Ragnar, malgré sa maladresse, est une force rassurante à vos côtés. Alinda, avec ses pouvoirs de guérison, apporte une lueur d'espoir. Razorg, avec sa grande perception, scrute chaque détail, prêt à déjouer les pièges.",
+    "en": "The cool, damp air fills your lungs as you stand at the entrance of this ancient hall. The stone walls, covered in ivy and moss, seem to whisper forgotten secrets. The once majestic marble columns are now partially destroyed, adding an atmosphere of mystery and imminent danger. You sense an ancient presence, as if ghosts from the past are watching you. Eolande, with her agility, is ready to explore the dark corners. Ragnar, despite his clumsiness, is a reassuring force by your side. Alinda, with her healing powers, brings a glimmer of hope. Razorg, with his keen perception, scans every detail, ready to disarm traps."
+  },
+  "_testSpecific_9": {
+    "fr": "Les aventuriers pénètrent dans une salle ancienne et humide, prêts à affronter les mystères du donjon.",
+    "en": "The adventurers enter an ancient and damp room, ready to face the dungeon's mysteries."
+  },
+  "_testSpecific_10": {
+    "fr": "Une grande salle en pierre, humide avec des colonnes de marbre partiellement détruites et des murs couverts de lierre et de mousse.",
+    "en": "A large stone hall, damp, with partially destroyed marble columns and walls covered in ivy and moss."
+  },
+  "_testSpecific_11": {
+    "fr": "Le passage nord s'ouvre sur une salle circulaire immense, éclairée par une étrange lueur provenant d'une ouverture au plafond. Des symboles lumineux brillent sur le sol, vibrant en rythme avec le bruit de goutte-à-goutte qui résonne dans le silence profond. Au centre de la salle, un être colossal vous fixe avec des yeux noirs et brûlants. Son corps est recouvert d'une armure d'épine noire, et une aura maléfique semble émaner de lui.",
+    "en": "The northern passage opens into a vast circular room, lit by a strange glow coming from an opening in the ceiling. Glowing symbols shine on the floor, pulsing in rhythm with the dripping sound echoing through the deep silence. In the center of the room, a colossal being stares at you with burning black eyes. Its body is covered in black thorny armor, and an evil aura seems to emanate from it."
+  },
+  "_testSpecific_12": {
+    "fr": "Les héros découvrent le boss final dans une salle circulaire mystérieuse.",
+    "en": "The heroes discover the final boss in a mysterious circular room."
+  },
+  "_testSpecific_13": {
+    "fr": "La pièce circulaire est éclairée par une lumière provenant d'une ouverture au plafond. Des symboles lumineux brillent sur le sol.",
+    "en": "The circular room is illuminated by light from an opening in the ceiling. Glowing symbols shine on the floor."
+  }
+}

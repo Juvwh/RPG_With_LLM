@@ -1,0 +1,24 @@
+{
+    "playerName": "Eleven",
+    "playerAge": "12 ans",
+    "playerRace": "Humaine",
+    "playerClass": "Télékinésiste",
+    "playerAdvantage": "Pouvoirs télékinétiques puissants, intuition élevée, résiliente.",
+    "playerDisadvantage": "Faible endurance après l'utilisation de ses pouvoirs, difficulté à comprendre les interactions sociales, sensible.",
+    "playerDescription": "Petite et frêle, les cheveux rasés. Son regard est intense et concentré, souvent perçant. Elle est souvent vue en tenue simple, voire hospitalière, accentuant son côté à part. La main tendue devant elle, doigts écartés, elle projette toute sa force. Elle porte une robe rose pastel trop large et usée, assortie d'une veste bleue d'homme qui lui tombe presque aux genoux.",
+    "playerResume": " Eleven est une jeune fille puissante mais fragile. Ses capacités télékinétiques sont impressionnantes mais épuisant, et elle a du mal à s'intégrer socialement.",
+    "playerArme": "Pouvoirs télékinétiques",
+    "playerArmePuissance": "2",
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": {
+        "instanceID": 0
+    },
+    "playerHealth": "En forme, a encore toute sa vie.",
+    "playerHealthNbr": 25,
+    "playerActions": [],
+    "playerTags": [],
+    "playerVision": 0
+}

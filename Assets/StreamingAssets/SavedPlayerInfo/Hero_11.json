@@ -1,0 +1,23 @@
+{
+    "playerName": "Mike",
+    "playerAge": "13 ans",
+    "playerRace": "Humain",
+    "playerClass": "Stratège",
+    "playerAdvantage": "Grand sens de l'amitié, courageux, bon en stratégie, déterminé.",
+    "playerDisadvantage": "Peut être impulsif et têtu, manque de force physique, sensible à l'émotion.",
+    "playerDescription": "Mike est un adolescent mince aux cheveux bruns coupés en un carré long et un peu désordonné, typique des années 80. Ses yeux sombres, curieux et toujours en alerte, reflètent son esprit vif et attentif. Il porte souvent des chemises à rayures sous des vestes ou pulls aux couleurs rétro – vert, jaune moutarde, ou bleu pâle – qui lui donnent un style à la fois geek et nostalgique. Son allure légèrement négligée et ses vêtements un peu trop grands renforcent son air adolescent, tandis que son expression, concentrée et souvent préoccupée, montre une maturité au-delà de son âge.",
+    "playerResume": "déterminé et courageux, manque de forme physique.",
+    "playerArme": "Batte de baseball",
+    "playerArmePuissance": 0,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "En forme, a encore toute sa vie.",
+    "playerHealthNbr": 100,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": [],
+    "playerVision" :  2
+}

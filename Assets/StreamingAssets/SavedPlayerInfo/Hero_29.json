@@ -1,0 +1,22 @@
+{
+    "playerName": "Daenerys",
+    "playerAge": "23",
+    "playerRace": "Humaine",
+    "playerClass": "Invocatrice de dragons",
+    "playerAdvantage": "Résistance au feu, pouvoir d'invoquer et contrôler des dragons, charisme naturel, vision stratégique, courage et détermination.",
+    "playerDisadvantage": "Impulsivité dans ses décisions, tendance à se fier trop intensément à ses émotions, lourds fardeaux et conflits internes sur le pouvoir.",
+    "playerDescription": "Daenerys est une femme d’une beauté fascinante et presque éthérée. Elle a de longs cheveux argentés qui tombent en cascades soyeuses, souvent ornés de tresses distinctives pour symboliser ses victoires. Ses yeux violets (ou bleus/gris selon les interprétations) sont perçants et révèlent une profondeur marquée par les épreuves qu’elle a traversées. Elle porte souvent des robes fluides dans des tons clairs, en soie ou en cuir léger, avec des détails évoquant des écailles de dragon pour rappeler son héritage. Son allure est celle d’une souveraine indomptable, empreinte de force mais aussi de compassion, évoquant la grandeur d'une reine dragon prête à embraser le monde pour ses idéaux.",
+    "playerResume": "Daenerys est une jeune femme humaine dotée d'un charisme naturel et d'une vision stratégique qui lui permettent de contrôler et d'invoquer des dragons. Elle est courageuse et déterminée, mais peut être impulsive dans ses décisions et se fier trop intensément à ses émotions. Elle porte le lourd fardeau du pouvoir et doit faire face à des conflits internes sur ce sujet.",
+    "playerArme": "Dague en verredragon",
+    "playerArmePuissance": 1,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "",
+    "playerHealthNbr": 0,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": []
+}

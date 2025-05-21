@@ -1,0 +1,23 @@
+{
+  "playerName": "Pierre",
+  "playerAge": "10",
+  "playerRace": "Humain",
+  "playerClass": "Dresseur",
+  "playerAdvantage": "Expertise avec les Pokémon de type Roche, tacticien calme et réfléchi, sens de l'humour, fiable et protecteur envers ses amis.",
+  "playerDisadvantage": "Tendance à être un peu sérieux et introverti, manque de flexibilité dans ses méthodes.",
+  "playerDescription": "Brock in Pokémon. Brock a des cheveux bruns courts et un peu éparse, souvent coiffés de manière à montrer son style simple et pratique. Il porte un gilet vert et une chemise jaune, avec un pantalon beige et des bottes adaptées aux terrains rocheux. Son regard est perçant et réfléchi, souvent concentré sur la stratégie à adopter pour ses combats. Ses bras musclés, issus de son travail avec des Pokémon solides, renforcent son allure de jeune homme robuste et fiable. Toujours équipé de son badge d'Arène et de son sac de dresseur, il affiche une posture calme mais pleine de détermination. Style Pokémon.",
+  "playerResume": "Pierre est un jeune dresseur de Pokémon de 10 ans, expert en Pokémon de type Roche. Il est tacticien calme et réfléchi, avec un sens de l'humour et est fiable et protecteur envers ses amis. Cependant, il peut être un peu sérieux et introverti, et manque de flexibilité dans ses méthodes.",
+  "playerArme": "Marteau en Pierre",
+  "playerArmePuissance": 1,
+  "playerSprite": {
+    "instanceID": 0
+  },
+  "playerInventaire": [],
+  "playerPosition": "",
+  "playerHealth": "",
+  "playerHealthNbr": 0,
+  "playerActions": [],
+  "playerAllHistory": "",
+  "playerTags": [],
+  "playerVision": 2
+}

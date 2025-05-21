@@ -1,0 +1,23 @@
+{
+  "playerName": "Aelita",
+  "playerAge": "14",
+  "playerRace": "Humaine",
+  "playerClass": "Hackeuse",
+  "playerAdvantage": "Intelligence exceptionnelle, capacité à manipuler et contrôler le monde virtuel, grande maîtrise des interfaces numériques.",
+  "playerDisadvantage": "Vulnérabilité physique, dépendance à la connexion avec Lyoko pour activer ses pouvoirs, parfois trop émotive.",
+  "playerDescription": "Aelita, dans la série Code Lyoko, est une jeune fille au physique délicat et aérien. Elle porte une tenue fluide et futuriste qui la distingue immédiatement. Son haut moulant rose clair est orné de motifs digitaux lumineux qui suivent les contours de son corps, tandis que son pantalon ajusté, également rose, présente des détails noirs pour une grande flexibilité. Ses cheveux roses, longs et légèrement ondulés, tombent autour de son visage doux, et ses yeux d'un bleu clair brillant reflètent sa connexion profonde avec le monde virtuel. Son apparence est accentuée par les lignes lumineuses de sa tenue, symbolisant ses pouvoirs uniques dans Lyoko. Aelita dégage une aura de jeune héroïne dotée d'une sagesse bien au-delà de son âge, prête à affronter les défis du monde numérique.",
+  "playerResume": "Aelita est une jeune hackeuse humaine de 14 ans, dotée d'une intelligence exceptionnelle et d'une grande maîtrise des interfaces numériques. Elle peut manipuler et contrôler le monde virtuel de Lyoko, mais est vulnérable physiquement et dépendante de sa connexion pour activer ses pouvoirs. Bien que parfois trop émotive, Aelita est une héroïne sage et déterminée, prête à affronter les défis du monde numérique.",
+  "playerArme": "Boules énergétiques",
+  "playerArmePuissance": 2,
+  "playerSprite": {
+    "instanceID": 0
+  },
+  "playerInventaire": [],
+  "playerPosition": "",
+  "playerHealth": "",
+  "playerHealthNbr": 0,
+  "playerActions": [],
+  "playerAllHistory": "",
+  "playerTags": [],
+  "playerVision": 2
+}

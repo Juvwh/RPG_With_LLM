@@ -1,0 +1,23 @@
+{
+    "playerName": "Wanda",
+    "playerAge": "30",
+    "playerRace": "Humaine",
+    "playerClass": "Sorcière",
+    "playerAdvantage": "Pouvoirs de manipulation de la réalité et de télékinésie, maîtrise des énergies magiques rouges, intelligence émotionnelle, détermination puissante.",
+    "playerDisadvantage": "Parfois instable émotionnellement, lutte avec ses traumatismes passés, peut perdre le contrôle de ses pouvoirs en situation de stress intense.",
+    "playerDescription": "Wanda Maximoff, également connue sous le nom de la Sorcière Rouge, est une jeune femme aux longs cheveux roux et aux yeux verts perçants. Elle est de taille moyenne et a une silhouette mince et athlétique. Elle porte souvent une robe rouge moulante avec des gants et des bottes noirs, ainsi qu'un diadème en or sur son front.",
+    "playerResume": "Wanda Maximoff, alias la Sorcière Rouge, est une puissante sorcière humaine dotée de pouvoirs de manipulation de la réalité et de télékinésie. Elle maîtrise également les énergies magiques rouges et possède une intelligence émotionnelle et une détermination puissante. Cependant, elle peut être instable émotionnellement en raison de ses traumatismes passés et peut perdre le contrôle de ses pouvoirs en situation de stress intense.",
+    "playerArme": "Télékinésie",
+    "playerArmePuissance": 1,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "",
+    "playerHealthNbr": 0,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": [],
+    "playerVision" :  2
+}

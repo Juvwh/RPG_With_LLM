@@ -1,0 +1,14 @@
+{
+  "playerName": "Alinda",
+  "playerAge": "25 ans",
+  "playerRace": "Humain",
+  "playerClass": "Prêtresse",
+  "playerAdvantage": "Magie blanche, Guérison, Charisme",
+  "playerDisadvantage": "Force, Discrétion",
+  "playerDescription": "Alinda est une jeune femme qui a grandi dans un petit village isolé dans les montagnes. Elle a été élevée dans la religion de la déesse de la guérison et a été choisie pour devenir prêtresse. Elle a depuis voyagé à travers le pays pour aider les gens dans le besoin, utilisant ses pouvoirs de guérison pour soigner les malades et les blessés. Elle est connue pour son charisme et sa capacité à inspirer les gens à travailler ensemble pour le bien commun.",
+  "playerResume": "Pouvoir de guérison, peu de force physique.",
+  "playerHealth": "En forme, a encore toute sa vie.",
+  "playerArme": "Bâton de prêtresse",
+  "playerArmePuissance": 0,
+  "playerVision": 2
+}

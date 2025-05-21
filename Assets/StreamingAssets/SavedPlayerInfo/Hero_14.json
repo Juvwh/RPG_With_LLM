@@ -1,0 +1,24 @@
+{
+    "playerName": "Lucas",
+    "playerAge": "13",
+    "playerRace": "Humain",
+    "playerClass": "Tireur",
+    "playerAdvantage": "Précis et habile, courageux, logique et pragmatique, grand sens de la loyauté.",
+    "playerDisadvantage": "Parfois méfiant et sceptique, impulsif.",
+    "playerDescription": "Lucas est un adolescent athlétique à la peau brune et aux yeux perçants. Il a des cheveux crépus qu’il porte souvent courts, parfois avec un bandeau coloré pour dégager son front. Côté vestimentaire, Lucas adopte un style utilitaire et prêt pour l’action. Il a en main son lance-pierres.",
+    "playerResume": "Précis et loyal, mais parfois impulsif et méfiant.",
+    "playerArme": "Lance-pierres",
+    "playerArmePuissance": "1",
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": {
+        "instanceID": 0
+    },
+    "playerHealth": "En forme, a encore toute sa vie.",
+    "playerHealthNbr": 25,
+    "playerActions": [],
+    "playerTags": [],
+    "playerVision": 0
+}

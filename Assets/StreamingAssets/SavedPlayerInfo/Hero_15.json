@@ -1,0 +1,23 @@
+{
+  "playerName": "Grogu",
+  "playerAge": "50",
+  "playerRace": "Yoda",
+  "playerClass": "Mystique",
+  "playerAdvantage": "Sensibilité à la Force, agilité furtive, forte empathie, grande résistance pour son âge.",
+  "playerDisadvantage": "Vulnérable physiquement, compréhension limitée des dangers, ne maîtrise pas encore ses pouvoirs.",
+  "playerDescription": "Grogu, également connu sous le nom de Baby Yoda, est un petit être à la peau verte et aux grandes oreilles. Il a des yeux sombres et expressifs, et une petite taille qui cache une puissante sensibilité à la Force. Vêtu de vêtements simples, souvent enveloppé dans une couverture, il évoque une étrange sagesse malgré son jeune âge.",
+  "playerResume": "Malgré son jeune âge, Grogu, aussi connu sous le nom de Baby Yoda, possède une forte connexion à la Force et est très agile et empathique. Cependant, il est physiquement fragile, a une compréhension limitée des dangers et est encore en apprentissage pour maîtriser ses pouvoirs.",
+  "playerArme": "Pourvoir de la Force",
+  "playerArmePuissance": 1,
+  "playerSprite": {
+    "instanceID": 0
+  },
+  "playerInventaire": [],
+  "playerPosition": "",
+  "playerHealth": "En forme, a encore toute sa vie.",
+  "playerHealthNbr": 100,
+  "playerActions": [],
+  "playerAllHistory": "",
+  "playerTags": [],
+  "playerVision": 2
+}

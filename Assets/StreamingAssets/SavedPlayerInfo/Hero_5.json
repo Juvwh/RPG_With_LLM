@@ -1,0 +1,13 @@
+{
+  "playerName": "Naël",
+  "playerAge": "28 ans",
+  "playerRace": "Humain",
+  "playerClass": "Mage",
+  "playerAdvantage": "Magie, Intelligence, Enchantement",
+  "playerDisadvantage": "Force, Endurance, Communication",
+  "playerDescription": "Naël est un jeune mage qui a grandi dans une petite ville de province. Il a découvert sa affinité avec la magie à un jeune âge et a été envoyé dans une école de magie pour être formé. Il a depuis voyagé à travers le pays pour affiner ses compétences et apprendre de nouveaux sorts. Il est actuellement en quête de connaissances magiques rares et puissante pour améliorer ses compétences.",
+  "playerResume": "Naël est un mage humain de 28 ans, qui est doué pour la magie, l'intelligence et l'enchantement. Cependant, il est moins à l'aise avec la force physique et l'endurance, ainsi qu'avec la communication.",
+  "playerArme": "Bâton de mage",
+  "playerArmePuissance": 0,
+  "playerHealth": "En forme, a encore toute sa vie."
+}

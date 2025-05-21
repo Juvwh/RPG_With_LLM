@@ -1,0 +1,23 @@
+{
+  "playerName": "Carlo",
+  "playerAge": "21",
+  "playerRace": "Calamar",
+  "playerClass": "Musicien",
+  "playerAdvantage": "Grand talent pour jouer de la clarinette, intelligence analytique, organisation et précision, créativité artistique.",
+  "playerDisadvantage": "Facilement irritable, parfois pessimiste et sarcastique, peu sociable et assez solitaire.",
+  "playerDescription": "Carlo est un calamar élancé, de couleur bleu-gris, avec une grande tête ovale et un long nez pointu. Il porte une chemise marron moutarde avec un col boutonné, les yeux légèrement tombants, traduisant une expression exaspérée et blasée. Sa posture est droite, avec un air sérieux et sarcastique.",
+  "playerResume": "Carlo est un musicien talentueux et intelligent, mais il peut être facilement irritable, pessimiste et sarcastique. Il est peu sociable et assez solitaire.",
+  "playerArme": "Clarinette",
+  "playerArmePuissance": 1,
+  "playerSprite": {
+    "instanceID": 0
+  },
+  "playerInventaire": [],
+  "playerPosition": "",
+  "playerHealth": "En forme, a encore toute sa vie.",
+  "playerHealthNbr": 100,
+  "playerActions": [],
+  "playerAllHistory": "",
+  "playerTags": [],
+  "playerVision": 2
+}

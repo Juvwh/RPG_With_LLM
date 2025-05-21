@@ -1,0 +1,23 @@
+{
+  "playerName": "Ulrich",
+  "playerAge": "14",
+  "playerRace": "Humain",
+  "playerClass": "Sabreur",
+  "playerAdvantage": "Maîtrise du combat au sabre, grande vitesse, sens de l'honneur, stratégie en situation de combat.",
+  "playerDisadvantage": "Parfois trop réservé, difficulté à exprimer ses émotions, peut être trop sérieux et parfois impétueux dans les moments de tension.",
+  "playerDescription": "Ulrich est un jeune homme athlétique dans un monde virtuel futuriste. Il porte un uniforme moulant bleu foncé et vert avec des accents lumineux, conçu pour une grande mobilité et le combat. Ses cheveux noirs courts sont légèrement en désordre, et son expression faciale est concentrée et déterminée. Il a des traits acérés et des yeux marron intenses. À ses côtés, il y a une épée bleue lumineuse, et il se tient confiant, prêt à l'action. L'arrière-plan devrait être un paysage numérique, high-tech avec des lumières néon et des formes géométriques, représentant un environnement de cyberspace. Le personnage doit dégager un sentiment de vitesse, de force et de bravoure, tout en ayant l'air jeune et agile.",
+  "playerResume": "Ulrich est un jeune sabreur humain qui excelle dans le combat et possède une grande vitesse et un sens de l'honneur inébranlable. Cependant, il peut être trop réservé et avoir du mal à exprimer ses émotions, ce qui peut le rendre trop sérieux et parfois impulsif dans les moments de tension.",
+  "playerArme": "Sabre laser",
+  "playerArmePuissance": 1,
+  "playerSprite": {
+    "instanceID": 0
+  },
+  "playerInventaire": [],
+  "playerPosition": "",
+  "playerHealth": "En forme, a encore toute sa vie.",
+  "playerHealthNbr": 100,
+  "playerActions": [],
+  "playerAllHistory": "",
+  "playerTags": [],
+  "playerVision": 2
+}

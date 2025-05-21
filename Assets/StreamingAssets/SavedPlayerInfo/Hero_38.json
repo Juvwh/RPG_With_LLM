@@ -1,0 +1,23 @@
+{
+    "playerName": "Spider-man",
+    "playerAge": "20",
+    "playerRace": "Humain",
+    "playerClass": "Super-héros",
+    "playerAdvantage": "Agilité surhumaine, force accrue, réflexes ultra-rapides, capacité de tisser des toiles, sens de l'araignée (pré-sentiment des dangers), grande intelligence (particulièrement en sciences).",
+    "playerDisadvantage": "Manque d’expérience, vulnérabilité humaine, pression constante entre sa vie de super-héros et ses responsabilités personnelles, parfois hésitant dans ses choix.",
+    "playerDescription": "Spider-man est un jeune homme mince et athlétique, mesurant environ 1,75 m. Il porte un costume rouge et bleu moulant avec un symbole d'araignée sur la poitrine. Son visage est caché par un masque noir qui couvre ses yeux et son nez.",
+    "playerResume": "Spider-man est un super-héros doté d'une agilité, d'une force et de réflexes surhumains, ainsi que d'un sens de l'araignée qui lui permet de pressentir les dangers. Il est également très intelligent, notamment en sciences. Cependant, il manque encore d'expérience et est vulnérable en tant qu'être humain. Il doit également faire face à la pression constante entre sa vie de super-héros et ses responsabilités personnelles, ce qui peut parfois le rendre hésitant dans ses choix.",
+    "playerArme": "Toiles d'araignée",
+    "playerArmePuissance": 1,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "",
+    "playerHealthNbr": 0,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": [],
+    "playerVision" :  2
+}

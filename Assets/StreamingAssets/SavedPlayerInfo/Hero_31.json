@@ -1,0 +1,22 @@
+{
+    "playerName": "Tyrion",
+    "playerAge": "32",
+    "playerRace": "Humain",
+    "playerClass": "Stratège",
+    "playerAdvantage": "Intelligence vive, diplomatie et éloquence, excellent sens de l'humour, grande connaissance de la politique et des intrigues de cour.",
+    "playerDisadvantage": "Son apparence le rend souvent sous-estimé, tendance à l'autodérision et à l'alcoolisme, enfance marquée par le rejet familial.",
+    "playerDescription": "Tyrion est un homme de petite taille, avec des traits à la fois marqués par la noblesse et la fatigue. Son visage est orné d'une barbe courte et soigneusement entretenue. Ses cheveux blonds, parfois indisciplinés, retombent autour de son visage, encadrant ses yeux vifs et pénétrants, qui capturent une intelligence et une malice profondes. Il porte une tunique richement brodée dans des tons sombres de rouge et d'or, symbolisant sa lignée Lannister, et une ceinture ornée de métal qui donne une touche d'élégance à sa stature modeste. Son expression oscille entre une ironie mordante et une réflexion profonde, rappelant qu'il est à la fois un survivant et un maître des intrigues, prêt à utiliser son esprit acéré comme sa plus grande arme.",
+    "playerResume": "Tyrion est un stratège humain de 32 ans, doté d'une intelligence vive, d'une diplomatie et d'une éloquence remarquables, ainsi que d'un excellent sens de l'humour. Il possède une grande connaissance de la politique et des intrigues de cour. Cependant, son apparence le rend souvent sous-estimé, et il a tendance à l'autodérision et à l'alcoolisme. Son enfance a été marquée par le rejet familial.",
+    "playerArme": "Arbalète",
+    "playerArmePuissance": 0,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "En forme, a encore toute sa vie.",
+    "playerHealthNbr": 100,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": []
+}

@@ -1,0 +1,22 @@
+{
+  "playerName": "Hagrid",
+  "playerAge": "45",
+  "playerRace": "Humain",
+  "playerClass": "Garde-chasse",
+  "playerAdvantage": "Force physique, connaissance des créatures magiques",
+  "playerDisadvantage": "Impulsivité, taille imposante qui peut effrayer les autres",
+  "playerDescription": "Hagrid est un colosse aux épaules larges, si imposant qu’il semble remplir l’espace autour de lui. Sa barbe touffue et sauvage, noire comme la nuit, encadre un visage buriné et bienveillant, mi-homme mi-bête. Sous ses sourcils épais, ses yeux brillent d’une lueur douce et malicieuse, contrastant avec sa carrure massive. Ses mains, grandes comme des battoirs, paraissent faites pour écraser des rochers, tandis que ses cheveux, longs et en bataille, tombent en cascade désordonnée jusqu’à ses épaules.",
+  "playerResume": "Hagrid est un garde-chasse robuste et expérimenté, doté d'une force physique impressionnante et d'une connaissance approfondie des créatures magiques. Cependant, son impulsivité peut parfois le mener à prendre des décisions hâtives, et sa taille imposante peut effrayer les autres, malgré sa nature bienveillante.",
+  "playerArme": "Parapluie magique",
+  "playerArmePuissance": 0,
+  "playerSprite": {
+    "instanceID": 0
+  },
+  "playerInventaire": [],
+  "playerPosition": "",
+  "playerHealth": "En forme, a encore toute sa vie.",
+  "playerHealthNbr": 100,
+  "playerActions": [],
+  "playerAllHistory": "",
+  "playerTags": []
+}

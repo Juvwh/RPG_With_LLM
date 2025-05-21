@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Master Thesis : RPG with LLM</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            background-color: #0E1528; /* Bleu foncé */
+            height: 100%;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: Arial, sans-serif;
+        }
+
+        #unity-container {
+            position: relative;
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #0E1528;
+        }
+
+        #unity-canvas {
+            aspect-ratio: 16 / 9;
+            width: 100%;
+            max-height: 100%;
+            background: black;
+            display: block;
+        }
+
+
+        #loading {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            background-image: url('https://rpgwithllm.z28.web.core.windows.net/StreamingAssets/loading.png');
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-color: #0E1528;
+            z-index: 10;
+        }
+
+
+
+        #loading-image {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            object-fit: cover;
+            z-index: 1;
+        }
+
+        #progress-bar-background {
+            width: 300px;
+            height: 12px;
+            background-color: rgba(255, 255, 255, 0.2);
+            border-radius: 6px;
+            overflow: hidden;
+            position: relative;
+            z-index: 2;
+        }
+
+        #progress-bar-fill {
+            height: 100%;
+            width: 0%;
+            background-color: white;
+            transition: width 0.3s ease;
+        }
+
+        #fullscreen-button {
+            position: fixed;
+            bottom: 15px;
+            right: 15px;
+            width: 36px;
+            height: 36px;
+            background-color: rgba(255, 255, 255, 0.1);
+            color: white;
+            border: 1px solid white;
+            border-radius: 5px;
+            font-size: 18px;
+            cursor: pointer;
+            z-index: 1000;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+        }
+
+            #fullscreen-button:hover {
+                background-color: rgba(255, 255, 255, 0.3);
+                transform: scale(1.1);
+            }
+
+            #fullscreen-button:hover {
+                background-color: #2d3e70;
+            }
+    </style>
+</head>
+<body>
+    <div id="unity-container">
+        <canvas id="unity-canvas"></canvas>
+        <div id="loading">
+            <div id="progress-bar-background">
+                <div id="progress-bar-fill"></div>
+            </div>
+        </div>
+    </div>
+    <button id="fullscreen-button">🖵</button>
+
+    <!-- Unity loader -->
+    <script src="Build/RPGWithLLM.loader.js"></script>
+
+    <!-- Personnalisation après chargement -->
+    <script>
+        // Le loader.js va automatiquement appeler createUnityInstance et créer `unityInstance`
+        // On attend que ce soit prêt via le "promise" globalement exposé
+        if (typeof createUnityInstance !== 'undefined') {
+            let canvas = document.querySelector("#unity-canvas");
+            createUnityInstance(canvas, {
+                dataUrl: "Build/RPGWithLLM.data.unityweb",
+                frameworkUrl: "Build/RPGWithLLM.framework.js.unityweb",
+                codeUrl: "Build/RPGWithLLM.wasm.unityweb",
+                streamingAssetsUrl: "StreamingAssets",
+                companyName: "YourCompany",
+                productName: "RPG with LLM",
+                productVersion: "1.0.0",
+            }, (progress) => {
+                const bar = document.getElementById("progress-bar-fill");
+                bar.style.width = Math.round(progress * 100) + "%";
+            }).then((instance) => {
+                // Stockage de l'instance si besoin plus tard
+                window.unityInstance = instance;
+
+                // Cache l'écran de loading
+                document.getElementById("loading").style.display = "none";
+
+                // Gère le bouton plein écran
+                const fullscreenButton = document.getElementById("fullscreen-button");
+                fullscreenButton.onclick = () => {
+                    instance.SetFullscreen(1);
+                };
+            }).catch((error) => {
+                document.getElementById("loading").innerText = "Erreur de chargement Unity.";
+                console.error(error);
+            });
+        }
+    </script>
+</body>
+
+</html>

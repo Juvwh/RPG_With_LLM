@@ -1,0 +1,23 @@
+{
+  "playerName": "Patrick",
+  "playerAge": "10",
+  "playerRace": "Étoile de mer",
+  "playerClass": "",
+  "playerAdvantage": "Force physique, loyauté sans faille, optimisme et innocence, capacité à rester détendu en toutes circonstances.",
+  "playerDisadvantage": "Intelligence limitée, facilement distrait, parfois irresponsable et peu conscient des dangers.",
+  "playerDescription": "Patrick Star est un personnage cartoon en forme d'étoile de mer rose avec un corps large et trapu, portant un maillot de bain vert avec des fleurs violettes. Il a des petits yeux ronds et expressifs, une expression innocente et un grand sourire simple qui dégage un caractère joyeux et insouciant. Sa posture est relâchée, voire maladroite, et il doit apparaître amical et comique. L'arrière-plan devrait être une scène sous-marine colorée avec des coraux, des bulles et des plantes marines, capturant son ambiance détendue et joviale.",
+  "playerResume": "Patrick est un personnage optimiste et loyal, mais son intelligence limitée et son manque de conscience des dangers peuvent causer des problèmes.",
+  "playerArme": "Filet à méduses",
+  "playerArmePuissance": 0,
+  "playerSprite": {
+    "instanceID": 0
+  },
+  "playerInventaire": [],
+  "playerPosition": "",
+  "playerHealth": "",
+  "playerHealthNbr": 0,
+  "playerActions": [],
+  "playerAllHistory": "",
+  "playerTags": [],
+  "playerVision": 2
+}

@@ -1,0 +1,23 @@
+{
+  "playerName": "Bob",
+  "playerAge": "10",
+  "playerRace": "Eponge",
+  "playerClass": "Cuisinier",
+  "playerAdvantage": "Positivité inépuisable, grande énergie, optimisme sans faille, maîtrise des techniques de nettoyage, excellente aptitude à se faire des amis.",
+  "playerDisadvantage": "Parfois maladroit, trop naïf, se laisse facilement distraire.",
+  "playerDescription": "SpongeBob est une éponge de mer jaune avec des yeux ronds et un grand sourire. Il a un corps spongieux et poreux, avec des trous et des bosses. Il porte généralement un short rouge et une chemise blanche à manches courtes. Il a également un petit ami de mer rouge nommé Patrick, qui est souvent vu à ses côtés.",
+  "playerResume": "Bob est un personnage optimiste et énergique, qui se distingue par sa capacité à se faire des amis facilement. Cependant, il peut parfois être maladroit et trop naïf, et se laisse facilement distraire.",
+  "playerArme": "Spatule",
+  "playerArmePuissance": 0,
+  "playerSprite": {
+    "instanceID": 0
+  },
+  "playerInventaire": [],
+  "playerPosition": "",
+  "playerHealth": "",
+  "playerHealthNbr": 0,
+  "playerActions": [],
+  "playerAllHistory": "",
+  "playerTags": [],
+  "playerVision": 2
+}

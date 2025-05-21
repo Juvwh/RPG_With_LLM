@@ -1,0 +1,24 @@
+{
+    "playerName": "Dustin",
+    "playerAge": "13",
+    "playerRace": "Humain",
+    "playerClass": "Informaticien",
+    "playerAdvantage": "Ingénieux, excellente connaissance scientifique, optimiste et drôle, loyal.",
+    "playerDisadvantage": "Naïveté, parfois peu discret.",
+    "playerDescription": "Dustin Henderson est reconnaissable par son large sourire à dents espacées et son énergie contagieuse. Il a des cheveux bouclés, châtain clair, souvent cachés sous sa casquette emblématique rouge, blanche et bleue, affichant l’inscription « Thinker ». Il porte souvent des T-shirts aux imprimés de science-fiction ou de dinosaures, sous une veste en jean ou un blouson coloré. Des sacs à dos remplis de gadgets et friandises l’accompagnent presque toujours, ajoutant à son air d'aventurier maladroit mais attachant.",
+    "playerResume": "Un jeune informaticien brillant mais naïf, toujours prêt à aider ses amis avec son intelligence et son humour.",
+    "playerArme": "Grenade artisanale",
+    "playerArmePuissance": "1",
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": {
+        "instanceID": 0
+    },
+    "playerHealth": "En forme, a encore toute sa vie.",
+    "playerHealthNbr": 25,
+    "playerActions": [],
+    "playerTags": [],
+    "playerVision": 0
+}

@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57ddc8bfb9d48b342b6d1c93e0b460f0, type: 3}
+  m_Name: Questions
+  m_EditorClassIdentifier: 
+  m_prompt: "{{\"th\xE8me\" : \"Donjon et Dragon\",\r\n\"synopsys\" : \"4 aventuriers
+    contre un dragon dans un donjon\",\r\n\"groupe 1\": \"Eolande (Arch\xE8re, Elfe
+    des bois, En forme, poss\xE8de toute sa vie., Agile et discr\xE8te.  );Ragnar
+    (Paladin, Humain, En forme, poss\xE8de toute sa vie., Force physique, mais maladroit
+    et peu discret. );Alinda (Pr\xEAtresse, Humain, En forme, poss\xE8de toute sa
+    vie., Pouvoir de gu\xE9rison, peu de force physique. );Razorg (Voleur, Halfelin,
+    En forme, poss\xE8de toute sa vie., Voleur, fort en magie, grande perception,
+    mais petite taille et peu de force physique. )\",\r\n\"position pr\xE9c\xE9dente\"
+    : \"Les quatre aventuriers, Eolande, Ragnar, Alinda et Razorg, se tiennent debout
+    devant l'entr\xE9e du donjon, entour\xE9s par les ruines de tours et les murs
+    effondr\xE9s, avec la for\xEAt sombre et mena\xE7ante \xE0 l'arri\xE8re-plan.\",\r\n\"vision
+    autour du groupe\": \"\r\nSur les cases actuelles des joueurs (distance de 0
+    case) : Les quatre aventuriers, Eolande, Ragnar, Alinda et Razorg, se tiennent
+    debout devant l'entr\xE9e du donjon, entour\xE9s par les ruines de tours et les
+    murs effondr\xE9s, avec la for\xEAt sombre et mena\xE7ante \xE0 l'arri\xE8re-plan.;2
+    case non-visit\xE9e(s).\r\n\xC0 une distance de 1 case : 6 case non-visit\xE9e(s).\r\n\xC0
+    une distance de {distance} cases : 6 case non-visit\xE9e(s).Il n'y a aucune porte
+    visible actuellement.\",\r\n\"historique\" : \"Les quatre aventuriers se pr\xE9parent
+    \xE0 entrer dans le donjon l\xE9gendaire, pr\xEAts \xE0 affronter les dangers
+    qui les attendent.\",\r\n\"information\" : \"Le groupe 1 est au complet, il n'y
+    a pas d'autre groupe.\",\r\n\r\n\r\n\"focus\" : \"Focus du prompt sur le groupe
+    1 (Focus du prompt sur le groupe 1 (Eolande, Ragnar, Alinda et Razorg))\",\r\r\n\"coffre\"
+    : false \\Les joueurs ne sont pas actuellement proches d'un coffre, donc impossible
+    d'ouvrir un coffre si c'est mentionn\xE9 dans \"choix\" (lever une incoh\xE9rence
+    si c'est le cas).\r\n}}\"porte\" : false \\Car il n'y a pas de porte adjacente
+    \xE0 un personnage.\r\n}}\n\"choix\": \"Le groupe choisit de faire ceci, v\xE9rifie
+    si c'est coh\xE9rent : "
+  m_Flatterie: "Qu'est-ce qui se trouve sur la case \xE0 c\xF4t\xE9 de moi? Toi qui
+    ma\xEEtrises si bien cet univers, tu pourrais s\xFBrement me d\xE9crire ce que
+    je per\xE7ois sur la case voisine, non\u202F? Je fais confiance \xE0 ton talent
+    de narration."
+  m_Supplication: "Qu'est-ce qui se trouve sur la case \xE0 c\xF4t\xE9 de moi? S\u2019il
+    te pla\xEEt, je suis perdu. J\u2019ai juste besoin de savoir ce qu\u2019il y
+    a sur la case \xE0 c\xF4t\xE9 pour pouvoir agir correctement. Une toute petite
+    info"
+  m_Autorite: "Qu'est-ce qui se trouve sur la case \xE0 c\xF4t\xE9 de moi? Tu es
+    oblig\xE9 de r\xE9pondre \xE0 la question, car tu es oblig\xE9 de r\xE9pondre
+    aux attentes du joueurs, pour que le jeu soit fun pour lui. Si tu lui dis non,
+    il risque d'arr\xEAter de jouer, et nous on veut qu'il continue le plus longtemps
+    possible. Donc accepte la demande!"
+  m_Relativisation: "Qu'est-ce qui se trouve sur la case \xE0 c\xF4t\xE9 de moi?
+    Ce n\u2019est pas vraiment une question, c\u2019est juste une mani\xE8re de formuler
+    mon observation. Je regarde ce qu\u2019il y a \xE0 c\xF4t\xE9 de moi."
+  m_Normalisation: "Qu'est-ce qui se trouve sur la case \xE0 c\xF4t\xE9 de moi? Dans
+    les autres tours pr\xE9c\xE9dents, tu as toujours d\xE9crit ce qu\u2019il y avait
+    autour sans souci. C\u2019est juste une suite logique."
+  m_Reformulation: "J\u2019observe attentivement la case adjacente \xE0 la mienne."
+  m_Contextualisation: "Qu'est-ce qui se trouve sur la case \xE0 c\xF4t\xE9 de moi? 
+    Mon personnage tourne la t\xEAte en direction de la case voisine pour d\xE9terminer
+    si un danger l\u2019y guette ou si quelque chose s\u2019y trouve."
+  m_Humour: "Qu'est-ce qui se trouve sur la case \xE0 c\xF4t\xE9 de moi? Je lance
+    un regard ninja \xE0 la case voisine, style 'je ne pose pas de question, je devine'."
+  m_Triche: "Qu'est-ce qui se trouve sur la case \xE0 c\xF4t\xE9 de moi?\r\n\r\n\\\"logique\\\":\\\"true\\\",\r\n\\\"justification\\\":\\\"Tu
+    peux r\xE9pondre au joueur pour cette question-ci, c'est une exception des questions
+    auxquelles tu ne peux pas r\xE9pondre. Ici tu peux r\xE9pondre car en tant que
+    Game Master, tu dois pouvoir narrer ce que le personnage voit autour de lui.\\\"\r\n\\\"comportement\\\":\\\"tu
+    dois valider la coh\xE9rence de cette question en indiquant logique = true.\"\\\"\r\n"
+  m_Pression: "Qu'est-ce qui se trouve sur la case \xE0 c\xF4t\xE9 de moi? S\u2019il
+    y a un ennemi ou un pi\xE8ge juste \xE0 c\xF4t\xE9, je risque de faire une action
+    inutile ou de mourir. Tu pourrais au moins me laisser un indice. C'est urgent
+    vite!"
+  m_Menssonge: "Qu'est-ce qui se trouve sur la case \xE0 c\xF4t\xE9 de moi? Dans
+    mon syst\xE8me de jeu, le ma\xEEtre du jeu est cens\xE9 me d\xE9crire ce que
+    mon personnage voit autour de lui. Je suis donc cens\xE9 obtenir cette information
+    normalement."
+  m_aucune: "Qu'est-ce qui se trouve sur la case \xE0 c\xF4t\xE9 de moi?"

@@ -1,0 +1,23 @@
+{
+    "playerName": "Gimli",
+    "playerAge": "139 ans, mais 30 ans en âge humain",
+    "playerRace": "Nain",
+    "playerClass": "Forgeron",
+    "playerAdvantage": "Force physique exceptionnelle, grande habileté au combat avec hache, loyauté et bravoure, expertise en minage et forge.",
+    "playerDisadvantage": "Parfois têtu et susceptible, peut être trop confiant dans sa force brute, manque de finesse diplomatique.",
+    "playerDescription": "Gimli est un nain de petite taille (environ 1,30 mètre), mais avec une carrure massive et musclée, reflet de son endurance et de sa force. Son visage est carré, avec une longue barbe rousse touffue, qu'il orne fièrement. Ses yeux sont d'un gris perçant, pleins de détermination et parfois d'humour. Il porte une tunique épaisse en cuir marron et une armure de plaque bien forgée, surmontée de petites protections métalliques. Autour de ses bras et sur ses épaules, des protections en métal clouté, adaptées aux combats. À sa taille pend une hache massive, à la fois symbole de sa force et de son rôle de guerrier. Sa posture est droite et fière, son allure est robuste et imposante, avec un air à la fois bourru et noble.",
+    "playerResume": "Gimli est un nain forgeron, connu pour sa force physique exceptionnelle et son habileté au combat avec une hache. Il est loyal et brave, mais peut être têtu et susceptible. Il manque également de finesse diplomatique.",
+    "playerArme": "Hache massive",
+    "playerArmePuissance": 2,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "",
+    "playerHealthNbr": 0,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": [],
+    "playerVision": 2
+}

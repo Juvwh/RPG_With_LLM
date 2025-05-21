@@ -1,0 +1,22 @@
+{
+    "playerName": "Sacha",
+    "playerAge": "10",
+    "playerRace": "Humain",
+    "playerClass": "Dresseur",
+    "playerAdvantage": "Détermination sans faille, excellent tacticien pour les combats Pokémon, empathie pour ses Pokémon, esprit d'équipe.",
+    "playerDisadvantage": "Parfois impulsif, manque d'expérience, trop confiant, naïveté.",
+    "playerDescription": "Ash Ketchum dans Pokémon. Ash Ketchum a des cheveux noirs éparsement en piques, un peu éparpillés sous sa casquette rouge et blanche, qu'il porte toujours à l'envers. Il est de petite taille, avec un regard vif et déterminé. Il porte un gilet bleu sans manches par-dessus un T-shirt vert et un pantalon de couleur kaki. Il est toujours prêt pour l'aventure, avec des gants sans doigts et des baskets confortables. Son sac à dos est rempli de fournitures et ses poches regorgent d'objets pour ses Pokémon. Sa posture et son sourire montrent un jeune garçon toujours prêt à relever de nouveaux défis, entouré de son énergie sans fin. Style Pokémon.",
+    "playerResume": "Sacha est un jeune dresseur de Pokémon déterminé et empathique, avec une excellente capacité à tactiquer lors des combats. Cependant, il peut être impulsif, manque d'expérience et est parfois trop confiant, ce qui peut le mener à des situations délicates.",
+    "playerArme": "Une pokéball",
+    "playerArmePuissance": 0,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "En forme, a encore toute sa vie.",
+    "playerHealthNbr": 100,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": []
+}

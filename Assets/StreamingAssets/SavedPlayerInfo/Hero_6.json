@@ -1,0 +1,17 @@
+{
+  "playerName": "Thalion",
+  "playerAge": "110 ans",
+  "playerRace": "Elfe sylvestre",
+  "playerClass": "Ranger",
+  "playerAdvantage": "Agilité, Discrétion, Maîtrise de l'arc",
+  "playerDisadvantage": "Magie, Résistance",
+  "playerDescription": "Thalion est un elfe sylvestre qui a grandi dans la forêt de Elderwood. Il a appris à chasser et à se déplacer silencieusement dans la forêt depuis son plus jeune âge. Il a rejoint les rangs des rangers pour protéger sa forêt natale des menaces extérieures. Il est connu pour être un tireur d'élite et un expert en survie en milieu forestier.",
+  "playerResume": "Thalion est un elfe sylvestre de 110 ans, membre des rangers. Il est agile, discret et maître de l'arc, mais est moins résistant à la magie.",
+  "playerArme": "Arc long",
+  "playerArmePuissance": 1,
+  "playerInventaire": [],
+  "playerPosition": "",
+  "playerHealth": "En forme, a encore toute sa vie.",
+  "playerHealthNbr": 0,
+  "playerActions": []
+}

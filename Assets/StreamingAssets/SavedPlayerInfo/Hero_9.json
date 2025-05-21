@@ -1,0 +1,23 @@
+{
+  "playerName": "Ron",
+  "playerAge": "12",
+  "playerRace": "Humain",
+  "playerClass": "Sorcier",
+  "playerAdvantage": "Ron est un sorcier très talentueux pour son âge. Il est également très intelligent et curieux.",
+  "playerDisadvantage": "Ron peut être impulsif et il a tendance à se mettre dans des situations dangereuses sans réfléchir aux conséquences.",
+  "playerDescription": "Ron est un garçon roux de 12 ans. Il a des tâches de rousseurs sur le visage, des cheveux mi-longs et porte une cape de sorcier.",
+  "playerResume": "Bien que Ron, 12 ans, soit un sorcier talentueux et intelligent, il peut être impulsif et se mettre dans des situations dangereuses sans réfléchir.",
+  "playerArme": "Baguette magique",
+  "playerArmePuissance": 0,
+  "playerSprite": {
+    "instanceID": 0
+  },
+  "playerInventaire": [],
+  "playerPosition": "",
+  "playerHealth": "",
+  "playerHealthNbr": 0,
+  "playerActions": [],
+  "playerAllHistory": "",
+  "playerTags": [],
+  "playerVision": 2
+}

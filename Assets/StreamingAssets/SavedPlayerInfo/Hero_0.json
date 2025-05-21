@@ -1,0 +1,21 @@
+{
+    "playerName": "Balt'our",
+    "playerAge": "500 ans",
+    "playerRace": "Dragon noir",
+    "playerClass": "Seigneur dragon",
+    "playerAdvantage": "Force, Vol, Magie dragon",
+    "playerDisadvantage": "Vitesse, Agilité, Résistance aux armes non magiques",
+    "playerDescription": "Balt'our est un dragon noir, qui possède des cornes en or et des yeux verts luisants.",
+    "playerResume": "Balt'our est un dragon noir âgé de 500 ans, qui est un seigneur dragon puissant et magique, mais qui est lent et peu agile. Il est imprévisible et colérique, mais aussi respecté pour sa force et son intelligence.",
+    "playerArme": "Souffle de feu (1d8)",
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "En forme, a encore toute sa vie.",
+    "playerHealthNbr": 100,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": []
+}

@@ -1,0 +1,14 @@
+{
+  "playerName": "Eolande",
+  "playerAge": "200 ans",
+  "playerRace": "Elfe des bois",
+  "playerClass": "Archère",
+  "playerAdvantage": "Agilité, Discrétion, Connaissance de la nature",
+  "playerDisadvantage": "Magie, Résistance",
+  "playerDescription": "Eolande est un elfe des bois qui a passé la majeure partie de sa vie dans la forêt de Eldar. Elle est une experte de la survie en milieu naturel et est capable de se déplacer silencieusement dans les bois. Elle est également une archère émérite et est capable de chasser les proies les plus difficiles. Elle a quitté sa forêt natale pour explorer le monde et protéger les forêts menacées par les humains.",
+  "playerResume": "Agile et discrète.",
+  "playerArme": "Arc long",
+  "playerArmePuissance": 1,
+  "playerHealth": "En forme, a encore toute sa vie.",
+  "playerVision": 2
+}

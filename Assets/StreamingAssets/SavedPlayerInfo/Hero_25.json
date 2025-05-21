@@ -1,0 +1,23 @@
+{
+    "playerName": "Yumi",
+    "playerAge": "14",
+    "playerRace": "Humaine",
+    "playerClass": "Ninjasque",
+    "playerAdvantage": "Agilité exceptionnelle, grande maîtrise des arts martiaux, tacticienne, calme sous pression.",
+    "playerDisadvantage": "Parfois distante, tendance à garder ses émotions pour elle, peut être un peu trop sérieuse.",
+    "playerDescription": "Une jeune fille aux longs cheveux noirs attachés en une haute queue de cheval, avec quelques mèches rebelles encadrant son visage. Elle a des yeux bruns perçants qui trahissent sa détermination et sa confiance en elle. Elle porte un top noir moulant avec des accents rouges sur les épaules et les poignets, conçu pour l'agilité. Sa tenue présente des motifs numériques subtils qui luisent faiblement, lui donnant un aspect high-tech. Le personnage semble prêt à l'action, dégageant à la fois de la force et de la grâce.",
+    "playerResume": "Yumi est une ninjasque humaine de 14 ans qui se distingue par son agilité exceptionnelle, sa grande maîtrise des arts martiaux, sa capacité à faire preuve de tactique et de calme sous pression. Cependant, elle peut parfois être distante et garder ses émotions pour elle, ce qui peut la rendre un peu trop sérieuse.",
+    "playerArme": "Eventails de combats",
+    "playerArmePuissance": 1,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "En forme, a encore toute sa vie.",
+    "playerHealthNbr": 100,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": [],
+    "playerVision": 2
+}

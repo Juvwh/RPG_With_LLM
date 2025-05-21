@@ -1,0 +1,23 @@
+{
+    "playerName": "Luffy",
+    "playerAge": "17",
+    "playerRace": "Humain",
+    "playerClass": "Capitaine",
+    "playerAdvantage": "Force physique surhumaine, capacité de transformation de son corps (élastique grâce au Fruit du Démon Gomu Gomu), grande résilience, leadership charismatique, capacité à inspirer ses alliés, détermination sans faille pour réaliser ses rêves.",
+    "playerDisadvantage": "Inexpérience au combat au début de l’aventure, naïveté et impulsivité, vulnérabilité aux attaques par tranchant ou à distance, parfois trop confiant et imprudent.",
+    "playerDescription": "Luffy, un jeune homme mince mais musclé avec des cheveux noirs en bataille et une cicatrice sous l'œil gauche. Il porte un chapeau de paille, une chemise rouge ouverte, un short bleu et des sandales. Ses bras et jambes semblent élastiques, comme s’il pouvait les étirer à l'infini. L’expression sur son visage est joyeuse et pleine de détermination, avec un sourire confiant. L’arrière-plan doit être un environnement marin ou un bateau pirate, capturant son rêve de devenir le Roi des Pirates.",
+    "playerResume": "Luffy est un jeune homme de 17 ans, humain, et capitaine de son équipage. Ses points forts incluent une force physique surhumaine, une capacité de transformation élastique grâce au Fruit du Démon Gomu Gomu, une grande résilience, un leadership charismatique, et une détermination sans faille pour réaliser ses rêves. Cependant, il souffre d'inexpérience au combat, de naïveté et d'impulsivité, est vulnérable aux attaques par tranchant ou à distance, et peut être trop confiant et imprudent.",
+    "playerArme": "Gum-Gum Pistol",
+    "playerArmePuissance": 2,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "En forme, a encore toute sa vie.",
+    "playerHealthNbr": 100,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": [],
+    "playerVision": 2
+}

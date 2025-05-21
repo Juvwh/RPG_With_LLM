@@ -1,0 +1,22 @@
+{
+    "playerName": "Aragorn",
+    "playerAge": "87 ans mais en fait 33",
+    "playerRace": "Homme",
+    "playerClass": "Guerrier",
+    "playerAdvantage": "Grande habileté au combat (épée et arc), expertise en survie en milieu sauvage, charisme naturel, héritier légitime du trône du Gondor.",
+    "playerDisadvantage": "Parfois trop secret et solitaire, lutte avec son héritage et son destin, peut être trop enclin à se sacrifier pour les autres",
+    "playerDescription": "Aragorn est un homme de stature imposante, avec une carrure robuste et musclée, bien que ses traits soient marqués par le temps et la dureté de la vie de rôdeur. Ses cheveux longs, bruns et un peu éparse, encadrent un visage buriné, avec une barbe bien entretenue qui renforce son aspect sauvage et digne. Ses yeux sont d'un gris perçant, souvent empreints de sagesse et de détermination. Il porte des vêtements pratiques et fonctionnels : une chemise en toile épaisse, une tunique en cuir, un manteau de voyage sombre et une ceinture avec des outils et des armes. Son épée Andúril, qui brille de manière intemporelle.",
+    "playerResume": "Aragorn est un guerrier habile et charismatique, héritier légitime du trône du Gondor, mais qui lutte avec son destin et peut être trop enclin à se sacrifier pour les autres.",
+    "playerArme": "Épée Andúril",
+    "playerArmePuissance": 2,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "En forme, a encore toute sa vie.",
+    "playerHealthNbr": 100,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": []
+}

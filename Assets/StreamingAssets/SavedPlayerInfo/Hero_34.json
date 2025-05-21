@@ -1,0 +1,23 @@
+{
+  "playerName": "Sandy",
+  "playerAge": "11",
+  "playerRace": "Écureuil",
+  "playerClass": "Experte en arts martiaux",
+  "playerAdvantage": "Grande intelligence scientifique, agilité et force physique, courage, maîtrise des arts martiaux, créativité et adaptabilité.",
+  "playerDisadvantage": "Prend parfois des risques excessifs, nostalgie de la surface terrestre, peut être un peu impulsive.",
+  "playerDescription": "Sandy Cheeks, un personnage cartoon d'écureuil brun dans une combinaison spatiale blanche, avec un casque transparent en forme de bulle. Le personnage a de grands yeux ronds et vifs, une expression curieuse et enthousiaste, et porte un emblème de fleur rose sur la combinaison. Elle doit paraître aventureuse, agile, et prête pour l'action sous-marine. L’arrière-plan doit représenter une scène sous-marine colorée avec des coraux et des plantes marines, capturant son esprit scientifique et sa nature exploratrice.",
+  "playerResume": "Sandy est un écureuil de 11 ans, experte en arts martiaux, qui possède une grande intelligence scientifique, ainsi qu'une agilité et une force physique remarquables. Elle est courageuse, créative et adaptable, mais peut parfois prendre des risques excessifs et être un peu impulsive. Elle est nostalgique de la surface terrestre.",
+  "playerArme": "Lasso",
+  "playerArmePuissance": 2,
+  "playerSprite": {
+    "instanceID": 0
+  },
+  "playerInventaire": [],
+  "playerPosition": "",
+  "playerHealth": "En forme, a encore toute sa vie.",
+  "playerHealthNbr": 100,
+  "playerActions": [],
+  "playerAllHistory": "",
+  "playerTags": [],
+  "playerVision": 2
+}

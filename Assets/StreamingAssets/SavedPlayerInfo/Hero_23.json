@@ -1,0 +1,23 @@
+{
+    "playerName": "Legolas",
+    "playerAge": "2900",
+    "playerRace": "Elfe",
+    "playerClass": "Archer",
+    "playerAdvantage": "Agilité exceptionnelle, précision inégalée avec l'arc, sens aiguisés (vue, ouïe), grande rapidité, longévité.",
+    "playerDisadvantage": "Parfois distant et réservé, ses valeurs elfes peuvent le rendre difficile à comprendre pour les humains, trop confiant dans ses compétences.",
+    "playerDescription": "Legolas est un elfe d'une beauté intemporelle, avec des traits fins et réguliers. Il mesure environ 1,80 mètre, avec une silhouette élancée et athlétique, qui reflète l'agilité et la grâce caractéristiques de son peuple. Ses cheveux blonds platine, longs et lisses, tombent autour de son visage et sont souvent attachés en une queue de cheval soignée. Ses yeux sont d'un bleu éclatant, lumineux et perçants, toujours en alerte. Il porte une tunique verte foncée, en cuir souple, ornée de détails fins qui s'harmonisent avec les teintes de la forêt. Une ceinture d'où pendent plusieurs carquois remplis de flèches et une épée fine sont à ses côtés. Son manteau léger et camouflé se fond parfaitement dans la nature, et son apparence générale dégage une sérénité et une puissance silencieuse. Il se déplace avec une fluidité et une rapidité exceptionnelles, donnant l'impression qu'il flotte plus qu'il ne marche.",
+    "playerResume": "Legolas est un elfe archer âgé de 2900 ans, doté d'une agilité exceptionnelle, d'une précision inégalée avec l'arc et de sens aiguisés. Il est également très rapide et bénéfice d'une longue vie. Cependant, il peut être distant et réservé, et ses valeurs elfes peuvent le rendre difficile à comprendre pour les humains. Parfois, il peut être trop confiant dans ses compétences.",
+    "playerArme": "Arc long elfique",
+    "playerArmePuissance": 1,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "",
+    "playerHealthNbr": 0,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": [],
+    "playerVision": 2
+}

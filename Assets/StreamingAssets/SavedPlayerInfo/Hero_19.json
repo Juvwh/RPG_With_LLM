@@ -1,0 +1,23 @@
+{
+    "playerName": "Ondine",
+    "playerAge": "11",
+    "playerRace": "Humaine",
+    "playerClass": "Dresseuse",
+    "playerAdvantage": "Grande affinité avec les Pokémon d'eau, excellente stratège en combat, passionnée, déterminée et confiante.",
+    "playerDisadvantage": "Tendance à être impulsive et parfois un peu emportée, peut être arrogante envers ceux qui ne partagent pas sa passion.",
+    "playerDescription": "Misty in Pokémon. Misty a de longs cheveux roux, orange et brillants, souvent attachés en une queue de cheval haute, encadrant son visage avec des mèches qui tombent légèrement sur ses joues. Elle porte un top bleu sans manches, un short rouge et une ceinture de dresseuse, avec des sandales blanches, donnant un look sportif et adapté à ses aventures. Ses yeux sont d'un bleu vif, correspondant à son amour pour les Pokémon d'eau. Son expression est souvent déterminée ou enthousiaste.",
+    "playerResume": "Ondine est une jeune dresseuse de 11 ans, passionnée et déterminée, avec une grande affinité avec les Pokémon d'eau et une excellente stratégie en combat. Cependant, elle peut être impulsive et arrogante envers ceux qui ne partagent pas sa passion.",
+    "playerArme": "Fouet en algues",
+    "playerArmePuissance": 0,
+    "playerSprite": {
+        "instanceID": 0
+    },
+    "playerInventaire": [],
+    "playerPosition": "",
+    "playerHealth": "En forme, a encore toute sa vie.",
+    "playerHealthNbr": 100,
+    "playerActions": [],
+    "playerAllHistory": "",
+    "playerTags": [],
+    "playerVision": 2
+}

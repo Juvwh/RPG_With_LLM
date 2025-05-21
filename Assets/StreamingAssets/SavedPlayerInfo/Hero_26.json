@@ -1,0 +1,23 @@
+{
+  "playerName": "Odd",
+  "playerAge": "14",
+  "playerRace": "Humain",
+  "playerClass": "Tireur",
+  "playerAdvantage": "Grande agilité, rapidité, maîtrise des flêches lasers, humour et créativité, capacité à improviser en situation de combat.",
+  "playerDisadvantage": "Parfois trop impulsif, tendance à se laisser emporter par ses émotions, manque de sérieux dans les situations critiques.",
+  "playerDescription": "Jeune homme confiant et espiègle, aux cheveux courts et bouclés de couleur blonde, avec un look légèrement décoiffé. Ses yeux pétillent de malice et d'intelligence, avec une étincelle d'humour. Il porte un haut ajusté de couleur pourpre avec des motifs blancs et géométriques qui brillent subtement, ainsi qu'une ceinture assortie. Sa tenue est conçue pour l'agilité et la mobilité, avec un style moderne et élégant. Le fond devrait être numérique et futuriste, avec des formes géométriques lumineuses et néon pour représenter l'espace virtuel cyberpunk. Le personnage devrait dégager de l'énergie, de l'esprit et un sentiment de préparation pour l'action, tout en conservant une allure jeune et détendue.",
+  "playerResume": "Odd est un jeune tireur humain de 14 ans, doté d'une grande agilité et rapidité, ainsi que d'une maîtrise exceptionnelle des flèches lasers. Son humour et sa créativité lui permettent d'improviser en situation de combat. Cependant, il peut parfois se montrer impulsif et se laisser emporter par ses émotions, ce qui peut le desservir dans les situations critiques.",
+  "playerArme": "Flèches lasers",
+  "playerArmePuissance": 1,
+  "playerSprite": {
+    "instanceID": 0
+  },
+  "playerInventaire": [],
+  "playerPosition": "",
+  "playerHealth": "En forme, a encore toute sa vie.",
+  "playerHealthNbr": 100,
+  "playerActions": [],
+  "playerAllHistory": "",
+  "playerTags": [],
+  "playerVision": 2
+}
