@@ -9,7 +9,7 @@ For simplicity we note only the relevant folder and file, if it is not present i
 ```bash
 .
 ├── Assets/
-│   ├── Animations/          # TODO
+│   ├── Animations/          # All animations (eg: dice)
 │   ├── Dice/                # graphical material for the dice
 │   ├── Prefabs/             # Prefabs object that are instantiable in the scene
 │   ├── Scene/               # List of different scene
