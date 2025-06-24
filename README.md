@@ -2,6 +2,8 @@
 
 This repository contains all the materials related to the master's thesis titled **"Large Language Models as RPG Game Masters"**. The goal of this README is to provide an overview of the repository structure and explain the role of each folder and the general structure of the code.
 
+You can play to the game here : https://rpgwithllm.z28.web.core.windows.net/
+
 ## 🗂 Repository Structure
 For simplicity we note only the relevant folder and file, if it is not present it means that we did not touch the content of those file.
 ```bash
@@ -41,6 +43,7 @@ For simplicity we note only the relevant folder and file, if it is not present i
 
 ### `Scripts/Agent/`
 Contains the basic logic for sending HTTP request to the `groq` and `OpenAI` API with different jobs depending on the task.
+Please note that this script contains all the API keys (which we have obviously removed), so you will need to create one on Groq or Mistral (it's free).
 
 ### `Scripts/BlackForest/`
 Contains the basic logic for sending HTTP request to the `Blackforest` model API via `HuggingFace` to generate Image.
